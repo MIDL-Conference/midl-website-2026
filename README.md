@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e926aacd-542e-465c-87c5-e6df372e00b6/deploy-status)](https://app.netlify.com/sites/midl-2023-fe2b05/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d2989f9-1bbf-4224-92db-a828781511b9/deploy-status)](https://app.netlify.com/sites/midl-2026/deploys)
 
 # MIDL 2026 (Taipei) website
 
