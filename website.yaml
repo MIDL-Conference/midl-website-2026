@@ -18,7 +18,7 @@ show_platform_icons: yes
 summary: "The Medical Imaging with Deep Learning conference will be held in Salt Lake City in 2026"
 opengraph:
   description: "Medical Imaging with Deep Learning conference 2026"
-  image: "/images/midl-25-archves.jpg"
+  image: "/images/Taipei1_small.jpg"
 
 nav:
   - title: "Home"

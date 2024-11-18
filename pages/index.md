@@ -1,5 +1,5 @@
 ---
-title: Medical Imaging with Deep Learning 2025
+title: Medical Imaging with Deep Learning 2026
 page_class: home
 ---
 {% from "_macros.html" import newsletter %}
@@ -8,7 +8,7 @@ page_class: home
 ## Taipei, XX—XX July 2026
 
 <p class="primary-photo centered">
-    <img alt="Utah" src="/images/AdobeStock_59103108_Preview.jpeg">
+    <img alt="Utah" src="/images/Taipei1_small.jpg">
 </p>
 
 {{ newsletter("2026.midl.io", inline=False) }}
