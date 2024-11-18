@@ -1,0 +1,31 @@
+title: "MIDL 2026"
+date: "XX—XX July 2026"
+theme: "midl-website-theme"
+primary-color: "#800080"
+content: "pages"
+
+www: "https://2026.midl.io"
+email: "2026@midl.io"
+twitter: "midl_conference"
+youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
+github: "MIDL-Conference"
+
+show_twitter_button: no
+show_twitter_feed: no
+num_tweets_in_feed: 1
+show_platform_icons: yes
+
+summary: "The Medical Imaging with Deep Learning conference will be held in Salt Lake City in 2026"
+opengraph:
+  description: "Medical Imaging with Deep Learning conference 2026"
+  image: "/images/midl-25-archves.jpg"
+
+nav:
+  - title: "Home"
+    path: "/"
+    icon: "home"
+  - title: "Aims and scope"
+    path: "/aims-and-scope.html"
+    icon: "lightbulb"
+
+cdn: "https://static.midl.io"
