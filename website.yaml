@@ -27,5 +27,8 @@ nav:
   - title: "Aims and scope"
     path: "/aims-and-scope.html"
     icon: "lightbulb"
+  - title: "Organization"
+    path: "/organization.html"
+    icon: "users"
 
 cdn: "https://static.midl.io"
