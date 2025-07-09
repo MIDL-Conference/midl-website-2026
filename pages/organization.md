@@ -7,7 +7,7 @@ title: "Organization"
 ## Conference General Chairs
 
 * Chang-Fu Kuo, MD/PhD - Chang Gung Memorial Hospital
-* Le Lu, PhD – DAMO Academy, Alibaba Group
+* Le Lu, PhD – Ant Group
 * Tzuchen Yen, MD/PhD - Chang Gung Memorial Hospital
 * Kensaku Mori, PhD - Nagoya University
 
