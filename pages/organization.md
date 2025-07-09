@@ -6,21 +6,21 @@ title: "Organization"
 
 ## Conference General Chairs
 
-* Chang-Fu Kuo, MD/PhD - Chang Gung Memorial Hospital, Taiwan, ROC
-* Le Lu, PhD – DAMO Academy, Alibaba Group, USA
-* Tzuchen Yen, MD/PhD - Chang Gung Memorial Hospital, Taiwan, ROC
-* Kensaku Mori, PhD - Nagoya University, Japan
+* Chang-Fu Kuo, MD/PhD - Chang Gung Memorial Hospital
+* Le Lu, PhD – DAMO Academy, Alibaba Group
+* Tzuchen Yen, MD/PhD - Chang Gung Memorial Hospital
+* Kensaku Mori, PhD - Nagoya University
 
 ## Program Chairs
-* Yuankai Huo (PhD, Vanderbilt University, USA)
-* Mingchen Gao (PhD, University at Buffalo, USA)
-* Chang-Fu Kuo (MD/PhD - Chang Gung Memorial Hospital, Taiwan, ROC)
-* Wen-Huang Cheng (PhD, National Taiwan University, Taiwan, ROC)
-* Yueming Jin (PhD, National University of Singapore, Singapore)
+* Yuankai Huo, PhD - Vanderbilt University
+* Mingchen Gao, PhD - University at Buffalo
+* Chang-Fu Kuo, MD/PhD - Chang Gung Memorial Hospital
+* Wen-Huang Cheng, PhD - National Taiwan University
+* Yueming Jin, PhD - National University of Singapore
 
 ## Satellite Event Chair
-* Bennett Landman (PhD, Vanderbilt University, USA)
+* Bennett Landman, PhD - Vanderbilt University
 
 ## Local Arrangement Chair, website, and others
-* Chi-Tung Cheng (MD/PhD - Chang Gung Memorial Hospital, Taiwan, ROC)
-* Chein-Hung Liao (MD/PhD - Chang Gung Memorial Hospital, Taiwan, ROC)
+* Chi-Tung Cheng, MD/PhD - Chang Gung Memorial Hospital
+* Chein-Hung Liao, MD/PhD - Chang Gung Memorial Hospital
