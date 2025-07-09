@@ -9,7 +9,6 @@ page_class: home
 
 ## Conference Venue: NTUH International Convention Center
 * No. 2, Xuzhou Rd., Zhongzheng Dist., Taipei City 100025, Taiwan 
-* https://maps.app.goo.gl/Er7ahKC5WNRYJkPF7
 
 ## Paper submission deadline: 12/05/2025 
 * much earlier than MIDL 2025. Final acceptance decision will be made by early February 2026.
