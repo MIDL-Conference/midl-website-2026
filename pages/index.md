@@ -11,8 +11,8 @@ page_class: home
 * No. 2, Xuzhou Rd., Zhongzheng Dist., Taipei City 100025, Taiwan (R.O.C.)
 
 ## Paper submission deadline: 12/05/2025 
-* much earlier than MIDL 2025. Final acceptance decision will be made by early February 2026.
-* more infos will follow ..
+* Significantly ahead of MIDL 2025, with final acceptance decisions expected by mid-February 2026.
+* More infos will follow ..
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/Taipei1_small.jpg">
