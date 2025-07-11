@@ -7,7 +7,7 @@ page_class: home
 # Medical Imaging with Deep Learning
 ## Taipei, 08—10 July 2026
 
-## Paper submission deadline: 12/05/2025 
+## Paper submission deadline: 2025/12/05
 * Significantly ahead of MIDL 2025, with final acceptance decisions expected by mid-February 2026.
 * More infos will follow ..
 
