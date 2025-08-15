@@ -17,6 +17,7 @@ title: "Organization"
 * Chang-Fu Kuo, MD/PhD - Chang Gung Memorial Hospital
 * Wen-Huang Cheng, PhD - National Taiwan University
 * Yueming Jin, PhD - National University of Singapore
+* Ruining Deng, PhD - Weill Cornell Medicine
 
 ## Satellite Event Chair
 * Bennett Landman, PhD - Vanderbilt University
