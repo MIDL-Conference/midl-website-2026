@@ -22,6 +22,9 @@ title: "Organization"
 ## Satellite Event Chair
 * Bennett Landman, PhD - Vanderbilt University
 
-## Local Arrangement Chair, website, and others
+## Local Arrangement Chairs
 * Chi-Tung Cheng, MD/PhD - Chang Gung Memorial Hospital
 * Chein-Hung Liao, MD/PhD - Chang Gung Memorial Hospital
+
+## Website and Media Chair
+* Yibing Fu, - National University of Singapore 
