@@ -6,7 +6,7 @@ title: Call for Papers
 
 # Call for Papers
 
-We invite contributions to the 9th edition of Medical Imaging with Deep Learning (MIDL 2026), to be held in Taipei, Taiwan, China, from July 8–10, 2026. This premier event brings together deep learning researchers, clinicians, and healthcare industry professionals to explore the frontier of machine learning in medical image analysis. MIDL 2026 will offer both in-person attendance and free online streaming.
+We invite contributions to the 9th edition of Medical Imaging with Deep Learning (MIDL 2026), to be held in Taipei, Taiwan, ROC, from July 8–10, 2026. This premier event brings together deep learning researchers, clinicians, and healthcare industry professionals to explore the frontier of machine learning in medical image analysis. MIDL 2026 will offer both in-person attendance and free online streaming.
 
 This year, we are pleased to announce a **dual emphasis on both advanced methodological papers and clinically focused papers** that showcase the application of cutting-edge AI techniques in addressing clinical challenges and translating these methods into practice. We encourage submissions that demonstrate robust validation studies and clinical relevance alongside novel methodological advances.
 
