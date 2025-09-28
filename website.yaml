@@ -30,5 +30,11 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
-
+  - title: "Call for Papers"
+    path: "/call-for-papers.html"
+    icon: "bullhorn" 
+  - title: "Dates"
+    path: "/dates.html"
+    icon: "calendar" 
+    
 cdn: "https://static.midl.io"
