@@ -47,7 +47,9 @@ These submissions are **limited to 3 pages, excluding references**. You may incl
 
 ### Paper Template and Submission Platform 
 
-Details about the submission template and instructions can be [here](https://github.com/MIDL-Conference/MIDLLatexTemplate). Submissions should be made through [OpenReview](https://openreview.net/group?id=MIDL.io/2026/Conference).
+Details about the submission template and instructions can be [here](https://github.com/MIDL-Conference/MIDLLatexTemplate). 
+
+<!-- Submissions should be made through [OpenReview](https://openreview.net/group?id=MIDL.io/2026/Conference). -->
 
 For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
@@ -82,9 +84,9 @@ While the title and abstract can still be changed after the registration deadlin
 * **Camera-ready deadline** 1 May 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
-<p class="button">
+<!-- <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">Full Paper OpenReview Platform</a>
-</p>
+</p> -->
 
 ### Short Papers
 [% .deadlines %]
@@ -93,9 +95,9 @@ While the title and abstract can still be changed after the registration deadlin
 * **Camera-ready deadline** 1 June 2025 -->
 * To be announced
 [% / %]
-<p class="button">
+<!-- <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
-</p>
+</p> -->
 
 ### Conference Dates
 [% .deadlines %]
