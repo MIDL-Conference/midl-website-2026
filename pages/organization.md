@@ -23,8 +23,8 @@ title: "Organization"
 * Bennett Landman, PhD - Vanderbilt University
 
 ## Senior PC Advisory Committee Chairs
-* Lisa Koch, Ph.D., University of Bern and Bern University Hospital
-* Chen Chen, Ph.D., the Department of Computer Science, University of Sheffield
+* Lisa Koch, PhD. -  University of Bern and Bern University Hospital
+* Chen Chen, PhD  -  University of Sheffield
 
 ## Local Arrangement Chairs
 * Chi-Tung Cheng, MD/PhD - Chang Gung Memorial Hospital
