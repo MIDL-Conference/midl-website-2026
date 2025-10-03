@@ -29,7 +29,7 @@ MIDL has a large scope including all areas where deep learning is used to analyz
 * Safe and trustworthy learning-assisted solutions for medical imaging
 * Validation studies and deep learning applications across various medical specialties such as radiology, pathology, endoscopy, dermatology, ophthalmology, and more.
 
-Inquiries to the chairs can be addressed directly to [2026@midl.io](mailto:2026@midl.io).
+Inquiries to the program chairs can be addressed directly to [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
 ## Submission Guidelines
 
