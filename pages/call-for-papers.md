@@ -72,22 +72,26 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 
 
 **For Authors**:
+
 - Permitted uses: LLMs and other assistive tools may be used only for minor language editing, such as grammar, spelling, or formatting.
 - Prohibited uses: Generating research ideas, study designs, analyses, results, or substantive text with an LLM is not allowed. All scientific contributions must originate from the authors.
 - Responsibility: Authors are accountable for the accuracy, originality, and ethical standards of their manuscript, regardless of which tools they used. LLMs may not be credited as authors.
 - Data & privacy: Some tools store or reuse text for model training. Authors should avoid entering sensitive or unpublished data into third-party services unless appropriate safeguards are in place.
 
 **For Reviewers, Area Chairs, and Program Chairs**:
+
 - The review process is confidential. Submissions, code, or supplementary materials must not be shared with LLMs or any external service.
 - Reviewers may use public resources or grammar aids to improve clarity, provided no confidential material is exposed.
 - Reviewers remain responsible for the accuracy and fairness of their assessments.
 
 **General Guidance**:
+
 - LLMs must never replace authors’ or reviewers’ critical thinking, due diligence, or validation of references and claims.
 - Only humans may be listed as authors, reviewers, or organizers.
 - Violations may result in desk rejection, withdrawal after acceptance, or other corrective actions.
 
 **Visibility & Publication**
+
 - Submissions will not be publicly visible on OpenReview before the camera-ready deadline.
 - Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
 - We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance.
