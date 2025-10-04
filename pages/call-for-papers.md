@@ -31,7 +31,7 @@ Building on its tradition of fostering both algorithmic innovation and clinical 
 
 Inquiries to the program chairs can be addressed directly to [2026@midl.io](mailto:2026@midl.io).
 
-## Submission Guidelines
+# Submission Guidelines
 
 MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
@@ -44,7 +44,7 @@ All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-C
 
 Short Papers (**≤ 3 pages**, excluding references) may present early ideas or discuss recent/submitted journal work. Accepted short papers will be presented as posters or spotlights.
 
-For inquiries, please contact the program chairs at pc@2026.midl.io.
+For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
 
 ### Validation Studies (Special Track)
@@ -59,7 +59,7 @@ Submissions may be up to 14 pages (excluding references). Reviews will assess th
 
 To encourage careful preparation and allow for sensitive data handling, Validation Studies submissions will not be publicly visible on OpenReview until after the camera-ready deadline.
 
-### Policies
+# Policies
 **Authorship Policy**
 - The author list **must be final** at the time of submission.
 - Additions, removals, or order changes after the submission deadline are **not permitted** (except minor spelling or affiliation corrections approved by the Program Chairs).
@@ -93,7 +93,7 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 Join us in Taipei, Taiwan, ROC for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
 
   
-## Submission Timeline
+# Submission Timeline
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
