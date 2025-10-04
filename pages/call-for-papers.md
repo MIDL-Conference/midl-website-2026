@@ -52,9 +52,11 @@ For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@
 **NEW for MIDL 2026**: The Validation Studies track debuts this year, offering a dedicated venue for rigorously evaluated deep learning methods in biomedical imaging, with an emphasis on robustness, reproducibility, and translational relevance.
 
 Submissions should showcase well-designed experiments, external validations, and evidence of generalization across datasets, institutions, or patient populations.
+
 Scope includes multi-center or multi-site evaluations, fairness, reliability, and robustness studies, head-to-head algorithm comparisons, clinical utility assessments, prospective/retrospective studies, observer studies, or workflow integration, as well as systematic reviews or meta-analyses that provide new insights into translational challenges.
 
 Private data may be included where ethically justified, but reproducibility on a public dataset or with an openly described protocol is strongly encouraged.
+
 Submissions may be up to 14 pages (excluding references). Reviews will assess the clarity and soundness of the study design, the appropriateness of metrics and statistical analyses, the transparency of datasets/protocols/code, and the significance for clinical or translational adoption.
 
 To encourage careful preparation and allow for sensitive data handling, Validation Studies submissions will not be publicly visible on OpenReview until after the camera-ready deadline.
