@@ -60,7 +60,9 @@ Submissions may be up to 14 pages (excluding references). Reviews will assess th
 To encourage careful preparation and allow for sensitive data handling, Validation Studies submissions will not be publicly visible on OpenReview until after the camera-ready deadline.
 
 # Policies
+
 **Authorship Policy**
+
 - The author list **must be final** at the time of submission.
 - Additions, removals, or order changes after the submission deadline are **not permitted** (except minor spelling or affiliation corrections approved by the Program Chairs).
 
