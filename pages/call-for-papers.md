@@ -145,7 +145,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 ### Conference Dates
 [% .deadlines %]
 * **Main event** July 8–10 2026
-* **Venue**: Taipei, Taiwan, ROC
+* **Venue** Taipei, Taiwan, ROC
 [% / %]
 
 ### Contact
