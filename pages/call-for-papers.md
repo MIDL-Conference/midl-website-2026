@@ -124,7 +124,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Discussion period** Jan 25 – Jan 30, 2026
 * **Meta-reviews** Jan 31 – Feb 7, 2026
 * **Final decisions** Feb 11, 2026
-* **Camera-ready** May ,1 2026
+* **Camera-ready** May 1, 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
 <!-- <p class="button">
