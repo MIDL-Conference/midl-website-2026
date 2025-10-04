@@ -6,56 +6,93 @@ title: Call for Papers
 
 # Call for Papers
 
-We invite contributions to the 9th edition of Medical Imaging with Deep Learning (MIDL 2026), to be held in Taipei, Taiwan, ROC, from July 8–10, 2026. This premier event brings together deep learning researchers, clinicians, and healthcare industry professionals to explore the frontier of machine learning in medical image analysis. MIDL 2026 will offer both in-person attendance and free online streaming.
+Medical Imaging with Deep Learning (MIDL) 2026
 
-This year, we are pleased to announce a **dual emphasis on both advanced methodological papers and clinically focused papers** that showcase the application of cutting-edge AI techniques in addressing clinical challenges and translating these methods into practice. We encourage submissions that demonstrate robust validation studies and clinical relevance alongside novel methodological advances.
+July 8–10, 2026 • Taipei, Taiwan, ROC
 
-MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to:    
+The Medical Imaging with Deep Learning (MIDL) Conference is the premier international meeting dedicated to deep learning for biomedical image analysis. It brings together researchers, clinicians, and industry professionals to exchange ideas, present cutting-edge methods, and discuss how artificial intelligence is transforming medical imaging research and clinical practice.
 
-* Segmentation of medical images
-* Learning-based image registration
-* Computer-aided detection and diagnosis
-* Image acquisition and reconstruction
-* Transfer learning and domain adaptation
-* Learning with noisy labels and limited data
-* Unsupervised deep learning and representation learning
-* Uncertainty quantification
-* Interpretability and explainable AI
-* Integration of imaging and clinical data
-* Multimodal learning combining imaging with textual data and other data types
-* Foundation models for medical imaging
-* Generative AI for medical imaging
-* Federate learning for medical imaging
-* Safe and trustworthy learning-assisted solutions for medical imaging
-* Validation studies and deep learning applications across various medical specialties such as radiology, pathology, endoscopy, dermatology, ophthalmology, and more.
+The 2026 edition will be held in person in Taipei, Taiwan, ROC, with free online streaming to ensure global participation. Alongside a vibrant scientific program featuring plenary talks, oral and poster presentations, MIDL 2026 will also include tutorials, challenges, and opportunities for networking across disciplines.
+
+Building on its tradition of fostering both algorithmic innovation and clinical translation, MIDL 2026 invites contributions that range from foundational methodologies to validation studies demonstrating real-world impact.
+
+# Topics of Interest
+- Segmentation, detection, and classification of medical images
+- Learning-based image registration and reconstruction
+- Self-, semi-, and unsupervised representation learning
+- Transfer learning, domain adaptation, and learning with limited or noisy labels
+- Generative AI and diffusion models for imaging
+- Foundation and large vision–language models for healthcare
+- Multimodal learning combining imaging with text, omics, sensors, or clinical data
+- Uncertainty estimation, calibration, and interpretability
+- Federated, distributed, and privacy-preserving learning
+- Safe, trustworthy, and responsible AI solutions
+- Robust validation and benchmarking across radiology, pathology, endoscopy, dermatology, ophthalmology, and beyond
 
 Inquiries to the program chairs can be addressed directly to [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
 ## Submission Guidelines
 
-Please note that this year, reviews will be **single-blind**, and papers substantially similar to other submissions or previously accepted works are not permissible.
+MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
 Conference submissions follow two tracks: full conference papers and short papers.
 
-### Full Papers 
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding references) at submission; up to **12 pages** after rebuttal.
+- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding references) for submission and camera-ready. up **to 16 pages** after rebuttal.
 
-Submissions should either contain significant methodological developments or well-validated applications of deep learning in medical imaging. Full papers are limited to **8 pages, excluding references, acknowledgements, and appendices**. There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a rigorous review process and will be published in the Proceedings of Machine Learning Research. Selected papers will be invited for oral presentation. **At least one co-author must present in person**.
+All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate). and be submitted via OpenReview. Reviews are **single-blind**. Papers must be original and not under review elsewhere.
 
-### Short Papers
+Short Papers (**≤ 3 pages**, excluding references) may present early ideas or discuss recent/submitted journal work. Accepted short papers will be presented as posters or spotlights.
 
-These submissions are **limited to 3 pages, excluding references**. You may include appendices, but note that the main manuscript must be self-contained and the reviewers are not obliged to check the appendix. Short papers may present novel methodological ideas without extensive validation or discuss recently published or submitted journal contributions, providing an opportunity for feedback. The review process for short papers will be lighter, and all accepted submissions will be presented at the conference.
-
-### Paper Template and Submission Platform 
-
-Details about the submission template and instructions can be [here](https://github.com/MIDL-Conference/MIDLLatexTemplate). 
-
-<!-- Submissions should be made through [OpenReview](https://openreview.net/group?id=MIDL.io/2026/Conference). -->
-
-For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@2026.midl.io).
-
-Join us at MIDL 2026 to share insights, forge collaborations, and push the boundaries of medical imaging with deep learning. We look forward to your innovative contributions and to welcoming you in Salt Lake City!
+For inquiries, please contact the program chairs at pc@2026.midl.io.
 
 
+### Validation Studies (Special Track)
+
+**NEW for MIDL 2026**: The Validation Studies track debuts this year, offering a dedicated venue for rigorously evaluated deep learning methods in biomedical imaging, with an emphasis on robustness, reproducibility, and translational relevance.
+
+Submissions should showcase well-designed experiments, external validations, and evidence of generalization across datasets, institutions, or patient populations.
+Scope includes multi-center or multi-site evaluations, fairness, reliability, and robustness studies, head-to-head algorithm comparisons, clinical utility assessments, prospective/retrospective studies, observer studies, or workflow integration, as well as systematic reviews or meta-analyses that provide new insights into translational challenges.
+
+Private data may be included where ethically justified, but reproducibility on a public dataset or with an openly described protocol is strongly encouraged.
+Submissions may be up to 14 pages (excluding references). Reviews will assess the clarity and soundness of the study design, the appropriateness of metrics and statistical analyses, the transparency of datasets/protocols/code, and the significance for clinical or translational adoption.
+
+To encourage careful preparation and allow for sensitive data handling, Validation Studies submissions will not be publicly visible on OpenReview until after the camera-ready deadline.
+
+### Policies
+**Authorship Policy**
+- The author list **must be final** at the time of submission.
+- Additions, removals, or order changes after the submission deadline are **not permitted** (except minor spelling or affiliation corrections approved by the Program Chairs).
+
+**Policy on the Use of Large Language Models (LLMs)**
+
+MIDL 2026 welcomes the responsible use of modern tools, including Large Language Models (LLMs), when preparing submissions, provided that authors maintain scientific integrity, originality, and full responsibility for all content.
+
+
+**For Authors**:
+- Permitted uses: LLMs and other assistive tools may be used only for minor language editing, such as grammar, spelling, or formatting.
+- Prohibited uses: Generating research ideas, study designs, analyses, results, or substantive text with an LLM is not allowed. All scientific contributions must originate from the authors.
+- Responsibility: Authors are accountable for the accuracy, originality, and ethical standards of their manuscript, regardless of which tools they used. LLMs may not be credited as authors.
+- Data & privacy: Some tools store or reuse text for model training. Authors should avoid entering sensitive or unpublished data into third-party services unless appropriate safeguards are in place.
+
+**For Reviewers, Area Chairs, and Program Chairs**:
+- The review process is confidential. Submissions, code, or supplementary materials must not be shared with LLMs or any external service.
+- Reviewers may use public resources or grammar aids to improve clarity, provided no confidential material is exposed.
+- Reviewers remain responsible for the accuracy and fairness of their assessments.
+
+**General Guidance**:
+- LLMs must never replace authors’ or reviewers’ critical thinking, due diligence, or validation of references and claims.
+- Only humans may be listed as authors, reviewers, or organizers.
+- Violations may result in desk rejection, withdrawal after acceptance, or other corrective actions.
+
+**Visibility & Publication**
+- Submissions will not be publicly visible on OpenReview before the camera-ready deadline.
+- Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
+- We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance.
+  
+Join us in Taipei, Taiwan, ROC for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
+
+  
 ## Submission Timeline
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
@@ -68,20 +105,20 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 - *Your paper ID and title if you submitted a paper to MIDL 2025* -->
 
 
-While the title and abstract can still be changed after the registration deadline (until the submission deadline), they will be used to assign the papers to the reviewers. The authors are therefore asked to give meaningful names and abstracts.
+<!-- While the title and abstract can still be changed after the registration deadline (until the submission deadline), they will be used to assign the papers to the reviewers. The authors are therefore asked to give meaningful names and abstracts. -->
 
-### Full Papers
+### Regular Papers
 [% .deadlines %]
-* **Full paper registration deadline** 1 December 2025
-* **Full paper submission deadline** 5 December 2025
-* **Paper bidding deadline** 7 December 2025
-* **Paper assignment deadline** 15 December 2025
-* **Reviews due** 9 January 2026
-* **Rebuttal** 17 January 2026 – 24 January 2026
-* **Discussion period** 25 January 2026 – 30 January 2026
-* **Meta reviews** 31 January 2026 – 7 February 2026
-* **Final decisions** 11 February 2026
-* **Camera-ready deadline** 1 May 2026
+* **Abstract registration**: Dec 1, 2025
+* **Submission deadline**: Dec 5, 2025
+* **Paper bidding deadline**: Dec 7, 2025
+* **Paper assignment deadline**: Dec 15, 2025
+* **Reviews due**: Jan 9, 2026
+* **Rebuttal**: Jan 17 – Jan 24, 2026
+* **Discussion period**: Jan 25 – Jan 30, 2026
+* **Meta-reviews**: Jan 31 – Feb 7, 2026
+* **Final decisions**: Feb 11, 2026
+* **Camera-ready**: May ,1 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
 <!-- <p class="button">
@@ -101,5 +138,10 @@ While the title and abstract can still be changed after the registration deadlin
 
 ### Conference Dates
 [% .deadlines %]
-* **Main event** 8–10 July 2026
+* **Main event** July 8–10 2026
+* **Venue**: Taipei, Taiwan, ROC
 [% / %]
+
+### Concat
+Program Chairs: pc@2026.midl.io
+General inquiries: 2026@midl.io
