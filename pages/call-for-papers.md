@@ -115,16 +115,16 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 
 ### Regular Papers
 [% .deadlines %]
-* **Abstract registration**: Dec 1, 2025
-* **Submission deadline**: Dec 5, 2025
-* **Paper bidding deadline**: Dec 7, 2025
-* **Paper assignment deadline**: Dec 15, 2025
-* **Reviews due**: Jan 9, 2026
-* **Rebuttal**: Jan 17 – Jan 24, 2026
-* **Discussion period**: Jan 25 – Jan 30, 2026
-* **Meta-reviews**: Jan 31 – Feb 7, 2026
-* **Final decisions**: Feb 11, 2026
-* **Camera-ready**: May ,1 2026
+* **Abstract registration** Dec 1, 2025
+* **Submission deadline** Dec 5, 2025
+* **Paper bidding deadline** Dec 7, 2025
+* **Paper assignment deadline** Dec 15, 2025
+* **Reviews due** Jan 9, 2026
+* **Rebuttal** Jan 17 – Jan 24, 2026
+* **Discussion period** Jan 25 – Jan 30, 2026
+* **Meta-reviews** Jan 31 – Feb 7, 2026
+* **Final decisions** Feb 11, 2026
+* **Camera-ready** May ,1 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
 <!-- <p class="button">
@@ -148,6 +148,8 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Venue**: Taipei, Taiwan, ROC
 [% / %]
 
-### Concat
-Program Chairs: pc@2026.midl.io
-General inquiries: 2026@midl.io
+### Contact
+
+Program Chairs: [pc@2026.midl.io](mailto:pc@2026.midl.io)
+
+General inquiries: [2026@midl.io](mailto:2026@midl.io)
