@@ -139,7 +139,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 <!-- * **Short paper submission deadline** 11 April 2025
 * **Final decisions** 1 May 2025
 * **Camera-ready deadline** 1 June 2025 -->
-* To be announced
+* Apr, 2026
 [% / %]
 <!-- <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
