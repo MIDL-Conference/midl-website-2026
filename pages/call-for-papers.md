@@ -97,7 +97,7 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 
 - Submissions will not be publicly visible on OpenReview before the camera-ready deadline.
 - Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
-- We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance. Please refer to MIDL [reproducibility guidelines.](https://www.midl.io/reproducibility).
+- We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance. Please refer to MIDL [reproducibility guidelines](https://www.midl.io/reproducibility).
   
 Join us in Taipei, Taiwan, ROC for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
 
