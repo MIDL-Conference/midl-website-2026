@@ -76,7 +76,7 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 
 **For Authors**:
 
-- Permitted uses: LLMs and other assistive tools may be used only for minor language editing, such as grammar, spelling, or formatting.
+- Permitted uses: LLMs and other assistive tools may be used only for minor language edits, such as grammar, spelling, style refinement, readability improvements, or formatting.
 - Prohibited uses: Generating research ideas, study designs, analyses, results, or substantive text with an LLM is not allowed. All scientific contributions must originate from the authors.
 - Responsibility: Authors are accountable for the accuracy, originality, and ethical standards of their manuscript, regardless of which tools they used. LLMs may not be credited as authors.
 - Data & privacy: Some tools store or reuse text for model training. Authors should avoid entering sensitive or unpublished data into third-party services unless appropriate safeguards are in place.
@@ -97,7 +97,7 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 
 - Submissions will not be publicly visible on OpenReview before the camera-ready deadline.
 - Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
-- We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance.
+- We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance. Please refer to MIDL [reproducibility guidelines.](https://www.midl.io/reproducibility).
   
 Join us in Taipei, Taiwan, ROC for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
 
