@@ -30,7 +30,7 @@ Building on its tradition of fostering both algorithmic innovation and clinical 
 - Safe, trustworthy, and responsible AI solutions
 - Robust validation and benchmarking across radiology, pathology, endoscopy, dermatology, ophthalmology, and beyond
 
-Inquiries to the program chairs can be addressed directly to [2026@midl.io](mailto:2026@midl.io).
+Inquiries to the program chairs can be addressed directly to [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
 # Submission Guidelines
 
