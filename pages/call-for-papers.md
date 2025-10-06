@@ -19,6 +19,7 @@ Building on its tradition of fostering both algorithmic innovation and clinical 
 # Topics of Interest
 - Segmentation, detection, and classification of medical images
 - Learning-based image registration and reconstruction
+- Clinical integration, workflow optimization, and real-world deployment
 - Self-, semi-, and unsupervised representation learning
 - Transfer learning, domain adaptation, and learning with limited or noisy labels
 - Generative AI and diffusion models for imaging
@@ -40,7 +41,7 @@ Conference submissions follow two tracks: full conference papers and short paper
 - **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding references) at submission; up to **12 pages** after rebuttal.
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding references) for submission and camera-ready. up **to 16 pages** after rebuttal.
 
-All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate). and be submitted via OpenReview. Reviews are **single-blind**. Papers must be original and not under review elsewhere.
+All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate). and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’.. Papers must be original and not under review elsewhere.
 
 Short Papers (**≤ 3 pages**, excluding references) may present early ideas or discuss recent/submitted journal work. Accepted short papers will be presented as posters or spotlights.
 
