@@ -93,7 +93,6 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 
 **Visibility & Publication**
 
-- Submissions will not be publicly visible on OpenReview before the camera-ready deadline.
 - Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
 - We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance. Please refer to MIDL [reproducibility guidelines](https://www.midl.io/reproducibility).
   
