@@ -42,5 +42,7 @@ nav:
   - title: "Code of Conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up" 
-    
+  - title: "Job Board"
+    path: "https://midl.io/job-board.html"
+    icon: "external-link-alt"
 cdn: "https://static.midl.io"
