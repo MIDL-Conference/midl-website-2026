@@ -39,5 +39,8 @@ nav:
   - title: "Venue"
     path: "/venue.html"
     icon: "map-marker-alt" 
+  - title: "Code of Conduct"
+    path: "/code-of-conduct.html"
+    icon: "thumbs-up" 
     
 cdn: "https://static.midl.io"
