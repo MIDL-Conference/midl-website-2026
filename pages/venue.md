@@ -47,9 +47,10 @@ Chientan Youth Activity Center is situated on the west bank of Keelung River in 
 
 <div id="venue-snap" aria-label="Venue photos">
   <div class="rail">
-    <img src="/images/chientan1.jpg" alt="Chientan night view 1">
-    <img src="/images/chientan2.jpg" alt="Chientan night view 2">
-    <!-- <img src="/images/chientan3.jpg" alt="Chientan view 3"> -->
+    <img src="/images/chientan1.jpg" alt="Chientan view 1">
+    <img src="/images/chientan2.jpg" alt="Chientan view 2">
+    <img src="/images/chientan3.jpg" alt="Chientan view 3">
+    <img src="/images/chientan4.jpg" alt="Chientan view 4">
   </div>
 </div>
 
