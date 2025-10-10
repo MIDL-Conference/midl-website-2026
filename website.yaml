@@ -35,6 +35,9 @@ nav:
     icon: "bullhorn" 
   - title: "Dates"
     path: "/dates.html"
-    icon: "calendar" 
+    icon: "calendar"
+  - title: "Venue"
+    path: "/venue.html"
+    icon: "map-marker-alt" 
     
 cdn: "https://static.midl.io"
