@@ -16,10 +16,42 @@ Chientan Youth Activity Center is situated on the west bank of Keelung River in 
 * The gathering area is located between the teaching and lodging area, using to hold large crowds and exhibits. The raised corridors can serve multiple functions.
 
 <!-- [![Inria](){: width="500"}] -->
-<p align="center">
+<!-- <p align="center">
   <img src="/images/chientan1.jpg" width=700/>
   <img src="/images/chientan2.jpg" width=700/>
-</p>
+</p> -->
+
+<style>
+  #venue-snap {
+    max-width: 700px;
+    margin: 0 auto 24px auto;
+    overflow: hidden;
+  }
+  #venue-snap .rail {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 6px;
+  }
+  #venue-snap .rail > img {
+    flex: 0 0 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    scroll-snap-align: center;
+  }
+  @media (max-width: 820px) { #venue-snap { max-width: 100%; padding: 0 16px; } }
+</style>
+
+<div id="venue-snap" aria-label="Venue photos">
+  <div class="rail">
+    <img src="/images/chientan1.jpg" alt="Chientan night view 1">
+    <img src="/images/chientan2.jpg" alt="Chientan night view 2">
+    <!-- <img src="/images/chientan3.jpg" alt="Chientan view 3"> -->
+  </div>
+</div>
 
 <p align="center">
   <iframe width="700" height="394"
