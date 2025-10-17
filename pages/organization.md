@@ -19,7 +19,11 @@ title: "Organization"
 * Yueming Jin, PhD - National University of Singapore
 * Ruining Deng, PhD - Weill Cornell Medicine
 
-## Satellite Event Chair
+## Doctoral Symposium Chairs
+* Elyssa McMaster - Vanderbilt University
+* Savannah Hays - Johns Hopkins University
+
+## Post-Day Workshop Chair
 * Bennett Landman, PhD - Vanderbilt University
 
 ## Senior PC Advisory Committee Chairs
