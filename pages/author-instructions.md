@@ -22,7 +22,7 @@ In case you want to use the MIDL logos on your presentations/Poster, you may fin
 <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2025/Conference" target="_blank">Full Paper OpenReview Platform</a>
   <!-- <a href="https://openreview.net/group?id=MIDL.io/2024/Short_Papers" target="_blank">Short Paper OpenReview Platform</a> -->
-<!-- </p> --> -->
+<!-- </p> -->
 
 ## Submission Instructions
 
