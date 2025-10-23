@@ -38,8 +38,8 @@ MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
 Conference submissions follow two tracks: full conference papers and short papers.
 
-- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding references) at submission; up to **12 pages** after rebuttal.
-- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding references) for submission and camera-ready. up **to 16 pages** after rebuttal.
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding acknowledgments and references) at submission; up to **12 pages** after rebuttal.
+- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding acknowledgments and references) for submission and camera-ready. up **to 16 pages** after rebuttal.
 
 All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate). and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’.. Papers must be original and not under review elsewhere.
 
