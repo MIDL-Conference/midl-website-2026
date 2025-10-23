@@ -30,7 +30,14 @@ We will be using [openreview.net](https://openreview.net) as a submission and re
 
 <!-- Short papers are **strictly limited to 3 pages (excluding references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **(single-blind)** review process via OpenReview. All accepted short papers will be presented at the conference. -->
 
-Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. The paper length is **limited to 10** pages excluding references, acknowledgments and appendix sections. There is no page limit for the references and appendices, but reviewers are not obliged to evaluate any content included in an appendix section. The papers will go through a full, **single-blind** reviewing process via OpenReview. A selection of full papers will be invited for oral presentation. All accepted full papers will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+MIDL 2026 offers **two full-paper tracks and a short-paper track**:
+
+Conference submissions follow two tracks: full conference papers and short papers.
+
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding acknowledgments and references) at submission; up to **12 pages** after rebuttal.
+- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding acknowledgments and references) for submission and camera-ready. up **to 16 pages** after rebuttal.
+
+The papers will go through a full, **single-blind** reviewing process via OpenReview. A selection of full papers will be invited for oral presentation. All accepted full papers will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
 To submit a paper, authors need to have an updated [OpenReview account](https://openreview.net/profile).
 
