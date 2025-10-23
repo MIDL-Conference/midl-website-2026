@@ -42,7 +42,7 @@ Conference submissions follow three tracks: main track, special track, and short
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission; up **to 16 pages** after rebuttal for camera-ready version.
 - There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. **At least one co-author must present in person**.
 
-All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate) and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’.. Papers must be original and not under review elsewhere.
+All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate) and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’. Papers must be original and not under review elsewhere.
 
 **Please adhere to the official MIDL LaTeX template:** Please note that the all submission must strictly adhere to the official template. In particular, no alterations may be made to the font size (main text and tables), line spacing, or margins.
 
