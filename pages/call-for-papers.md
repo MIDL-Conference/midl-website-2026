@@ -44,7 +44,7 @@ Conference submissions follow three tracks: main track, special track, and short
 
 All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate) and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’. Papers must be original and not under review elsewhere.
 
-**Please adhere to the official MIDL LaTeX template:** Please note that the all submission must strictly adhere to the official template. In particular, no alterations may be made to the font size (main text and tables), line spacing, or margins.
+**Please adhere to the official MIDL LaTeX template:** Please note that the all submissions must strictly adhere to the official template. In particular, no alterations may be made to the font size (main text and tables), line spacing, or margins.
 
 Short Papers (**≤ 3 pages**, excluding references) may present early ideas or discuss recent/submitted journal work. Accepted short papers will be presented as posters or spotlights.
 
