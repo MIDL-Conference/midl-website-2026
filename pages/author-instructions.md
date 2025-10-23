@@ -32,7 +32,7 @@ We will be using [openreview.net](https://openreview.net) as a submission and re
 
 MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
-Conference submissions follow two tracks: full conference papers and short papers.
+Here are the instructions for the two full-paper tracks
 
 - **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding **references**, **acknowledgements**, and **appendices**) at submission; up to **12 pages** after rebuttal.
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission and camera-ready. up **to 16 pages** after rebuttal.
