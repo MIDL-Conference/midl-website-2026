@@ -34,10 +34,9 @@ MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
 Conference submissions follow two tracks: full conference papers and short papers.
 
-- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding acknowledgments and references) at submission; up to **12 pages** after rebuttal.
-- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding acknowledgments and references) for submission and camera-ready. up **to 16 pages** after rebuttal.
-
-The papers will go through a full, **single-blind** reviewing process via OpenReview. A selection of full papers will be invited for oral presentation. All accepted full papers will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding **references**, **acknowledgements**, and **appendices**) at submission; up to **12 pages** after rebuttal.
+- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission and camera-ready. up **to 16 pages** after rebuttal.
+- There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. At least one co-author must present in person.
 
 To submit a paper, authors need to have an updated [OpenReview account](https://openreview.net/profile).
 
