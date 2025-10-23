@@ -34,7 +34,7 @@ MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
 Here are the instructions for the two full-paper tracks
 
-- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imagingp t; uo **10 pages** (excluding **references**, **acknowledgements**, and **appendices**) at submission; up to **12 pages** after rebuttal for camera-ready version.
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging; up to **10 pages** (excluding **references**, **acknowledgements**, and **appendices**) at submission; up to **12 pages** after rebuttal for camera-ready version.
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods; up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission; up **to 16 pages** after rebuttal for camera-ready version.
 - There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. **At least one co-author must present in person**.
 
