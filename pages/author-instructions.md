@@ -38,17 +38,18 @@ Here are the instructions for the two full-paper tracks
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission and camera-ready. up **to 16 pages** after rebuttal.
 - There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. At least one co-author must present in person.
 
+All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate) and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’.. Papers must be original and not under review elsewhere.
+
+**Please adhere to the official MIDL LaTeX template:** Please note that the all submission must strictly adhere to the official template. In particular, no alterations may be made to the font size (main text and tables), line spacing, or margins.
+
 To submit a paper, authors need to have an updated [OpenReview account](https://openreview.net/profile).
 
 Inquiries to the program chairs can be addressed directly to [pc@2026.midl.io](mailto:pc@2026.midl.io).
-<!-- 
+
 ## Rebuttal and Discussion
-
-*Updated 7 February 2025*
-
-Authors are expected to submit a comprehensive rebuttal addressing the comments raised by the reviewers during the rebuttal period. In order to fully address the comments of the reviewers, the authors are free to modify or add any additional details, experiments or images that might be required in their paper. It is important to keep in mind however that the page limit is **9 pages** for the main paper excluding references, acknowledgements and the appendix sections. After the rebuttal, a discussion period will start on which the authors and reviewers will have the chance to interact. Τhe reviewers will be able to see all answers when submitted and can potentially provide feedback. However, it is expected that during the discussion period, the reviewers will be more committed and responsive to your answers. The discussion is a unique feature of MIDL, and we recommend taking full advantage of it, as it tends to improve paper outcomes.
+Authors are expected to submit a comprehensive rebuttal addressing the comments raised by the reviewers during the rebuttal period. In order to fully address the comments of the reviewers, the authors are free to modify or add any additional details, experiments or images that might be required in their paper. After the rebuttal, a discussion period will start on which the authors and reviewers will have the chance to interact. Τhe reviewers will be able to see all answers when submitted and can potentially provide feedback. However, it is expected that during the discussion period, the reviewers will be more committed and responsive to your answers. The discussion is a unique feature of MIDL, and we recommend taking full advantage of it, as it tends to improve paper outcomes.
  
-**Please adhere to the official MIDL LaTeX template:** Please note that the final revision during the rebuttal and discussion phase must strictly adhere to the official template. In particular, no alterations may be made to the font size (main text and tables), line spacing, or margins. In cases where such alterations were present in the initial submission, they must be corrected now.
+
 
 
 <!-- ## MELBA Special Issue
