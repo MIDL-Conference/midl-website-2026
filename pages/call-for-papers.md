@@ -36,7 +36,7 @@ Inquiries to the program chairs can be addressed directly to [pc@2026.midl.io](m
 
 MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
-Conference submissions follow two tracks: full conference papers and short papers.
+Conference submissions follow three tracks: main track, special track, and short papers.
 
 - **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding acknowledgments and references) at submission; up to **12 pages** after rebuttal.
 - **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding acknowledgments and references) for submission and camera-ready. up **to 16 pages** after rebuttal.
