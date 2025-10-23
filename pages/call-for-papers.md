@@ -38,9 +38,9 @@ MIDL 2026 offers **two full-paper tracks and a short-paper track**:
 
 Conference submissions follow three tracks: main track, special track, and short papers.
 
-- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding acknowledgments and references) at submission; up to **12 pages** after rebuttal.
-- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding acknowledgments and references) for submission and camera-ready. up **to 16 pages** after rebuttal.
-- There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. At least one co-author must present in person.
+- **Main Track – Methodological Development**: New algorithms, architectures, or models for medical imaging. Up to **10 pages** (excluding **references**, **acknowledgements**, and **appendices**) at submission; up to **12 pages** after rebuttal for camera-ready version.
+- **Special Track – Validation Studies**: A new track dedicated to large-scale or clinically oriented validation of deep learning methods. Up to **14 pages** (excluding **references**, **acknowledgements**, and **appendices**) for submission; up **to 16 pages** after rebuttal for camera-ready version.
+- There are no page limits for the references and appendices. However, reviewers are not required to read the appendices to evaluate a submission. Full papers will undergo a **single-blind** review process and will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). Selected papers will be invited for oral presentation. **At least one co-author must present in person**.
 
 All papers must use the official [MIDL LaTeX template](https://github.com/MIDL-Conference/MIDLLatexTemplate) and be submitted via OpenReview. Reviews are **single-blind**, which means reviewers know the authors’ identities, but authors do not know the reviewers’.. Papers must be original and not under review elsewhere.
 
