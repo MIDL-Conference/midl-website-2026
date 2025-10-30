@@ -30,7 +30,7 @@ We will be using [openreview.net](https://openreview.net) as a submission and re
 
 <!-- Short papers are **strictly limited to 3 pages (excluding references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **(single-blind)** review process via OpenReview. All accepted short papers will be presented at the conference. -->
 
-MIDL 2026 offers **two full-paper tracks and a short-paper track**:
+MIDL 2026 offers **two full-paper tracks and one short-paper track**:
 
 Here are the instructions for the two full-paper tracks
 
