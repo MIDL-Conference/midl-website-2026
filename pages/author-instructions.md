@@ -26,7 +26,7 @@ In case you want to use the MIDL logos on your presentations/Poster, you may fin
 
 ## Submission Instructions
 
-We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform.
+We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform. Please ensure that your paper is registered on the system before the full paper registration deadline. No new submissions will be accepted after this date. However, you may continue to modify your submission—including updating the title, abstract, pdf, and author list—until the full paper submission deadline. After the submission deadline, changes to authorship will no longer be permitted, except for reordering existing authors.
 
 <!-- Short papers are **strictly limited to 3 pages (excluding references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **(single-blind)** review process via OpenReview. All accepted short papers will be presented at the conference. -->
 
