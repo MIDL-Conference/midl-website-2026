@@ -6,11 +6,14 @@ page_class: home
 
 # Medical Imaging with Deep Learning
 ## Taipei, 08—10 July 2026
+## Paper Submission is Open! Submission link and details please see Call for Paper
+
+<p class="button">
+  <a href="https://2026.midl.io/call-for-papers" target="_blank">Click Here to Submit Your MIDL 2026 Papers!</a>
+</p>
 
 ## Paper registration deadline: 2025/12/01
 ## Paper submission deadline: 2025/12/05
-* Significantly ahead of MIDL 2025, with final acceptance decisions expected by mid-February 2026.
-* More infos will follow ..
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/Taipei1_small.jpg">
