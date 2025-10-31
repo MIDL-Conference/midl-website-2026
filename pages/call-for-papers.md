@@ -116,7 +116,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 
 <!-- While the title and abstract can still be changed after the registration deadline (until the submission deadline), they will be used to assign the papers to the reviewers. The authors are therefore asked to give meaningful names and abstracts. -->
 
-### Regular Papers
+### Regular Papers (Main and Special Tracks)
 [% .deadlines %]
 * **Abstract registration** Dec 1, 2025
 * **Submission deadline** Dec 5, 2025
@@ -130,9 +130,13 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Camera-ready** May 1, 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
-<!-- <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">Full Paper OpenReview Platform</a>
-</p> -->
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">Full Paper (Main Track Submission)</a>
+</p> 
+
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Validation_Papers" target="_blank">Special Track (Validation Track Submission)</a>
+</p> 
 
 ### Short Papers
 [% .deadlines %]
