@@ -134,8 +134,9 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
   <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">Full Paper (Main Track Submission)</a>
 </p> 
 
+**This year, a special track dedicated to large-scale or clinically oriented validation of deep learning methods has its own submission portal**:
 <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2026/Validation_Papers" target="_blank">Special Track (Validation Track Submission)</a>
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Validation_Papers" target="_blank">Special Track (Validation Studies Submission)</a>
 </p> 
 
 ### Short Papers
