@@ -53,7 +53,7 @@ For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@
 
 ### Validation Studies (Special Track)
 
-**NEW for MIDL 2026**: The Validation Studies track debuts this year, offering a dedicated venue for rigorously evaluated deep learning methods in biomedical imaging, with an emphasis on robustness, reproducibility, and translational relevance.
+**NEW for MIDL 2026**: The Validation Studies track debuts this year, offering a dedicated venue for rigorously evaluated deep learning methods in biomedical imaging, with an emphasis on robustness, reproducibility, and translational relevance. **This track has its own submission portal**, please submit to [Special Track (Validation Studies) Submission Portal](https://openreview.net/group?id=MIDL.io/2026/Validation_Papers), rather than to the Full Paper Submission Portal.
 
 Submissions should showcase well-designed experiments, external validations, and evidence of generalization across datasets, institutions, or patient populations.
 
