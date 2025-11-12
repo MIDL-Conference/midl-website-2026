@@ -11,7 +11,7 @@ Long papers will go through a full, **single-blind** reviewing process via OpenR
 * Reviewers should always provide positive, constructive reviews and be as open as possible.
 * The review should include a short summary, a list of pros and cons, and ideas regarding related and future work in case key developments are missing.
 * Comments regarding lack of novelty need to be substantiated, e.g., by providing reference(s) to previous work.
-* The reviewers are not required to look at the material in the Appendix/Supplementary Information beyond the 10 pages (16 pages for Validation Track) of the paper.
+* The reviewers are not required to look at the material in the Appendix/Supplementary Information beyond the 10 pages (14 pages for Validation Track) of the paper.
 * Reviewers should engage in discussion with the authors during the rebuttal period.
 
 Your duties during the reviewing period will be the following.
