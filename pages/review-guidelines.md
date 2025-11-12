@@ -11,28 +11,28 @@ Long papers will go through a full, **single-blind** reviewing process via OpenR
 * Reviewers should always provide positive, constructive reviews and be as open as possible.
 * The review should include a short summary, a list of pros and cons, and ideas regarding related and future work in case key developments are missing.
 * Comments regarding lack of novelty need to be substantiated, e.g., by providing reference(s) to previous work.
-* The reviewers are not required to look at the material in the Appendix/Supplementary Information beyond the 8 pages of the paper.
+* The reviewers are not required to look at the material in the Appendix/Supplementary Information beyond the 10 pages (16 pages for Validation Track) of the paper.
 * Reviewers should engage in discussion with the authors during the rebuttal period.
 
-<!-- Your duties during the reviewing period will be the following.
+Your duties during the reviewing period will be the following.
 
-* You will be responsible for reviewing approximately 4-5 papers between 08/02/2025 and 21/02/2025.
+* You will be responsible for reviewing approximately 3-5 papers between 12/15/2025 and 01/09/2025.
 * Writing timely reviews of high quality that reflect the above-mentioned MIDL principles and are fair in judgment.
-* Ranking the papers.
+* Rating the papers.
 * Give constructive feedback and criticism that helps the authors to improve their work, which is beneficial for the community as a whole.
 * Engage in discussion during the rebuttal and discussion phase between the other reviewers and authors (for full papers), particularly for papers where the decision is uncertain (borderline).
 
 [% .deadlines %]
-* **Full paper registration deadline** 17 January 2025
-* **Paper bidding** 18 January - 24 January 2025
-* **Full paper submission deadline** <s> 24 January 2025 </s> &nbsp;&nbsp;  31 January 2025
-* **Paper assignment** <s> 1 February 2025 </s> &nbsp;&nbsp; 8 February 2025
-* **Reviews due** <s> 14 February 2025 </s>&nbsp;&nbsp;  21 February 2025
-* **Rebuttal** <s> 21 February – 28 February 2025 </s>&nbsp;&nbsp; 1 March – 7 March 2025
-* **Discussion period** <s> 1 March – 7 March 2025 </s>&nbsp;&nbsp; 8 March – 14 March 2025
-* **Meta reviews** <s> 8 March – 14 March 2025 </s>&nbsp;&nbsp; 15 March – 21 March 2025
-* **Final decisions** <s> 21 March 2025 </s>&nbsp;&nbsp; 25 March 2025
-* **Camera-ready deadline** 1 June 2025
+* **Abstract registration** Dec 1, 2025
+* **Submission deadline** Dec 5, 2025
+* **Paper bidding deadline** Dec 7, 2025
+* **Paper assignment deadline** Dec 15, 2025
+* **Reviews due** Jan 9, 2026
+* **Rebuttal** Jan 17 – Jan 24, 2026
+* **Discussion period** Jan 25 – Jan 30, 2026
+* **Meta-reviews** Jan 31 – Feb 7, 2026
+* **Final decisions** Feb 11, 2026
+* **Camera-ready** May 1, 2026
 [% / %]
 
 Please note that all deadlines are 23:59 UTC-12 (Anywhere on Earth).
@@ -48,5 +48,5 @@ Create an account at [OpenReview](https://openreview.net/) if you do not have on
 * The **Advisors & Other Relations** section can also be filled, if you think some conflicts are not covered by the email domains.
 
 <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2025/Conference" target="_blank">OpenReview platform</a>
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">OpenReview platform</a>
 </p> -->
