@@ -7,7 +7,7 @@ title: Doctoral Symposium
 
 ## Program At a Glance
 
-We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2025. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
+We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2026. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
 <!-- 
 <span style="color:red;"> **NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.** </span>
 
