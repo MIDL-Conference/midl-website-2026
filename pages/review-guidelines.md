@@ -33,6 +33,7 @@ Your duties during the reviewing period will be the following.
 * **Meta-reviews** Jan 31 – Feb 7, 2026
 * **Final decisions** Feb 11, 2026
 * **Camera-ready** May 1, 2026
+<!-- for stricking use <s. </s>-->
 [% / %]
 
 Please note that all deadlines are 23:59 UTC-12 (Anywhere on Earth).
