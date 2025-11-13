@@ -8,7 +8,7 @@ title: "Organization"
 
 * [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital
 * [Le Lu](https://www.cs.jhu.edu/~lelu/), PhD – Ant Group
-* [Tzuchen](https://www.icru.org/bio/tzu-chen-yen/) Yen, MD/PhD - Chang Gung Memorial Hospital
+* [Tzuchen Yen](https://www.icru.org/bio/tzu-chen-yen/), MD/PhD - Chang Gung Memorial Hospital
 * [Kensaku Mori](http://www.newves.org/wiki/), PhD - Nagoya University
 
 ## Program Chairs
