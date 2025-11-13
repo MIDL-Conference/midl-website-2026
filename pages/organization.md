@@ -24,7 +24,7 @@ title: "Organization"
 * [Savannah Hays](https://iacl.ece.jhu.edu/index.php?title=Savannah) - Johns Hopkins University
 
 ## Post-Day Workshop Chair
-* [Bennett Landman](https://www.vanderbilt.edu/vise/visepeople/bennett-landman/), PhD - Vanderbilt University
+* [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/), PhD - Vanderbilt University
 
 ## Senior PC Advisory Committee Chairs
 * [Lisa Koch](https://www.mlm-lab.ch/people/), PhD. -  University of Bern and Bern University Hospital
