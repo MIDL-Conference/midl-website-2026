@@ -9,7 +9,7 @@ page_class: home
 ## Paper Submission is Open! Click the button to submit!
 
 <p class="button">
-  <a href="https://2026.midl.io/call-for-papers" target="_blank">Click Here to Submit Your MIDL 2026 Papers!</a>
+  <a href="https://openreview.net/group?id=MIDL.io/2026" target="_blank">Click Here to Submit Your MIDL 2026 Papers!</a>
 </p>
 
 ## Paper registration deadline: 2025/12/01
