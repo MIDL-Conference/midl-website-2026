@@ -12,8 +12,8 @@ page_class: home
   <a href="https://openreview.net/group?id=MIDL.io/2026" target="_blank">Click Here to Submit Your MIDL 2026 Papers!</a>
 </p>
 
-## Paper registration deadline: 2025/12/01
-## Paper submission deadline: 2025/12/05
+## Paper registration deadline:   <s> 2025/12/01 </s> &nbsp;&nbsp;  2025/12/03
+## Paper submission deadline: <s> 2025/12/05 </s> &nbsp;&nbsp;  2025/12/10
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/Taipei1_small.jpg">
