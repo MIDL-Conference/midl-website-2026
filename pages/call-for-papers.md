@@ -118,8 +118,8 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 
 ### Regular Papers (Main and Special Tracks)
 [% .deadlines %]
-* **Abstract registration** Dec 1, 2025
-* **Submission deadline** Dec 5, 2025
+* **Abstract registration** <s> Dec 1, 2025 </s> &nbsp;&nbsp;  Dec 3, 2025
+* **Submission deadline** <s> Dec 5, 2025 </s> &nbsp;&nbsp;  Dec 10, 2025
 * **Paper bidding deadline** Dec 7, 2025
 * **Paper assignment deadline** Dec 15, 2025
 * **Reviews due** Jan 9, 2026
