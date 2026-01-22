@@ -8,7 +8,7 @@ page_class: "keynotes"
 # Keynote speakers
 <p><a id="keynoteX"></a></p>
 
-## Prof. Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg){: width="180" }
+## Prof. Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg)
 ### Associate Professor, Department of Electrical Engineering and Computer Science, Vanderbilt University
 <!-- ### McGill & CIFAR AI Chair – Mila
 
