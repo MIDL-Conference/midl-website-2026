@@ -9,7 +9,7 @@ page_class: "keynotes"
 <p><a id="keynoteX"></a></p>
 
 ## Prof. Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg){: width="180" }
-### Associate Professor, Department of Computer Science, Department of Electrical and Computer Engineering, Vanderbilt University, USA
+### Associate Professor, Department of Computer Science, Department of Electrical and Computer Engineering, Vanderbilt University, USA.
 <!-- ### McGill & CIFAR AI Chair – Mila
 
 🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/)
@@ -30,8 +30,8 @@ page_class: "keynotes"
 
 ## 	Prof. Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.avif){: width="180" }
 ### Provost’s Chair Professor, Department of Biomedical Engineering, National University of Singapore, Singapore.
-### Director, The N.1 Institute for Health (N.1).
-### Director, The Institute for Digital Medicine (WisDM)
+### Director, The N.1 Institute for Health (N.1), Singapore.
+### Director, The Institute for Digital Medicine (WisDM), Singapore.
 
 <!-- 
 🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel)
