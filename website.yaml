@@ -50,6 +50,7 @@ nav:
     icon: "graduation-cap"
   - title: "Keynotes"
     path: "/keynotes.html"
+    icon: "microphone"
   - title: "Code of Conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up" 
