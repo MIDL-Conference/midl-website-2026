@@ -8,7 +8,7 @@ page_class: "keynotes"
 # Keynote speakers
 <p><a id="keynoteX"></a></p>
 
-## Prof. Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg){: width="180" }
+## Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg){: width="180" }
 ### Associate Professor, Department of Computer Science, Department of Electrical and Computer Engineering, Vanderbilt University, USA.
 <!-- ### McGill & CIFAR AI Chair – Mila
 
@@ -28,7 +28,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Prof. Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.avif){: width="180" }
+## 	Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.avif){: width="180" }
 ### Provost’s Chair Professor, Department of Biomedical Engineering, National University of Singapore, Singapore.
 ### Director, The N.1 Institute for Health (N.1), Singapore.
 ### Director, The Institute for Digital Medicine (WisDM), Singapore.
@@ -50,7 +50,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Prof. Junzhou Huang, Ph.D.![Portrait of Junzhou Huang](/images/junzhou.jpg){: width="180" }
+## 	Junzhou Huang, Ph.D.![Portrait of Junzhou Huang](/images/junzhou.jpg){: width="180" }
 ###  Jenkins Garrett Professor, Department of Computer Science and Engineering, University of Texas at Arlington, USA.
 
 <!-- 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
@@ -90,7 +90,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Dr. Mert Sabuncu, Ph.D.![Portrait of Mert Sabuncu](/images/mert-sanbuncu.jpeg){: width="180" }
+## Mert Sabuncu, Ph.D.![Portrait of Mert Sabuncu](/images/mert-sanbuncu.jpeg){: width="180" }
 ### Professor, School of Electrical and Computer Engineering, Cornell University and Cornell Tech, USA.
 ### Vice Chair of AI and Engineering Research, Department of Radiology, Weill Cornell Medicine, USA.
 <!-- 
