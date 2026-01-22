@@ -48,6 +48,8 @@ nav:
   - title: "Doctoral Symposium"
     path: "/doctoral.html"
     icon: "graduation-cap"
+  - title: "Keynotes"
+    path: "/keynotes.html"
   - title: "Code of Conduct"
     path: "/code-of-conduct.html"
     icon: "thumbs-up" 
