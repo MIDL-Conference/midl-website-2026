@@ -30,8 +30,7 @@ page_class: "keynotes"
 
 ## 	Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.avif){: width="180" }
 ### Provost’s Chair Professor, Department of Biomedical Engineering, National University of Singapore, Singapore.
-### Director, The N.1 Institute for Health (N.1), Singapore.
-### Director, The Institute for Digital Medicine (WisDM), Singapore.
+
 
 <!-- 
 🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel)
@@ -92,7 +91,7 @@ page_class: "keynotes"
 
 ## Mert Sabuncu, Ph.D.![Portrait of Mert Sabuncu](/images/mert-sanbuncu.jpeg){: width="180" }
 ### Professor, School of Electrical and Computer Engineering, Cornell University and Cornell Tech, USA.
-### Vice Chair of AI and Engineering Research, Department of Radiology, Weill Cornell Medicine, USA.
+
 <!-- 
 🏠 [Homepage](https://www.aylward.org)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=u1UdL4oAAAAJ&hl=en&oi=ao)
