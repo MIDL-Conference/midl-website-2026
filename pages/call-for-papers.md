@@ -124,10 +124,10 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Paper assignment deadline** Dec 15, 2025
 * **Reviews due** Jan 9, 2026
 * **Rebuttal** Jan 17 – Jan 24, 2026
-* **Discussion period** Jan 25 – Jan 30, 2026
-* **Meta-reviews** Jan 31 – Feb 7, 2026
-* **Final decisions** Feb 11, 2026
-* **Camera-ready** May 1, 2026
+* **Discussion period** <s>25 Jan – 30 Jan 2026 </s>&nbsp;&nbsp; 25 January – 1 February 2026 
+* **Meta reviews** <s>31 Jan – 7 Feb 2026 </s>&nbsp;&nbsp; 2 February – 9 February 2026
+* **Final decisions** <s> 11 February 2026 </s> &nbsp;&nbsp; 14 February 2026 
+* **Camera-ready deadline** 15 April 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
 <p class="button">
