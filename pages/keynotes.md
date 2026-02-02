@@ -8,8 +8,10 @@ page_class: "keynotes"
 # Keynote speakers
 <p><a id="keynoteX"></a></p>
 
-## Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.jpg){: width="180" }
+## Ipek Oguz, Ph.D.![Portrait of Ipek Oguz](/images/IpekOguz.png){: width="180" }
 ### Associate Professor, Department of Computer Science, Department of Electrical and Computer Engineering, Vanderbilt University, USA.
+
+**Biography:** Ipek Oguz is an Associate Professor in the Department of Computer Science at Vanderbilt University, with secondary appointments in Electrical and Computer Engineering and Biomedical Engineering. She received her Ph.D. in Computer Science at the University of North Carolina at Chapel Hill. Prior to joining Vanderbilt, she worked in the Penn Image Computing and Science Laboratory (PICSL) and Center for Biomedical Image Computing and Analytics (CBICA) at the University of Pennsylvania as well as in the Iowa Institute for Biomedical Imaging (IIBI) at the University of Iowa. Her research is in the field of medical image computing and specifically in the development of novel methodology for quantitative medical image analysis, with applications to ophthalmic imaging, obstetric imaging, endoscopic imaging and neuroimaging. Her technical interests include image segmentation, image synthesis and deep learning. She has co-authored more than 200 peer-reviewed journal and conference publications. She was a founding member of the Women in MICCAI Committee, and she is an Associate Editor for Medical Image Analysis and IEEE Transactions on Medical Imaging, and an Executive Editor for the Machine Learning for Biomedical Imaging journal. She served as program chair for MIDL 2023, and as general chair for IPMI 2025.
 <!-- ### McGill & CIFAR AI Chair – Mila
 
 🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/)
@@ -28,8 +30,14 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.avif){: width="180" }
+## 	Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.jpg){: width="180" }
 ### Provost’s Chair Professor, Department of Biomedical Engineering, National University of Singapore, Singapore.
+
+**Biography:** Professor Dean Ho is currently Provost’s Chair Professor, Director of The Institute for Digital Medicine (WisDM) at the Yong Loo Lin School of Medicine; Director of The N.1 Institute for Health (N.1), and Head of the Department of Biomedical Engineering at the National University of Singapore (NUS).
+
+Prof. Ho and team launched a first-in-kind trial - with Prof. Ho as the test subject - to optimise his performance and biomarkers with digital technologies. This study has been featured on television and digital media programming, and major global meetings. Prof. Ho and team also manage a portfolio of over 10 prospective, interventional human oncology clinical trials with life-saving outcomes. A serial entrepreneur, he has advised health/human performance teams, nutrition and wearable firms, and venture funds on digital medicine deployment.
+
+Prof. Ho is an elected Fellow of the US National Academy of Inventors (NAI), American Association for the Advancement of Science (AAAS), the American Institute for Medical and Biological Engineering (AIMBE), and the Royal Society of Chemistry. Prof. Ho is Co-Chair of the World Health Organization (WHO) Working Group for the regulation of AI for Health.
 
 
 <!-- 
@@ -49,8 +57,10 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Junzhou Huang, Ph.D.![Portrait of Junzhou Huang](/images/junzhou.jpg){: width="180" }
+## 	Junzhou Huang, Ph.D.![Portrait of Junzhou Huang](/images/JunzhouHuang.jpg){: width="180" }
 ###  Jenkins Garrett Professor, Department of Computer Science and Engineering, University of Texas at Arlington, USA.
+
+**Biography:** Dr. Junzhou Huang is the Jenkins Garrett Professor in the Department of Computer Science and Engineering at the University of Texas at Arlington. He has served as a Director of the Machine Learning & Healthcare Center at Tencent AI Lab. He is an Amazon Scholar. His research interests include machine learning, medical image analysis, and bioinformatics, with a particular emphasis on developing novel machine learning methods for graph-structured data and their applications in biomedicine. His research focuses on (1) the development of scalable and interpretable machine learning algorithms for complex graph data; and (2) AI methods for extracting biologically and clinically meaningful information from multimodal pathology and pharmacology data, with applications in computational pathology, computational immunology, and computational drug discovery. His research has been supported by federal and state agencies (NSF, NIH, CPRIT) as well as industry partners (Google, Amazon, Microsoft, IBM, Samsung, XtalPi, Nokia, and Johnson & Johnson). His work has been widely published in top-tier AI, machine learning, and medical image analysis venues, and he has served in editorial and program committee roles for leading conferences and journals in the field.
 
 <!-- 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao) -->
@@ -89,8 +99,17 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Mert Sabuncu, Ph.D.![Portrait of Mert Sabuncu](/images/mert-sanbuncu.jpeg){: width="180" }
+## Mert Sabuncu, Ph.D.![Portrait of Mert Sabuncu](/images/MertSabuncu.JPG){: width="180" }
 ### Professor, School of Electrical and Computer Engineering, Cornell University and Cornell Tech, USA.
+
+
+**Biography:** Mert R. Sabuncu is a Professor of Electrical and Computer Engineering at Cornell University and Cornell Tech, with a dual appointment in Radiology at Weill Cornell Medicine, where he serves as Vice Chair of AI and Engineering Research. His research focuses on the development of machine-learning–based computational methods for biomedical imaging, spanning image acquisition, segmentation, multimodal data integration, and clinical translation.
+
+Dr. Sabuncu received his Ph.D. in Electrical Engineering from Princeton University, where his dissertation introduced entropy-based approaches to image registration. He subsequently completed postdoctoral training at Massachusetts Institute of Technology, working with Polina Golland at the Computer Science and Artificial Intelligence Laboratory on biomedical image analysis, including brain MRI segmentation and population modeling.
+
+He later joined the A.A. Martinos Center for Biomedical Imaging at Massachusetts General Hospital and Harvard Medical School as junior faculty, where he established an independent research program at the intersection of medical imaging, machine learning, and genetics.
+
+Dr. Sabuncu is a recipient of the NIH Early Career Development (K) Award and the NSF CAREER Award, and he serves as Editor-in-Chief of Machine Learning for Biomedical Image Analysis (MELBA).
 
 <!-- 
 🏠 [Homepage](https://www.aylward.org)
