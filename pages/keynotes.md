@@ -29,7 +29,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Dean HO, Ph.D.![Portrait of Dean Ho](/images/deanho.jpg){: width="180" }
+## 	Dean Ho, Ph.D.![Portrait of Dean Ho](/images/deanho.jpg){: width="180" }
 ### Provost’s Chair Professor, Department of Biomedical Engineering, National University of Singapore, Singapore.
 
 
