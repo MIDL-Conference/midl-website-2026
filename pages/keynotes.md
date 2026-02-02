@@ -13,8 +13,8 @@ page_class: "keynotes"
 
 <!-- ### McGill & CIFAR AI Chair – Mila
 
-🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/)
-🎓 [Google Scholar](https://scholar.google.com/citations?user=0AN34NMAAAAJ&hl=en&oi=ao) -->
+<!-- 🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/) -->
+🎓 [Google Scholar](https://scholar.google.com/citations?user=oHJIjVwAAAAJ&hl=zh-CN)
   
 <!-- 
 #### **The Promise of Causal Deep Learning for Personalized Medicine based on Medical Images: Towards Safe and Trustworthy Clinical Deployment**
@@ -34,10 +34,10 @@ page_class: "keynotes"
 
 
 <!-- 
-🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel)
-🎓 [Google Scholar](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao)
+<!-- 🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel) -->
+🎓 [Google Scholar](https://scholar.google.com/citations?user=cBWUh88AAAAJ&hl=en)
 
-#### **AI and the Future of Radiology**
+<!-- #### **AI and the Future of Radiology** -->
 
 
 <!-- **Abstract:**  Artificial Intelligence (AI) is changing many fields across science and our society. This talk will discuss how AI is changing medicine and healthcare, particularly in radiology. I will focus on how AI can support the acquisition of medical images and image analysis and interpretation. This can enable the early detection of diseases and support the improved personalised diagnosis. I will show several examples of this in the talk, including cardiovascular MR imaging. Furthermore, we will discuss how AI solutions can be privacy-preserving while also providing trustworthy and explainable solutions for clinicians. -->
@@ -58,8 +58,8 @@ Prof. Ho is an elected Fellow of the US National Academy of Inventors (NAI), Ame
 ## 	Junzhou Huang, Ph.D.![Portrait of Junzhou Huang](/images/JunzhouHuang.jpg){: width="180" }
 ###  Jenkins Garrett Professor, Department of Computer Science and Engineering, University of Texas at Arlington, USA.
 
-<!-- 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
-🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao) -->
+<!-- <!-- 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu) -->
+🎓 [Google Scholar](https://scholar.google.com/citations?user=X7KrguAAAAAJ&hl=en&oi=ao)
 
 <!-- #### **Multimodal Learning for Early Cancer Detection in Low Resource Settings** -->
 <!-- #### **Bridging the Radiology-Pathology Gap for Prostate Cancer Characterization**  -->
@@ -99,11 +99,11 @@ Prof. Ho is an elected Fellow of the US National Academy of Inventors (NAI), Ame
 ### Professor, School of Electrical and Computer Engineering, Cornell University and Cornell Tech, USA.
 
 <!-- 
-🏠 [Homepage](https://www.aylward.org)
-🎓 [Google Scholar](https://scholar.google.com/citations?user=u1UdL4oAAAAJ&hl=en&oi=ao)
+<!-- 🏠 [Homepage](https://www.aylward.org) -->
+🎓 [Google Scholar](https://scholar.google.com/citations?user=Pig-I4QAAAAJ&hl=zh-CN)
 
 
-#### **MONAI For The Next Generation of Medical Technologies**
+<!-- #### **MONAI For The Next Generation of Medical Technologies** -->
 
 <!-- **Abstract:** MONAI is an open-source platform for medical AI that has been downloaded over 3.5M times, featured in hundreds of publications, used to win numerous medical image analysis challenges, and integrated into every major cloud-base healthcare platform as well as multiple regulatory-approved clinical products.   This presentation will explore the use of MONAI in the discovery and development of future medical products.  That future involves the intertwining of training, simulation, and execution to train and control robots, optimize equipment ergonomics, and inspire new forms of monitoring and intervention.  That future will be built on open source: MONAI, Omniverse, and the Holoscan SDK. -->
 
