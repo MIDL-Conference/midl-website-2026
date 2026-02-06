@@ -12,7 +12,7 @@ Below are photos of [Chientan Youth Activity Center](https://rwd.ezhotel.cloud/c
 
 <style>
   #venue-snap {
-    max-width: 600px;
+    max-width: 500px;
     margin: 0 auto 24px auto;
     overflow: hidden;
   }
