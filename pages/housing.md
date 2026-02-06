@@ -37,7 +37,7 @@ Below are photos of [Chientan Youth Activity Center](https://rwd.ezhotel.cloud/c
 **Chientan Youth Activity Center**
 <div id="venue-snap" aria-label="Venue photos">
   <div class="rail">
-    <!-- <img src="/images/youthcenter1.png" alt="center view 1"> -->
+    <img src="/images/youthcenter1.png" alt="center view 1">
     <img src="/images/youthcenter2.png" alt="center view 2">
     <img src="/images/youthcenter3.png" alt="center view 3">
     <img src="/images/youthcenter4.png" alt="center view 4">
@@ -48,7 +48,7 @@ Below are photos of [Chientan Youth Activity Center](https://rwd.ezhotel.cloud/c
 **Tango Taipei JianTan**
 <div id="venue-snap" aria-label="Venue photos">
   <div class="rail">
-    <img src="/images/tango1.png" alt="tango view 1">
+    <!-- <img src="/images/tango1.png" alt="tango view 1"> -->
     <img src="/images/tango2.png" alt="tango view 2">
     <img src="/images/tango3.png" alt="tango view 3">
     <img src="/images/tango4.png" alt="tango view 4">
