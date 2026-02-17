@@ -15,7 +15,6 @@ title: "Organization"
 * [Yuankai Huo](https://hrlblab.github.io/author/yuankai-huo/), PhD - Vanderbilt University
 * [Mingchen Gao](https://cse.buffalo.edu/~mgao8/), PhD - University at Buffalo
 * [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital
-* [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/), PhD - National Taiwan University
 * [Yueming Jin](https://yuemingjin.github.io/), PhD - National University of Singapore
 * [Ruining Deng](https://ddrrnn123.github.io/), PhD - Weill Cornell Medicine
 
