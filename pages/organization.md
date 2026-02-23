@@ -20,88 +20,87 @@ title: "Organization"
 
 
 ## Program Committee
-* Abdullah Imran
-* Alan Q. Wang
-* Alceu Bissoto
-* Aleksei Tiulpin
-* Alessa Hering
-* Alessa Hering
-* Amelia Jiménez-Sánchez
-* Ananya Jana
-* Anne-Marie Rickmann
-* Attila Simkó
-* Behdad Dashtbozorg
-* Benjamin Billot
-* Bernhard Kainz
-* Bo Zhou
-* Boah Kim
-* Carole Frindel
-* Cheng Chen
-* Chenyu You
-* Cian M Scannell
-* Dakai Jin
-* Daniele Ravi
-* Dong Yang
-* Dwarikanath Mahapatra
-* Erwan Kerrien
-* Florentin Bieder
-* Guang Li
-* Guang Yang
-* Hao Chen
-* Hao Li
-* Harini Veeraraghavan
-* Hoel Kervadec
-* Hongwei Bran Li
-* Ilker Hacihaliloglu
-* Jelmer M. Wolterink
-* Jiancheng Yang
-* Jianming Liang
-* Jinwei Zhang
-* Jonas Richiardi
-* Karthik Gopinath
-* Lequan Yu
-* Lianrui Zuo
-* Marianne Rakic
-* Mathias Unberath
-* Matthias Wilms
-* Mattias P Heinrich
-* Meenakshi Khosla
-* Meng Wang
-* Meng Ye
-* Mengnan Du
-* Miaomiao Zhang
-* Minjeong Kim
-* Mischa Dombrowski
-* Neel Dey
-* Nicha C Dvornek
-* Nicholas Konz
-* Niharika S. D'Souza
-* Nima Fathi
-* Olivier Bernard
-* Philipp Berens
-* Qingjie Meng
-* Raghav Mehta
-* Ruining Deng
-* Shikha Dubey
-* Sila Kurugol
-* Stéphanie Bricq
-* Sulaiman Vesal
-* Tolga Tasdizen
-* Vineet K Raghu
-* Walid Yassine
-* William Hsu
-* Wilson Silva
-* Xiaofeng Liu
-* Xiaosong Wang
-* Yan Zhuang
-* Yanda Meng
-* Yihao Liu
-* Yuan Xue
-* Yuankai Huo
-* Yucheng Tang
-* Yun Gu
-* Zeju Li
-* Zongwei Zhou
+* Abdullah Imran, University of Kentucky
+* Alan Q. Wang, Apple
+* Alceu Bissoto, University of Bern
+* Aleksei Tiulpin, University of Oulu
+* Alessa Hering, Radboud University Medical Center 
+* Amelia Jiménez-Sánchez, Universitat de Barcelona
+* Ananya Jana, Marshall University
+* Anne-Marie Rickmann, Yale University
+* Attila Simkó, Umea University
+* Behdad Dashtbozorg, Netherlands Cancer Institute.
+* Benjamin Billot, INRIA
+* Bernhard Kainz, Imperial College London
+* Bo Zhou, Northwestern University
+* Boah Kim, Sungkyunkwan University
+* Carole Frindel, Institut National des Sciences Appliquées de Lyon
+* Cheng Chen, University of Hong Kong
+* Chenyu You, State University of New York at Stony Brook
+* Cian M Scannell, Eindhoven University of Technology
+* Dakai Jin, Alibaba Group
+* Daniele Ravi, University of Messina
+* Dong Yang, NVIDIA
+* Dwarikanath Mahapatra, Khalifa University
+* Erwan Kerrien, INRIA
+* Florentin Bieder, University of Basel
+* Guang Li, Hokkaido University
+* Guang Yang, Imperial College London
+* Hao Chen, Hong Kong University of Science and Technology
+* Hao Li, Vanderbilt University
+* Harini Veeraraghavan, Memorial Sloan Kettering Cancer Centre
+* Hoel Kervadec, University of Amsterdam
+* Hongwei Bran Li, National University of Singapore
+* Ilker Hacihaliloglu, University of British Columbia
+* Jelmer M. Wolterink, University of Twente
+* Jiancheng Yang, ELLIS Institute Finland and Aalto University
+* Jianming Liang, Arizona State University
+* Jinwei Zhang, Johns Hopkins University
+* Jonas Richiardi, Lausanne University Hospital
+* Karthik Gopinath, Harvard University
+* Lequan Yu, University of Hong Kong
+* Lianrui Zuo, Vanderbilt University
+* Marianne Rakic, Massachusetts Institute of Technology
+* Mathias Unberath, Johns Hopkins University
+* Matthias Wilms, University of Michigan - Ann Arbor
+* Mattias P Heinrich, University of Lübeck
+* Meenakshi Khosla, University of California, San Diego
+* Meng Wang, University of Singapore
+* Meng Ye, University of Texas at Arlington
+* Mengnan Du, The Chinese University of Hong Kong
+* Miaomiao Zhang, University of Virginia
+* Minjeong Kim, University of North Carolina, Greensboro
+* Mischa Dombrowski, Friedrich-Alexander-University of Erlangen-Nürnberg
+* Neel Dey, Harvard University
+* Nicha C Dvornek, Yale University
+* Nicholas Konz, North Carolina at Chapel Hill
+* Niharika S. D'Souza, IBM
+* Nima Fathi, McGill University
+* Olivier Bernard, INSA de Lyon
+* Philipp Berens, University of Tuebingen
+* Qingjie Meng, University of Birmingham
+* Raghav Mehta, Imperial College London
+* Ruining Deng, Cornell University
+* Shikha Dubey, Johnson and Johnson
+* Sila Kurugol, Boston Children's Hospital and Harvard Medical School
+* Stéphanie Bricq, Université de Bourgogne
+* Sulaiman Vesal, Stanford University
+* Tolga Tasdizen, University of Utah
+* Vineet K Raghu, Massachusetts General Hospital and Harvard University
+* Walid Yassine, Incepto Medical
+* William Hsu, University of California, Los Angeles
+* Wilson Silva, Utrecht University
+* Xiaofeng Liu, Yale University
+* Xiaosong Wang, Shanghai AI Laboratory
+* Yan Zhuang, Icahn School of Medicine at Mount Sinai
+* Yanda Meng, King Abdullah University of Science and Technology
+* Yihao Liu, Vanderbilt University
+* Yuan Xue, Ohio State University
+* Yuankai Huo, Vanderbilt University
+* Yucheng Tang, NVIDIA
+* Yun Gu, Shanghai Jiao Tong University
+* Zeju Li, Fudan University
+* Zongwei Zhou, Johns Hopkins University
 
 ## Paper Reviewers
 
