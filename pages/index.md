@@ -6,7 +6,7 @@ page_class: home
 
 # Medical Imaging with Deep Learning
 ## Taipei, 08—10 July 2026
-## Conference registration is Open! Click the button to register!
+## [Conference registration](registration.md) is Open! Click the button to register!
 
 <p class="button">
   <a href="https://www.conf.tw/site/order/1665/signupen.aspx?sid=1665&lang=en" target="_blank">Click Here to register MIDL 2026!</a>
