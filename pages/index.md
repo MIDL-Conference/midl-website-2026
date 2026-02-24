@@ -20,7 +20,7 @@ page_class: home
 | Full/Non-Student Registration - Without Accomodation | NTD 18,900 (~USD 600) | NTD 25,200 (~USD 800) |
 | Student Registration - Without Accomodation | NTD 12,600 (~USD 400) | NTD 25,200 (~USD 800)  |
 | Accommodation | NTD 3,308 (~USD 105) / per night |  |
-| Workshop on 07/11 | NTD NTD 150 (~USD 5) |  |
+| Workshop on 07/11 | NTD 150 (~USD 5) |  |
 
 
 <p class="primary-photo centered">
