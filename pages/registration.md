@@ -56,14 +56,13 @@ Low cost housing is provided (optional) in/near the [conference vueue](/housing.
 **Check-in:** anytime after 2 PM MT   
 **Check-out:** before 11 AM MT
 
-**Directions on how to get to Chientan Youth Activity Center from the Taipei Taoyuan International Airport:**    
+**rections on how to get to Chientan Youth Activity Center from the Taipei Taoyuan International Airport:**    
+
 - From Taipei Taoyuan International Airport (TPE), take the Taoyuan Airport MRT toward Taipei Main Station (A1).
 - Get off at Taipei Main Station (A1) and transfer to the Taipei Metro (MRT) Red Line (Tamsui–Xinyi Line).
 - Take the Red Line toward Tamsui / Beitou and get off at Jiantan Station (R15).
 - Exit Jiantan Station and go to Chientan Youth Activity Center (劍潭青年活動中心) (about a 10–15 minute walk, or a short taxi/bus ride).
-- Up-to-date MRT/airport line service information can be found here:
-- Taoyuan Airport MRT: [https://www.tymetro.co.tw/](https://www.tymetro.co.tw/)
-Taipei Metro: [https://english.metro.taipei/](https://english.metro.taipei/)
+- Up-to-date MRT/airport line service information can be found here:Taoyuan Airport MRT: [https://www.tymetro.co.tw/](https://www.tymetro.co.tw/), Taipei Metro: [https://english.metro.taipei/](https://english.metro.taipei/)
 
 Below are photos of [Chientan Youth Activity Center](https://rwd.ezhotel.cloud/cyh/2) and [Tango Taipei JianTan](https://jt.tango-hotels.com/_en/01about/about.php). Swipe horizontally to explore each venue. 
 
