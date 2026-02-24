@@ -40,15 +40,15 @@ Early registration will be up to **May 12th 2026**.
 - Student registration is available. Student status will be verified using one of the following:
 - A copy of your transcript/student record showing you are a full-time student, or a letter from your supervisor/advisor confirming full-time status.
 We will contact the email address used during registration to collect the document.
-- <b><span style="color:red">If the required document is not provided by May 12th, the student registration will be canceled and a refund will be issued.</span></b> 
+- <b><span style="color:red">If the required document is not provided by May 12th 2026, the student registration will be canceled and a refund will be issued.</span></b> 
 
 ## Refund Policy (Cancelation policy)
-- If you are unable to attend,refund requests submitted by 11 May 2026 are eligible for a full refund.
-- A 50% refund may be requested between 12 May and 20 June 2026.
-- No refunds will be issued for requests received on or after 21 June 2026.
+- If you are unable to attend,refund requests submitted by May 11th 2026 are eligible for a full refund.
+- A 50% refund may be requested between May 12th and June 20th 2026.
+- No refunds will be issued for requests received on or after June 21th 2026.
 
 ## Visa Letter
-Visa letters will only be automatically issued upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. 
+Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. 
 
 ## Housing
 Low cost housing is provided (optional) in/near the [conference vueue](/housing.html). at either **The Chientan Youth Activity Center (on-site) or The Tango Taipei JianTan (400m from the venue)** with selected days (up to 5 nights). Note that the number of those hotel rooms are limited, with first come first serve. All participants will be provided with single occupancy in a double room, featuring either one double bed or two twin beds. Please note that both hotel locations and room configurations will be randomly assigned; specific requests for self-selection cannot be accommodated. 
