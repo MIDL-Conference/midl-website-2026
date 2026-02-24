@@ -50,6 +50,10 @@ We will contact the email address used during registration to collect the docume
 ## Visa Letter
 Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. 
 
+## 大陸人員參會協助
+大陸人員參會，我們將與移民署溝通並提供**大陸地區人民申請來臺從事專業交流線上申辦**協助。請於完成註冊後，填寫來訪名冊所需資料；我們將彙整名單並提交移民署，以申報您預計來中華臺北參加本次會議的行程。請務必於2月28日晚間 8 點前(UTC)完成表單填寫。如有问题请发邮件联系2026@midl.io 
+
+
 ## Housing
 Low cost housing is provided (optional) in/near the [conference vueue](/housing.html). at either **The Chientan Youth Activity Center (on-site) or The Tango Taipei JianTan (400m from the venue)** with selected days (up to 5 nights). Note that the number of those hotel rooms are limited, with first come first serve. All participants will be provided with single occupancy in a double room, featuring either one double bed or two twin beds. Please note that both hotel locations and room configurations will be randomly assigned; specific requests for self-selection cannot be accommodated. 
 
