@@ -6,14 +6,22 @@ page_class: home
 
 # Medical Imaging with Deep Learning
 ## Taipei, 08—10 July 2026
-## Paper Submission is Open! Click the button to submit!
+## Conference registration is Open! Click the button to register!
 
 <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2026" target="_blank">Click Here to Submit Your MIDL 2026 Papers!</a>
+  <a href="https://www.conf.tw/site/order/1665/signupen.aspx?sid=1665&lang=en" target="_blank">Click Here to register MIDL 2026!</a>
 </p>
 
-## Paper registration deadline:   <s> 2025/12/01 </s> &nbsp;&nbsp;  2025/12/03
-## Paper submission deadline: <s> 2025/12/05 </s> &nbsp;&nbsp;  2025/12/10
+## Early bird registration deadline:   2026/05/12
+## We recommend paying the registration fee directly in New Taiwan Dollars (NTD). Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
+
+| Registration Fee | Early bird (On or before May 12th) | Regular (After May 12th) |
+|---|---:|---:|
+| Full/Non-Student Registration - Without Accomodation | NTD 18,900 (~USD 600) | NTD 25,200 (approximately ~USD 800) |
+| Student Registration - Without Accomodation | NTD 12,600 (approximately ~USD 400) | NTD 25,200 (approximately ~USD 800)  |
+| Accommodation | NTD 3,308 (approximately USD 105) / per night |  |
+| Workshop on 07/11 | NTD NTD 150 (approximately USD 5) |  |
+
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/Taipei1_small.jpg">
