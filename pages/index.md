@@ -13,7 +13,7 @@ page_class: home
 </p>
 
 ## Early bird registration deadline:   2026/05/12
-## We recommend paying the registration fee directly in New Taiwan Dollars (NTD). Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
+<b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
 
 | Registration Fee | Early bird (On or before May 12th) | Regular (After May 12th) |
 |---|---:|---:|
