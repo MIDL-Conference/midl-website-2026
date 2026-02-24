@@ -5,7 +5,7 @@ title: Registration
 {% from "_macros.html" import button %}
 # Registration
 
-# Medical Imaging with Deep Learning
+## Medical Imaging with Deep Learning
 ## Taipei, 08—10 July 2026
 The conference is being held in [Taipei City](/venue.html). 
 
