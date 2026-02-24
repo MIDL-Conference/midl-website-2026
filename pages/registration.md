@@ -33,19 +33,10 @@ Early registration will be up to **May 12th 2026**.
 | Student Registration - Without Accomodation | NTD 12,600 (~USD 400) | NTD 25,200 (~USD 800)  |
 | Accommodation | NTD 3,308 (~USD 105) / per night |  |
 | Workshop on 07/11 | NTD 150 (~USD 5) |  |
-
-| Category                                       | Price    |
-|------------------------------------------------|----------|
-| Early-Bird Registration *Without* Housing      | $640|
-| Early-Bird Registration *With* Housing         | $865 |
-| Late Registration *Without* Housing            | $750|
-| Late Registration *With* Housing               | $975 |
-
-
 </center>
 
-## Registration
-*Student registration fees are available upon verification of student status. Student status will be verified with the following documents:
+## Student Registration
+*Student registration fees are available. Student status will be verified with the following documents:
 - a copy of your transcript (student record) indicatng that you are a full-time student OR a letter from your supervisor/advisor indicatng that you are a full-time student. (We will send an email to you to request this letter after the registeration).
 
 ## Refund Policy (Cancelation policy)
