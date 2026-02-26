@@ -57,7 +57,7 @@ Visa letters will only be automatically issued through an email upon completion 
 ## Housing
 Low cost housing is provided (optional) in/near the [conference vueue](/housing.html). at either **The Chientan Youth Activity Center (on-site) or The Tango Taipei JianTan (400m from the venue)** with selected days (up to 5 nights). Note that the number of those hotel rooms are limited, with first come first serve. All participants will be provided with single occupancy in a double room, featuring either one double bed or two twin beds. Please note that both hotel locations and room configurations will be randomly assigned; specific requests for self-selection cannot be accommodated. 
 
-**Check-in:** anytime after 2 PM MT   
+**Check-in:** anytime after 4 PM MT   
 **Check-out:** before 11 AM MT
 
 **rections on how to get to Chientan Youth Activity Center from the Taipei Taoyuan International Airport:**    
@@ -116,14 +116,6 @@ Below are photos of [Chientan Youth Activity Center](https://rwd.ezhotel.cloud/c
   </div>
 </div>
 
-
-<!-- **IMPORTANT NOTE**: MIDL attendees who signed up for housing will be staying in the Kahlert Village (KV) dorm building. It's important to note that check-in will occur at the main desk in the adjacent Marriott Honors Community located at 250 S Mario Capecchi Dr. Please read the detailed instructions welcome letter attached below. 
-
-<span style="color:blue;">**Late arrivals**: The Summer Conferences Guest Services Desk is staffed with an attendant who can check guests in until midnight. After that, calling the desk phone (801-587-7663) will alert a team member who can assist them. If you anticipate arriving after midnight please email Raymond Lunde (rlunde@summerconferences.utah.edu) in advance to provide an approximate arrival time. </span>
-
-<span style="color:red;">**Check-out**: The desk opens at 6:00am. If checking out while the desk is open, guests are asked to return their key and swipe card to the desk. If a guest needs to check out before the desk is open, they can simply leave their key in their room on the desk. If checking out early please email rlunde@summerconferences.utah.edu to let Raymond know. </span>
-
-<span style="color:brown;">**The Summer Conferences Guest Services Desk phone number +1-801-587-7663 will be available 24/7.**</span>
 
 
 
