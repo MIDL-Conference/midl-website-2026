@@ -12,7 +12,7 @@ page_class: home
   <a href="https://www.conf.tw/site/order/1665/signupen.aspx?sid=1665&lang=en" target="_blank">Click Here to register MIDL 2026!</a>
 </p>
 
-## [Short paper submission](call-for-papers.md) is Open! Submit short paper!
+## [Short paper submission](call-for-papers.md) is Open (submission deadline 15 April 2026)!
 <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper Submission!</a>
 </p> 
