@@ -50,6 +50,18 @@ Short Papers (**≤ 3 pages**, excluding references) may present early ideas or 
 
 For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@2026.midl.io).
 
+### Short Papers
+[% .deadlines %]
+* **Short paper submission deadline** 15 April 2026
+* **Final decisions** 9 May 2026
+* **Camera-ready deadline** 15 May 2026 -->
+
+[% / %]
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper Submission!</a>
+</p> -->
+
+
 
 ### Validation Studies (Special Track)
 
@@ -130,22 +142,13 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Camera-ready deadline** 15 April 2026
 <!-- for stricking use <s. </s>-->
 [% / %]
-<p class="button">
+<!-- <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2026/Conference" target="_blank">Full Paper Submission</a>
-</p> 
+</p>  -->
 
 This year, a small new track (validation studies) dedicated to **large-scale** clinically oriented validation of deep learning methods is launched. The paper can be submitted through [Special Track (Validation Studies) Submission Portal](https://openreview.net/group?id=MIDL.io/2026/Validation_Papers).
 
-### Short Papers
-[% .deadlines %]
-<!-- * **Short paper submission deadline** 11 April 2025
-* **Final decisions** 1 May 2025
-* **Camera-ready deadline** 1 June 2025 -->
-* Apr, 2026
-[% / %]
-<!-- <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
-</p> -->
+
 
 ### Conference Dates
 [% .deadlines %]
