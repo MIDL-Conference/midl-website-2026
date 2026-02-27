@@ -12,6 +12,12 @@ page_class: home
   <a href="https://www.conf.tw/site/order/1665/signupen.aspx?sid=1665&lang=en" target="_blank">Click Here to register MIDL 2026!</a>
 </p>
 
+## [Short paper submission](call-for-papers.md) is Open! Submit short paper!
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2026/Short_Papers" target="_blank">Short Paper Submission!</a>
+</p> 
+
+
 ## Early bird registration deadline: 2026/05/12. Details please see the [Registration Page](registration.md).
 <b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
 
