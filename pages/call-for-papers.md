@@ -8,11 +8,11 @@ title: Call for Papers
 
 Medical Imaging with Deep Learning (MIDL) 2026
 
-July 8–10, 2026 • Taipei, Taiwan, ROC
+July 8–10, 2026 • Taipei, Taiwan, China
 
 The Medical Imaging with Deep Learning (MIDL) Conference is the premier international meeting dedicated to deep learning for biomedical image analysis. It brings together researchers, clinicians, and industry professionals to exchange ideas, present cutting-edge methods, and discuss how artificial intelligence is transforming medical imaging research and clinical practice.
 
-The 2026 edition will be held in person in Taipei, Taiwan, ROC, with free online streaming to ensure global participation. Alongside a vibrant scientific program featuring plenary talks, oral and poster presentations, MIDL 2026 will also include tutorials, challenges, and opportunities for networking across disciplines.
+The 2026 edition will be held in person in Taipei, Taiwan, China, with free online streaming to ensure global participation. Alongside a vibrant scientific program featuring plenary talks, oral and poster presentations, MIDL 2026 will also include tutorials, challenges, and opportunities for networking across disciplines.
 
 Building on its tradition of fostering both algorithmic innovation and clinical translation, MIDL 2026 invites contributions that range from foundational methodologies to validation studies demonstrating real-world impact.
 
@@ -111,7 +111,7 @@ MIDL 2026 welcomes the responsible use of modern tools, including Large Language
 - Accepted full papers will be published in the Proceedings of Machine Learning Research (PMLR). 
 - We encourage authors to share code, models, and datasets to promote open science and reproducibility, although this is not required for acceptance. Please refer to MIDL [reproducibility guidelines](https://www.midl.io/reproducibility).
   
-Join us in Taipei, Taiwan, ROC for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
+Join us in Taipei, Taiwan, China for MIDL 2026 — an inspiring forum to share breakthroughs, exchange ideas, and accelerate the translation of deep learning into biomedical imaging practice.
 
   
 # Submission Timeline
@@ -153,7 +153,7 @@ This year, a small new track (validation studies) dedicated to **large-scale** c
 ### Conference Dates
 [% .deadlines %]
 * **Main event** July 8–10 2026
-* **Venue** Taipei, Taiwan, ROC
+* **Venue** Taipei, Taiwan, China
 [% / %]
 
 ### Contact

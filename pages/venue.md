@@ -4,7 +4,7 @@ title: "Venue"
 {% from "_macros.html" import map %}
 
 # Conference Venue
-MIDL 2026 will be hosted at [Chientan Youth Activity Center](https://chientan.cyh.org.tw/?lang=en){:target="_blank"} in Chientan, Taipei, Taiwan, ROC.
+MIDL 2026 will be hosted at [Chientan Youth Activity Center](https://chientan.cyh.org.tw/?lang=en){:target="_blank"} in Chientan, Taipei, Taiwan, China.
 
 <!-- ![SCAI](/images/venue_map.png) -->
 # Center Information
