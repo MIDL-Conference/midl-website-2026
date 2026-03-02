@@ -118,8 +118,13 @@ Abdelouahab Moussaoui, Abdesselam Ferdi, Adrian Galdran, Aldo Zaimi, Amin Davarz
 * [Chen Chen](https://cherise215.github.io/), PhD  -  University of Sheffield
 
 ## Local Arrangement Chairs
+* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - Chang Gung Memorial Hospita
 * [Chi-Tung Cheng](https://www.linkedin.com/in/chi-tung-cheng-9b5b0ba2/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 * [Chein-Hung Liao](https://www.linkedin.com/in/ranson-chien-hung-liao-7b7201137/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 
 ## Website and Media Chair
 * [Yibing Fu](https://www.linkedin.com/in/yibing-fu-576a97290/), - National University of Singapore
+
+## Publication Chair
+* Shantam Srivastava, - University at Buffalo
+
