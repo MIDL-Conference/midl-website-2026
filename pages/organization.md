@@ -126,5 +126,5 @@ Abdelouahab Moussaoui, Abdesselam Ferdi, Adrian Galdran, Aldo Zaimi, Amin Davarz
 * [Yibing Fu](https://www.linkedin.com/in/yibing-fu-576a97290/), - National University of Singapore
 
 ## Publication Chair
-* Shantam Srivastava, - University at Buffalo
+* [Shantam Srivastava](www.linkedin.com/in/shantam-srivastava00), - University at Buffalo
 
