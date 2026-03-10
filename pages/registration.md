@@ -16,7 +16,9 @@ The conference is being held in [Taipei City](/venue.html).
 </p>
 
 ## Early bird registration deadline:   2026/05/12
-<b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
+<b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees. 
+
+Update on 03/10: We have added 銀聯卡支付(UnionPay) as additional payment method.
 
 Each accepted paper needs **at least one author to register** for the conference. Please make sure to **enter the ID and Title of the paper** you submitted on the registration form. 
 
@@ -50,8 +52,8 @@ We will contact the email address used during registration to collect the docume
 ## Visa Letter
 Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. 
 
-## 大陸人員參會協助
-為方便大陸人員參會，我們將與移民署溝通並提供**大陸地區人民申請來臺從事專業交流線上申辦**協助。請於完成註冊後，填寫[來訪名冊所需資料](https://forms.cloud.microsoft/r/vBAhpUscew)；我們將彙整名單並提交移民署，以申報您預計來中華臺北參加本次會議的行程。請務必於2月28日晚間 8 點前(UTC)完成表單填寫。如有问题请发邮件联系2026@midl.io 
+~~## 大陸人員參會協助~~
+~~為方便大陸人員參會，我們將與移民署溝通並提供**大陸地區人民申請來臺從事專業交流線上申辦**協助。請於完成註冊後，填寫[來訪名冊所需資料](https://forms.cloud.microsoft/r/vBAhpUscew)；我們將彙整名單並提交移民署，以申報您預計來中華臺北參加本次會議的行程。請務必於2月28日晚間 8 點前(UTC)完成表單填寫。如有问题请发邮件联系2026@midl.io~~
 
 
 ## Housing
