@@ -23,12 +23,14 @@ Once your final material is prepared according to the detailed instructions belo
 
 Three different items need to be prepared for upload in OpenReview:
 
-1. your LaTeX code
+1. your LaTeX code, **please refer to [MIDL 2026 Camera-Ready Latex Code Submission Guidelines](https://github.com/MIDL-Conference/midl-website-2026/blob/master/static/LatexGuidelines.pdf)**
 2. the filled and signed PMLR copyright form
 3. PDF of the camera ready version
 
+
+
 ### Latex Code
-Prepare your camera ready submission using the **latest** version of the LaTeX MIDL template (`midl-fullpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
+Prepare your camera ready submission using the **latest** version of the LaTeX MIDL template (`midl-fullpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate). Details **please refer to [MIDL 2026 Camera-Ready Latex Code Submission Guidelines](https://github.com/MIDL-Conference/midl-website-2026/blob/master/static/LatexGuidelines.pdf)**
 
 Please make sure your are **not:**
 
