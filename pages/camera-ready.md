@@ -40,7 +40,7 @@ Please make sure your are **not:**
 
 After making sure that your project compiles correctly with the standard `pdflatex` compiler, please include all the following items in a single zip folder LaTeX project:
 
-1. The main LaTex file, which should be named `midl26_NNN.tex`, where `NNN` represents the submission OpenReview ID (e.g. 312). The ID should be written exactly as assigned, if the ID is 32, the file should be named `midl2026_32.tex` (not `midl2026_032.tex`).
+1. The main LaTex file, which should be named `midl26_NNN.tex`, where `NNN` represents the submission OpenReview ID (e.g. 312). The ID should be written exactly as assigned, if the ID is 32, the file should be named `midl26_32.tex` (not `midl26_032.tex`).
 2. The bibliography should be in a single `.bib` file and named `midl26_NNN.bib` with the same convention as above.
 3. Within the `midl26_NNN.tex` tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
 4. You should also set the following variables before the `\title` command: `\jmlryear{2026}\jmlrworkshop{Full Paper -- MIDL 2026}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2026}`
