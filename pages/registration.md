@@ -54,6 +54,7 @@ Visa letters will only be automatically issued through an email upon completion 
 
 ## ~~大陸人員參會協助~~
 由於中國大陸參與者申請專項項目的流程至少需要三個月時間，目前大陸人員參會協助已經截止。會務中心無法為大陸新申請者（包括短論文錄用者）提供參會協助。
+
 ~~為方便大陸人員參會，我們將與移民署溝通並提供**大陸地區人民申請來臺從事專業交流線上申辦**協助。請於完成註冊後，填寫[來訪名冊所需資料](https://forms.cloud.microsoft/r/vBAhpUscew)；我們將彙整名單並提交移民署，以申報您預計來中華臺北參加本次會議的行程。請務必於2月28日晚間 8 點前(UTC)完成表單填寫。如有问题请发邮件联系2026@midl.io~~
 
 
