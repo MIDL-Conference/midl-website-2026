@@ -50,7 +50,7 @@ We will contact the email address used during registration to collect the docume
 - No refunds will be issued for requests received on or after June 21th 2026.
 
 ## Visa Letter
-Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. 
+Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. Please contact aicoreinf@cgmh.org.tw for any questions about visa/entry permission.
 
 ## 大陸人員參會協助（已截止）
 由於中國大陸參與者申請專項項目的流程至少需要三個月時間，目前大陸人員參會協助已經截止。會務中心無法為新的大陸申請者（包括短論文錄用者）提供參會協助。
