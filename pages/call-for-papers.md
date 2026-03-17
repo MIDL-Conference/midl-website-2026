@@ -54,7 +54,8 @@ For inquiries, please contact the program chairs at [pc@2026.midl.io](mailto:pc@
 [% .deadlines %]
 * **Short paper submission deadline** 15 April 2026
 * **Final decisions** 9 May 2026
-* **Camera-ready deadline** 15 May 2026 
+* **Camera-ready deadline** 15 May 2026
+* Short papers will **NOT** be included in MIDL conference proceeding.
 
 [% / %]
 <p class="button">
