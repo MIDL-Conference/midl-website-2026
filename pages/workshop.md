@@ -31,10 +31,10 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
   - **First 2 hours:** I4H intro hands-on training lab and Open Models
   - **Second 2 hours:** PhysioMotion + MONAI — either run another 90-minute hands-on lab or give presentations and offer free training credits for self-paced learning at home
 
-## **Workshop Venue: Gardner Commons: SICILIANO Auditorium**
+## **Workshop Venue: [Chientan Youth Activity Center](https://chientan.cyh.org.tw/?lang=en)**
 
-[Google Maps Link](https://maps.app.goo.gl/deq5naRhgWQEU8376)
+[Google Maps Link](https://maps.app.goo.gl/p7S5A4MAxvizPAFC9)
 
-![](/images/venue/WorkshopVenuePath.png)
+![](/images/chientan1.jpg)
  
 
