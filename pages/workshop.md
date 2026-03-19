@@ -23,25 +23,13 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
 ---
 
 ## **Tentative Program:**
-**8:00 AM – 8:30 AM | Registration and Breakfast**     
-
-**8:30 AM – 8:45 AM | Welcome and Introduction**     
-Overview of workshop goals, structure, and the importance of robust data practices in medical imaging.
-
-**8:45 – 10:15 AM | Talk Session: Innovations in Dataset Management**     
-*Speaker: Daniel Gural , Voxel51*     
-A high-level perspective on data challenges in medical imaging and the growing role of curated and synthetic datasets.    
-Short talks + Q&A from leading researchers and practitioners.     
-
-**10:15 AM – 10:30 AM | Coffee Break & Networking**     
-
-**10:30 AM – 12:15 PM | Hands-On Tutorial: Managing Medical Imaging Datasets with FiftyOne**     
-Facilitators: Daniel Gural , Voxel51
-
-**12:15 PM – 1:15 PM | Lunch**     
-
-**1:15 PM – 3:00 PM | Wrap-Up and Discussion and Hackathon**     
-Recap, Q&A, and sharing of additional resources for continued learning.
+- **Date:** July 11,  08:30 AM to 12:30 PM
+- **Location:** Taipei, Taiwan
+- **Capacity:** In-person (room for up to 80 people)
+- **Time:** Set by the workshop organizers
+- **Focused Topics**
+  - **First 2 hours:** I4H intro hands-on training lab and Open Models
+  - **Second 2 hours:** PhysioMotion + MONAI — either run another 90-minute hands-on lab or give presentations and offer free training credits for self-paced learning at home
 
 ## **Workshop Venue: Gardner Commons: SICILIANO Auditorium**
 
