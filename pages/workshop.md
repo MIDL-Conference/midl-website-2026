@@ -2,6 +2,7 @@
 title: Post-day Workshop
 ---
 
+# MIDL 2026 Post-day Workshop
 ## **From Pixels to Procedures: Building Intelligent Healthcare Applications with MONAI, NVFLARE, and Isaac For Healthcare**
 
 **Abstract:**  
