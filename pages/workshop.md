@@ -2,14 +2,18 @@
 title: Post-day Workshop
 ---
 
-# Managing Medical Imaging Datasets: From Curation to Evaluation
+**"From Pixels to Procedures: Building Intelligent Healthcare Applications with MONAI, NVFLARE, and Isaac For Healthcare"**
 
-**High-quality data is the backbone of impactful medical AI.** This workshop explores the full lifecycle of medical imaging datasets—from smart curation strategies and synthetic data generation to robust evaluation techniques. You will gain exposure to cutting-edge research and hands-on tools that are reshaping how imaging data is managed in medical AI workflows.
+**Abstract:**  
+Artificial intelligence is transforming how we model, interpret, and simulate the human body. Yet harnessing its full potential in healthcare requires not only powerful algorithms but also robust platforms that bridge research and real-world practice. This hands-on workshop invites participants to explore how NVIDIA’s open technologies—**MONAI**, **NVFLARE**, and **Isaac For Healthcare**—can be applied to develop scalable, collaborative, and safe AI systems for medical imaging, surgical robotics, and digital twins. Whether you’re a researcher, clinician, or engineer, you’ll leave with a deeper understanding of how these tools can accelerate your innovation pipeline.  
 
-In the first half, leading researchers and practitioners will share best practices in dataset quality control, synthetic data generation, and reproducible evaluation. In the second half, participants will take part in a hands-on tutorial using [**FiftyOne**](https://github.com/voxel51/fiftyone), a powerful open-source toolkit, to explore and curate datasets across modalities such as X-ray, MRI, CT, and ultrasound.
+The first portion of the workshop introduces **MONAI**, the open-source, domain-specialized framework for medical imaging AI, showcasing workflows from dataset curation to model deployment and the creation of digital twins.
 
-Whether you are a researcher looking to improve dataset integrity, a clinician collaborating on AI development, or an ML engineer scaling healthcare models, this session offers practical insights and tools to level up your work with medical imaging data.
+Participants will then explore **NVFLARE**, a federated learning platform designed for training models across institutions while preserving data privacy and compliance—essential for multi-center healthcare AI collaborations.  
 
+Finally, we will explore **Isaac For Healthcare** for healthcare simulation and robotics, demonstrating how open data models, physics-based environments, and real-time sensor fusion can be used to train and evaluate autonomous or semi-autonomous surgical systems. Example projects and code will be provided, and parallel lectures and lab sessions will ensure participants gain both conceptual insights and practical experience.  
+
+*Familiarity with Python is helpful but not required. No prior experience with NVIDIA frameworks is necessary—curiosity and collaboration are all you need!*  
 
 ---
 
@@ -18,7 +22,6 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
 * Medical imaging researchers
 * Clinical collaborators in AI projects
 * ML engineers and data scientists in healthcare
-* Professionals involved in dataset annotation and evaluation
 
 ---
 
@@ -28,8 +31,8 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
 - **Capacity:** In-person (room for up to 80 people)
 - **Time:** Set by the workshop organizers
 - **Focused Topics**
-  - **First 2 hours:** I4H intro hands-on training lab and Open Models
-  - **Second 2 hours:** PhysioMotion + MONAI — either run another 90-minute hands-on lab or give presentations and offer free training credits for self-paced learning at home
+  - **First 2 hours:** MONAI & NVFLARE
+    - **First 2 hours:** Isaac For Healthcare hands-on training lab and Open Models
 
 ## **Workshop Venue: [Chientan Youth Activity Center](https://chientan.cyh.org.tw/?lang=en)**
 
