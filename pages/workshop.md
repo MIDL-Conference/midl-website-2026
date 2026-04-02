@@ -27,7 +27,7 @@ Finally, we will explore **Isaac For Healthcare**, demonstrating how open data m
 ---
 
 ## **Tentative Program:**
-- **Date:** July 11,
+- **Date:** July 11th
 - **Time:** 08:30 AM to 12:30 PM
 - **Location:** Taipei, Taiwan
 - **Capacity:** In-person (room for up to 80 people)
