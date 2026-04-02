@@ -27,10 +27,10 @@ Finally, we will explore **Isaac For Healthcare**, demonstrating how open data m
 ---
 
 ## **Tentative Program:**
-- **Date:** July 11,  08:30 AM to 12:30 PM
+- **Date:** July 11,
+- **Time:** 08:30 AM to 12:30 PM
 - **Location:** Taipei, Taiwan
 - **Capacity:** In-person (room for up to 80 people)
-- **Time:** Set by the workshop organizers
 - **Focused Topics**
   - **First 2 hours:** MONAI & NVFLARE
     - **Second 2 hours:** Isaac For Healthcare hands-on training lab and Open Models
