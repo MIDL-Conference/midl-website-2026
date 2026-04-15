@@ -3,6 +3,7 @@ title: Doctoral Symposium
 ---
 
 # Doctoral Symposium 
+We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2026. This event aims to provide an enriching experience for participants, including academic and industry professionals. 
 ------
 # 🎓 Doctoral Symposium Agenda  
 📅 *April 15, 2026*
