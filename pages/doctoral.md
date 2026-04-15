@@ -79,7 +79,7 @@ We are pleased to share our tentative program for the Doctoral Symposium day at 
 - Please arrive on time for each session  
 - Networking sessions are informal and encouraged for all attendees
 
-- 
+
 <!-- 
 <span style="color:red;"> **NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.** </span>
 
