@@ -4,10 +4,79 @@ title: Doctoral Symposium
 
 # Doctoral Symposium 
 ------
+# 🎓 Doctoral Symposium Agenda  
+📅 *April 15, 2026*
 
-## Program At a Glance
+---
 
-We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2026. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
+## ☀️ Morning
+
+**🕘 9:00 – 9:45 AM**  
+🍽️ **Breakfast & Check-in**
+
+**🕤 9:45 – 10:00 AM**  
+🎤 **Opening Remarks**  
+- Introduction to the *Young Researchers Board (YRB)*
+
+**🕙 10:00 – 10:45 AM**  
+🌏 **Welcome to MIDL and Taiwan**  
+- Team up with peers  
+- Participate in discussions about MIDL and Taiwan  
+
+**🕥 10:45 – 11:00 AM**  
+☕ **Coffee Break**
+
+**🕚 11:00 AM – 12:00 PM**  
+🎓 **Keynote Talk**
+
+---
+
+## 🍴 Midday
+
+**🕛 12:00 – 1:00 PM**  
+🥗 **Lunch**
+
+---
+
+## 🌤️ Afternoon
+
+**🕐 1:00 – 2:00 PM**  
+⚡ **Professional Development Lightning Talks**
+
+**🕑 2:00 – 3:00 PM**  
+💬 **Panel Discussion: Early Career Professionals**
+
+**🕒 3:00 – 3:15 PM**  
+☕ **Coffee Break**
+
+**🕞 3:15 – 4:15 PM**  
+🤝 **Networking Session**  
+*Hosted by the Young Researchers Board*
+
+**🕓 4:15 – 5:00 PM**  
+🎯 **3-Minute Poster Pitch**  
+- Practice your poster pitch in an informal setting  
+- Open sign-up  
+
+**🕔 5:00 – 5:15 PM**  
+✅ **Wrap-Up**
+
+---
+
+## 🌙 Evening
+
+**🕡 6:30 PM**  
+🍜 **Optional Dinner & Night Market Visit**  
+- Group walk to the night market  
+- *Participants cover their own dinner*
+
+---
+
+## 📌 Notes
+- Please arrive on time for each session  
+- Networking sessions are informal and encouraged for all attendees
+
+- 
 <!-- 
 <span style="color:red;"> **NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.** </span>
 
