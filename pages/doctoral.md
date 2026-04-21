@@ -8,7 +8,7 @@ We are pleased to share our tentative program for the Doctoral Symposium day at 
 
 ------
 # 🎓 Doctoral Symposium Agenda  
-📅 *April 15, 2026*
+📅 *July 07, 2026*
 
 ---
 
