@@ -5,6 +5,8 @@ title: Post-day Workshop
 # MIDL 2026 Workshop @ Taipei, July 11th
 ## **From Pixels to Procedures: Building Intelligent Healthcare Applications with MONAI, NVIDIA FLARE , and Isaac for Healthcare**
 
+**<span style="color:red">Due to high demand, in-person registration for this workshop has closed. Online access will be provided to accommodate additional participants.</span>**
+
 **Abstract:**  
 Artificial intelligence is transforming how we model, interpret, and simulate the human body. Yet harnessing its full potential in healthcare requires not only powerful algorithms but also robust platforms that bridge research and real-world practice. This hands-on workshop invites participants to explore how NVIDIA’s open technologies—**MONAI**, **NVIDIA FLARE**, and **Isaac For Healthcare**—can be applied to develop scalable, collaborative, and safe AI systems for medical imaging, surgical robotics, and digital twins. Whether you’re a researcher, clinician, or engineer, you’ll leave with a deeper understanding of how these tools can accelerate your innovation pipeline.  
 
