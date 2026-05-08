@@ -34,7 +34,7 @@ Early registration will be up to **May 12th 2026**.
 | Full/Non-Student Registration - Without Accomodation | NTD 18,900 (~USD 600) | NTD 25,200 (~USD 800) |
 | Student Registration - Without Accomodation | NTD 12,600 (~USD 400) | NTD 25,200 (~USD 800)  |
 | Accommodation | NTD 3,308 (~USD 105) / per night |  |
-| ~~Workshop on 07/11~~ | ~~NTD 150 (~USD 5)~~ |  |
+| <s>Workshop on 07/11</s> | <s>NTD 150 (~USD 5)</s> |  |
 
 **<span style="color:red">Due to high demand, in-person registration for this workshop has closed. Online access will be provided to accommodate additional participants.</span>**
 
