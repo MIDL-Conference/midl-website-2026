@@ -15,7 +15,7 @@ The conference is being held in [Taipei City](/venue.html).
   <a href="https://www.conf.tw/site/order/1665/signupen.aspx?sid=1665&lang=en" target="_blank">Click Here to register MIDL 2026!</a>
 </p>
 
-## Early bird registration deadline:   2026/05/12
+## Early bird registration deadline:   </s>2026/05/12<~/s> 2026/05/25
 <b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees. 
 
 Update on 03/10: We have added 銀聯卡支付(UnionPay) as additional payment method.
@@ -25,11 +25,11 @@ Each accepted paper needs **at least one author to register** for the conference
 **One registration covers one paper**, whether it is a full or short paper. This policy helps ensure fair coverage of conference costs and supports a balanced review and presentation process across all accepted papers. 
 
 ## Fees
-Early registration will be up to **May 12th 2026**.
+Early registration will be up to **May 25th 2026**.
 
 <center>
 
-| Registration Fee | Early bird (On or before May 12th) | Regular (After May 12th) |
+| Registration Fee | Early bird (On or before May 25th) | Regular (After May 25th) |
 |---|---:|---:|
 | Full/Non-Student Registration - Without Accomodation | NTD 18,900 (~USD 600) | NTD 25,200 (~USD 800) |
 | Student Registration - Without Accomodation | NTD 12,600 (~USD 400) | NTD 25,200 (~USD 800)  |
