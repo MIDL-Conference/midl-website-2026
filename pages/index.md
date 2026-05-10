@@ -18,16 +18,17 @@ page_class: home
 </p> 
 
 
-## Early bird registration deadline: 2026/05/12. Details please see the [Registration Page](registration.md).
+## Early bird registration deadline: 2026/05/25. Details please see the [Registration Page](registration.md).
 <b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
 
-| Registration Fee | Early bird (On or before May 12th) | Regular (After May 12th) |
+| Registration Fee | Early bird (On or before May 25th) | Regular (After May 25th) |
 |---|---:|---:|
 | Full/Non-Student Registration - Without Accomodation | NTD 18,900 (~USD 600) | NTD 25,200 (~USD 800) |
 | Student Registration - Without Accomodation | NTD 12,600 (~USD 400) | NTD 25,200 (~USD 800)  |
 | Accommodation | NTD 3,308 (~USD 105) / per night |  |
 | Workshop on 07/11 | NTD 150 (~USD 5) |  |
 
+## Registrations for workshop are currecntly full & closed.
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/Taipei1_small.jpg">
