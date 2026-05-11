@@ -44,7 +44,7 @@ Early registration will be up to **May 25th 2026**.
 - Student registration is available. Student status will be verified using one of the following:
 - A copy of your transcript/student record showing you are a full-time student, or a letter from your supervisor/advisor confirming full-time status.
 We will contact the email address used during registration to collect the document.
-- <b><span style="color:red">If the required document is not provided by May 12th 2026, the student registration will be canceled and a refund will be issued.</span></b> 
+- <b><span style="color:red">If the required document is not provided by ~~May 12th 2026~~ May 25th 2026, the student registration will be canceled and a refund will be issued.</span></b> 
 
 ## Refund Policy (Cancelation policy)
 - If you are unable to attend,refund requests submitted by May 11th 2026 are eligible for a full refund.
