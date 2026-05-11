@@ -41,11 +41,8 @@ title: Scientific Program
                 const sessionType = groupedData[session][0]['Final Decision'];
 
                 let chairs;
-                if (sessionType === 'Oral') {
-                    chairs = '<h4><span style="color:#888;"><strong>Chairs</strong>: ' + groupedData[session][0]["Chairs"] + '</span></h4>';
-                } else {
-                    chairs = '';
-                }
+                // Chairs are currently hidden from the scientific program.
+                chairs = '';
 
                 sessionContainer.append(`<h3>${session}</h3><h4><span style="color:#888;">${sessionTime}</span></h4>${chairs}`);
                 

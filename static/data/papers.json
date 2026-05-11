@@ -11,7 +11,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Oral 1.A - O.073",
+        "Poster ID": "Poster 1.A - O.01",
         "Chairs": ""
     },
     {
@@ -26,7 +26,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Oral 1.A - O.176",
+        "Poster ID": "Poster 1.A - O.02",
         "Chairs": ""
     },
     {
@@ -41,7 +41,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Oral 1.A - O.280",
+        "Poster ID": "Poster 1.A - O.03",
         "Chairs": ""
     },
     {
@@ -56,7 +56,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Oral 1.A - O.020",
+        "Poster ID": "Poster 1.A - O.04",
         "Chairs": ""
     },
     {
@@ -71,7 +71,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 1.A - SP.01"
+        "Poster ID": "Poster 1.A - SP.01"
     },
     {
         "number": 56,
@@ -85,7 +85,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 1.A - SP.02"
+        "Poster ID": "Poster 1.A - SP.02"
     },
     {
         "number": 305,
@@ -99,7 +99,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 1.A - SP.03"
+        "Poster ID": "Poster 1.A - SP.03"
     },
     {
         "number": 209,
@@ -113,7 +113,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 1.A - SP.04"
+        "Poster ID": "Poster 1.A - SP.04"
     },
     {
         "number": 73,
@@ -659,7 +659,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 1.B - O.321",
+        "Poster ID": "Poster 1.B - O.01",
         "Chairs": ""
     },
     {
@@ -674,7 +674,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 1.B - O.339",
+        "Poster ID": "Poster 1.B - O.02",
         "Chairs": ""
     },
     {
@@ -689,7 +689,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 1.B - O.343",
+        "Poster ID": "Poster 1.B - O.03",
         "Chairs": ""
     },
     {
@@ -704,7 +704,7 @@
         "Final Decision": "Oral",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 1.B - O.008",
+        "Poster ID": "Poster 1.B - O.04",
         "Chairs": ""
     },
     {
@@ -719,7 +719,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 1.B - SP.01"
+        "Poster ID": "Poster 1.B - SP.01"
     },
     {
         "number": 282,
@@ -733,7 +733,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 1.B - SP.02"
+        "Poster ID": "Poster 1.B - SP.02"
     },
     {
         "number": 324,
@@ -747,7 +747,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 1.B - SP.03"
+        "Poster ID": "Poster 1.B - SP.03"
     },
     {
         "number": 366,
@@ -761,7 +761,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 1.B - SP.04"
+        "Poster ID": "Poster 1.B - SP.04"
     },
     {
         "number": 321,
@@ -1307,7 +1307,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Oral 2.A - O.116",
+        "Poster ID": "Poster 2.A - O.01",
         "Chairs": ""
     },
     {
@@ -1322,7 +1322,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Oral 2.A - O.195",
+        "Poster ID": "Poster 2.A - O.02",
         "Chairs": ""
     },
     {
@@ -1337,7 +1337,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Oral 2.A - O.049",
+        "Poster ID": "Poster 2.A - O.03",
         "Chairs": ""
     },
     {
@@ -1352,7 +1352,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Oral 2.A - O.245",
+        "Poster ID": "Poster 2.A - O.04",
         "Chairs": ""
     },
     {
@@ -1367,7 +1367,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 2.A - SP.01"
+        "Poster ID": "Poster 2.A - SP.01"
     },
     {
         "number": 222,
@@ -1381,7 +1381,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 2.A - SP.02"
+        "Poster ID": "Poster 2.A - SP.02"
     },
     {
         "number": 101,
@@ -1395,7 +1395,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 2.A - SP.03"
+        "Poster ID": "Poster 2.A - SP.03"
     },
     {
         "number": 404,
@@ -1409,7 +1409,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 2.A - SP.04"
+        "Poster ID": "Poster 2.A - SP.04"
     },
     {
         "number": 116,
@@ -1955,7 +1955,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 2.B - O.024",
+        "Poster ID": "Poster 2.B - O.01",
         "Chairs": ""
     },
     {
@@ -1970,7 +1970,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 2.B - O.125",
+        "Poster ID": "Poster 2.B - O.02",
         "Chairs": ""
     },
     {
@@ -1985,7 +1985,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 2.B - O.317",
+        "Poster ID": "Poster 2.B - O.03",
         "Chairs": ""
     },
     {
@@ -2000,7 +2000,7 @@
         "Final Decision": "Oral",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 2.B - O.342",
+        "Poster ID": "Poster 2.B - O.04",
         "Chairs": ""
     },
     {
@@ -2015,7 +2015,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 2.B - SP.01"
+        "Poster ID": "Poster 2.B - SP.01"
     },
     {
         "number": 130,
@@ -2029,7 +2029,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 2.B - SP.02"
+        "Poster ID": "Poster 2.B - SP.02"
     },
     {
         "number": 396,
@@ -2043,7 +2043,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 2.B - SP.03"
+        "Poster ID": "Poster 2.B - SP.03"
     },
     {
         "number": 157,
@@ -2057,7 +2057,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 2.B - SP.04"
+        "Poster ID": "Poster 2.B - SP.04"
     },
     {
         "number": 24,
@@ -2603,7 +2603,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Oral 3.A - O.028",
+        "Poster ID": "Poster 3.A - O.01",
         "Chairs": ""
     },
     {
@@ -2618,7 +2618,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Oral 3.A - O.133",
+        "Poster ID": "Poster 3.A - O.02",
         "Chairs": ""
     },
     {
@@ -2633,7 +2633,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Oral 3.A - O.244",
+        "Poster ID": "Poster 3.A - O.03",
         "Chairs": ""
     },
     {
@@ -2648,7 +2648,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Oral 3.A - O.300",
+        "Poster ID": "Poster 3.A - O.04",
         "Chairs": ""
     },
     {
@@ -2663,7 +2663,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 3.A - SP.01"
+        "Poster ID": "Poster 3.A - SP.01"
     },
     {
         "number": 194,
@@ -2677,7 +2677,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 3.A - SP.02"
+        "Poster ID": "Poster 3.A - SP.02"
     },
     {
         "number": 219,
@@ -2691,7 +2691,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 3.A - SP.03"
+        "Poster ID": "Poster 3.A - SP.03"
     },
     {
         "number": 232,
@@ -2705,7 +2705,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 10:30am-11:30am",
-        "Poster ID": "Spotlight 3.A - SP.04"
+        "Poster ID": "Poster 3.A - SP.04"
     },
     {
         "number": 28,
@@ -3209,7 +3209,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 3.B - O.016",
+        "Poster ID": "Poster 3.B - O.01",
         "Chairs": ""
     },
     {
@@ -3224,7 +3224,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 3.B - O.135",
+        "Poster ID": "Poster 3.B - O.02",
         "Chairs": ""
     },
     {
@@ -3239,7 +3239,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 3.B - O.072",
+        "Poster ID": "Poster 3.B - O.03",
         "Chairs": ""
     },
     {
@@ -3254,7 +3254,7 @@
         "Final Decision": "Oral",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Oral 3.B - O.002",
+        "Poster ID": "Poster 3.B - O.04",
         "Chairs": ""
     },
     {
@@ -3269,7 +3269,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 3.B - SP.01"
+        "Poster ID": "Poster 3.B - SP.01"
     },
     {
         "number": 234,
@@ -3283,7 +3283,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 3.B - SP.02"
+        "Poster ID": "Poster 3.B - SP.02"
     },
     {
         "number": 315,
@@ -3297,7 +3297,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 3.B - SP.03"
+        "Poster ID": "Poster 3.B - SP.03"
     },
     {
         "number": 318,
@@ -3311,7 +3311,7 @@
         "Final Decision": "Spotlight",
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 3:00pm-4:00pm",
-        "Poster ID": "Spotlight 3.B - SP.04"
+        "Poster ID": "Poster 3.B - SP.04"
     },
     {
         "number": 16,
