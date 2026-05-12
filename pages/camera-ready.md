@@ -4,7 +4,21 @@
 
 Please read the items below carefully and follow the instructions, as they are required for the publication of your paper in the conference proceedings.
 
-Once your final material is prepared according to the detailed instructions below, please **update your submission on OpenReview by April 15th**. You can do that by editing your submission using the `Camera Ready` option. The following fields are available for update:
+Once your final material is prepared according to the detailed instructions below, please **update your submission on OpenReview by April 15th**. You can do that by editing your submission using the `Revision` option. The following fields are available for update:
+
+For updating the final PDF, please update lines 11–18 of your LaTeX file to:
+
+```latex
+% Header for extended abstracts
+\jmlrproceedings{MIDL}{Medical Imaging with Deep Learning}
+\jmlrpages{}
+\jmlryear{2026}
+
+% to be uncommented for submissions under review
+\jmlrworkshop{Short Paper Track}
+\jmlrvolume{}
+\editors{}
+
 
 <center>
 
