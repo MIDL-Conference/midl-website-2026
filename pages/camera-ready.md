@@ -66,7 +66,6 @@ Once your final material is prepared according to the detailed instructions belo
 
 For updating the final PDF, please update lines 11–18 of your LaTeX file to:
 
-```latex
 % Header for extended abstracts
 \jmlrproceedings{MIDL}{Medical Imaging with Deep Learning}
 \jmlrpages{}
@@ -76,4 +75,4 @@ For updating the final PDF, please update lines 11–18 of your LaTeX file to:
 \jmlrworkshop{Short Paper Track}
 \jmlrvolume{}
 \editors{}
-```
+
