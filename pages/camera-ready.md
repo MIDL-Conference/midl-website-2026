@@ -67,12 +67,18 @@ Once your final material is prepared according to the detailed instructions belo
 For updating the final PDF, please update lines 11–18 of your LaTeX file to:
 
 % Header for extended abstracts
+
 \jmlrproceedings{MIDL}{Medical Imaging with Deep Learning}
+
 \jmlrpages{}
+
 \jmlryear{2026}
 
 % to be uncommented for submissions under review
+
 \jmlrworkshop{Short Paper Track}
+
 \jmlrvolume{}
+
 \editors{}
 
