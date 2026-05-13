@@ -54,8 +54,12 @@ We will contact the email address used during registration to collect the docume
 ## Visa Letter
 Visa letters will only be automatically issued through an email upon completion of paid registration. If you need a visa invitation letter, please make sure to answer “yes” to the question pertaining to visa letters on the registration form. Please contact aicoreinf@cgmh.org.tw for any questions about visa/entry permission.
 
-## 大陸人員參會協助（已截止）
-由於中國大陸參與者申請專項項目的流程至少需要三個月時間，目前大陸人員參會協助已經截止。會務中心無法為新的大陸申請者（包括短論文錄用者）提供參會協助。
+<s>## 大陸人員參會協助（已截止）</s>
+~~由於中國大陸參與者申請專項項目的流程至少需要三個月時間，目前大陸人員參會協助已經截止。會務中心無法為新的大陸申請者（包括短論文錄用者）提供參會協助。~~
+
+## Optional Poster Printing Service
+This year, we are offering an optional official MIDL poster printing service for $60 USD. If you choose to use this service, we will print and hang your poster for you on the first day of the conference. Orders can be placed through the following website: [poster printing service registration](https://www.conf.tw/site/login_ra.aspx?sid=1665&lang=en&redir=/site/order/1665/a01_uplist.aspx)
+Please note that the poster printing service is entirely optional, and you are more than welcome to print and hang your poster by yourself.
 
 ## Housing
 Low cost housing is provided (optional) in/near the [conference vueue](/housing.html). at either **The Chientan Youth Activity Center (on-site) or The Tango Taipei JianTan (400m from the venue)** with selected days (up to 5 nights). Note that the number of those hotel rooms are limited, with first come first serve. All participants will be provided with single occupancy in a double room, featuring either one double bed or two twin beds. Please note that both hotel locations and room configurations will be randomly assigned; specific requests for self-selection cannot be accommodated. 
