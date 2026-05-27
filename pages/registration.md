@@ -50,6 +50,7 @@ We will contact the email address used during registration to collect the docume
 - If you are unable to attend,refund requests submitted by May 11th 2026 are eligible for a full refund.
 - A 50% refund may be requested between May 12th and June 20th 2026.
 - No refunds will be issued for requests received on or after June 21th 2026.
+  
 **Update 05/27/2026** According to the registration policy, each accepted paper must have at least one author registered for the conference. Therefore, if you are the sole registered author of your submitted paper, requesting a refund will result in the removal of the paper from MIDL 2026. If you are attending the conference as a general participant, your refund request will be handled in accordance with the Refund/Cancellation Policy. Please note that accommodation fees become non-refundable after June 1, 2026.
 
 ## Visa Letter
