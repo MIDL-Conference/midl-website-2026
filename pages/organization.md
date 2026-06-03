@@ -8,13 +8,13 @@ title: "Organization"
 
 * [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital
 * [Le Lu](https://www.cs.jhu.edu/~lelu/), PhD – Ant Group
-* [Tzuchen Yen](https://www.icru.org/bio/tzu-chen-yen/), MD/PhD - Chang Gung Memorial Hospital
+* [Tzuchen Yen](https://www.icru.org/bio/tzu-chen-yen/), MD/PhD - Chang Gung Memorial Hospital, Chang Gung University
 * [Kensaku Mori](http://www.newves.org/wiki/), PhD - Nagoya University
 
 ## Program Chairs
 * [Yuankai Huo](https://hrlblab.github.io/author/yuankai-huo/), PhD - Vanderbilt University
 * [Mingchen Gao](https://cse.buffalo.edu/~mgao8/), PhD - University at Buffalo
-* [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital
+* [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital, Chang Gung University
 * [Yueming Jin](https://yuemingjin.github.io/), PhD - National University of Singapore
 * [Ruining Deng](https://ddrrnn123.github.io/), PhD - Weill Cornell Medicine
 
@@ -122,7 +122,7 @@ Abdelouahab Moussaoui, Abdesselam Ferdi, Adrian Galdran, Aldo Zaimi, Amin Davarz
 * [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - National Tsing Hua University, Chang Gung Memorial Hospital
 
 ## Local Arrangement Chairs
-* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - Chang Gung Memorial Hospital
+* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - National Tsing Hua University, Chang Gung Memorial Hospital
 * [Chi-Tung Cheng](https://www.linkedin.com/in/chi-tung-cheng-9b5b0ba2/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 * [Chein-Hung Liao](https://www.linkedin.com/in/ranson-chien-hung-liao-7b7201137/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 
