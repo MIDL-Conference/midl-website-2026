@@ -117,8 +117,12 @@ Abdelouahab Moussaoui, Abdesselam Ferdi, Adrian Galdran, Aldo Zaimi, Amin Davarz
 * [Lisa Koch](https://www.mlm-lab.ch/people/), PhD. -  University of Bern and Bern University Hospital
 * [Chen Chen](https://cherise215.github.io/), PhD  -  University of Sheffield
 
+## Administrative Support Committee
+* [Chang-Fu Kuo](https://www.cgu.edu.tw/IITM-en/FullTimeProfessorManagement/Detail/ded59dce-3a23-416c-94c6-f573caeca4b2?nodeId=16960), MD/PhD - Chang Gung Memorial Hospital, Chang Gung University
+* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - National Tsing Hua University, Chang Gung Memorial Hospital
+
 ## Local Arrangement Chairs
-* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - Chang Gung Memorial Hospita
+* [Ching-Heng Lin](https://www.linkedin.com/in/ching-heng-lin-51049840/?originalSubdomain=tw), PhD - Chang Gung Memorial Hospital
 * [Chi-Tung Cheng](https://www.linkedin.com/in/chi-tung-cheng-9b5b0ba2/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 * [Chein-Hung Liao](https://www.linkedin.com/in/ranson-chien-hung-liao-7b7201137/?originalSubdomain=tw), MD/PhD - Chang Gung Memorial Hospital
 
