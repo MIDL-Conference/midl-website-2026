@@ -4,7 +4,7 @@ title: Sponsors
 
 # Sponsors
 
-[![All sponsors](/images/sponsors/Sponsors_logo.png){: width="420" }]
+![All sponsors](/images/sponsors/Sponsors_logo.png){: width="820" }
 
 <!-- [![Chang Gung Memorial Hospital, Linkou](/images/sponsors/cgmh.png){: width="440" }](https://www.cgmh.org.tw/en/)
 
