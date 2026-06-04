@@ -4,9 +4,9 @@ title: Sponsors
 
 # Sponsors
 
-[![Ant Research](/images/sponsors/Ant.png){: width="420" }](https://www.antgroup.com/en/technology)
+[![All sponsors](/images/sponsors/Sponsors_logo.png){: width="420" }]
 
-[![Chang Gung Memorial Hospital, Linkou](/images/sponsors/cgmh.png){: width="440" }](https://www.cgmh.org.tw/en/)
+<!-- [![Chang Gung Memorial Hospital, Linkou](/images/sponsors/cgmh.png){: width="440" }](https://www.cgmh.org.tw/en/)
 
 ![Daikso](/images/sponsors/daikso.png){: width="360" }
 
@@ -17,6 +17,6 @@ title: Sponsors
 [![Chang Gung University](/images/sponsors/chang-gung-university.png){: width="280" }](https://www.cgu.edu.tw/)
 
 [![Quanta Computer](/images/sponsors/廣達LOGO-01.png){: width="300" }](https://www.quantatw.com/)
-
+ -->
 
 All logos are trademarks and property of their respective owners.
