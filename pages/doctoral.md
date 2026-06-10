@@ -82,8 +82,7 @@ Take advantage of this dedicated time to explore the city with fellow attendees!
 ## Keynote Speaker: Chi-Tung Cheng, MD, PhD
 
 ------
-
-![Portrait of Chi-Tung Cheng](/images/doctoral/ChiTungCheng.jpeg){: width="180" }
+![Portrait of Chi-Tung Cheng](/images/doctoral/ChiTungCheng.jpg){: width="180" }
 
 **Biography:** Chi-Tung Cheng, MD, PhD Clinical Professor, Trauma & Emergency Surgery, Linkou Chang Gung Memorial Hospital and Joint-Appointed Assistant Professor, Department of Artificial Intelligence, Chang Gung University
 
