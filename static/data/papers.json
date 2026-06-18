@@ -1900,6 +1900,21 @@
         "pdf": "https://openreview.net/pdf?id=4OLrHi9ROr"
     },
     {
+        "number": 129,
+        "UID": "S-129",
+        "forum": "https://openreview.net/forum?id=l430x8EuHP",
+        "Track": "Short paper",
+        "title": "Weighting What Matters: Boosting Sample Efficiency in Medical Report Generation via Token Reweighting",
+        "abstract": "Training vision-language models (VLMs) for medical report generation is often hindered by the scarcity of high-quality annotated data.\nThis work evaluates the use of a weighted loss function to improve data efficiency. \nCompared to standard cross-entropy loss, which treats all token prediction errors equally, the reweighted loss shifts the focus to semantically salient tokens with outsized clinical importance.\nIn experiments on ophthalmological report generation, we show that this simple method improves efficiency across multiple data scales, achieving similar report quality with up to ten times less training data.",
+        "authors": "Alexander Weers, Daniel Rueckert, Martin J. Menten",
+        "Session": "Poster 1.B: Vision-Language Models, Agentic AI, and Interpretable Clinical Reasoning",
+        "Final Decision": "Poster",
+        "Time": "Day 1 — 3:30am-5:00pm",
+        "Poster time": "Day 1 — 3:30am-5:00pm",
+        "Poster ID": "Poster 1.B - S.16",
+        "pdf": "https://openreview.net/pdf?id=l430x8EuHP"
+    },
+    {
         "number": 116,
         "UID": "O-116",
         "forum": "https://openreview.net/forum?id=W9eWUriVG9",
