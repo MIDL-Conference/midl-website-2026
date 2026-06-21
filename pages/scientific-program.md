@@ -56,8 +56,11 @@ title: Scientific Program
                     const url = row['forum'];
                     const pdf = row['pdf'];
                     const pdfLink = pdf ? `, <a href="${pdf}" target="_black"> PDF</a>` : '';
+                    const isMelba = track === 'MELBA Journal-to-conference';
                     const presenter = row['Presenter'] ? `<br><strong>Presenter:</strong> ${row['Presenter']}` : '';
-                    const reviewLabel = track === 'MELBA Journal-to-conference' ? 'Journal' : 'Reviews';
+                    const trackLabel = isMelba ? '' : `<span class="track">${track} Track</span>`;
+                    const reviewLabel = isMelba ? 'Journal' : 'Reviews';
+                    const posterLink = isMelba ? '' : ', <a class="toggle_visibility_poster">Poster</a>';
                     const presentation = row['Final Decision'];
 
                     const poster = '<strong>Poster time: </strong>' + row['Poster time'] + '<br><strong>Poster ID: </strong>' + row['Poster ID'];
@@ -66,8 +69,8 @@ title: Scientific Program
                     <li>  
                     ${number} - ${title}, 
                     <i>${authors}</i>${presenter}, 
-                    <span class="track">${track} Track</span>
-                    <span class="links">(<a class="toggle_visibility">Abstract</a>${pdfLink}, <a href="${url}" target="_black"> ${reviewLabel}</a>, <a class="toggle_visibility_poster">Poster</a>)</span>
+                    ${trackLabel}
+                    <span class="links">(<a class="toggle_visibility">Abstract</a>${pdfLink}, <a href="${url}" target="_black"> ${reviewLabel}</a>${posterLink})</span>
                     
                     <p class="abstract" style="display: none; margin-top:1rem; margin-bottom:1rem;"> <strong>Abstract: </strong>${abstract}</p>
                     <p class="poster_info" style="display: none; margin-top:1rem; margin-bottom:1rem;">${poster}</p>
