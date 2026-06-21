@@ -12,7 +12,7 @@
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.01",
-        "Chairs": "",
+        "Chairs": "Wilson Silva, Yuan Xue",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/srivastava26a/srivastava26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/srivastava26a.html"
     },
@@ -29,7 +29,7 @@
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.02",
-        "Chairs": "",
+        "Chairs": "Wilson Silva, Yuan Xue",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26a/zhang26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhang26a.html"
     },
@@ -46,7 +46,7 @@
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.03",
-        "Chairs": "",
+        "Chairs": "Wilson Silva, Yuan Xue",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/butsanets26a/butsanets26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/butsanets26a.html"
     },
@@ -63,7 +63,7 @@
         "Time": "Day 1 — 9:00am-10:15am",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.04",
-        "Chairs": "",
+        "Chairs": "Wilson Silva, Yuan Xue",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kenia26a/kenia26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kenia26a.html"
     },
@@ -81,7 +81,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26c/wang26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26c.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 56,
@@ -97,7 +98,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26d/li26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26d.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 305,
@@ -113,7 +115,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moonemans26a/moonemans26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/moonemans26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/moonemans26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 209,
@@ -129,7 +132,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tankel26a/tankel26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tankel26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tankel26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 73,
@@ -145,7 +149,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/srivastava26a/srivastava26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/srivastava26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/srivastava26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 176,
@@ -161,7 +166,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26a/zhang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhang26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 280,
@@ -177,7 +183,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/butsanets26a/butsanets26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/butsanets26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/butsanets26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 20,
@@ -193,7 +200,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kenia26a/kenia26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kenia26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kenia26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 35,
@@ -209,7 +217,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26c/wang26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26c.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 56,
@@ -225,7 +234,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26d/li26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26d.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 305,
@@ -241,7 +251,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moonemans26a/moonemans26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/moonemans26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/moonemans26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 209,
@@ -257,7 +268,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tankel26a/tankel26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tankel26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tankel26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 150,
@@ -273,7 +285,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gundersen26a/gundersen26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/gundersen26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/gundersen26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 109,
@@ -289,7 +302,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/aas-alas26a/aas-alas26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/aas-alas26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/aas-alas26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 71,
@@ -305,7 +319,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sonmezer26a/sonmezer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/sonmezer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/sonmezer26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 115,
@@ -321,7 +336,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heras-rivera26a/heras-rivera26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/heras-rivera26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/heras-rivera26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 327,
@@ -337,7 +353,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26b/zhang26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhang26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhang26b.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 274,
@@ -353,7 +370,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/buess26a/buess26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/buess26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/buess26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 80,
@@ -369,7 +387,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26b/wu26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wu26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wu26b.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 293,
@@ -385,7 +404,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/irshad26a/irshad26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/irshad26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/irshad26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 271,
@@ -401,7 +421,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26d/liu26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/liu26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/liu26d.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 304,
@@ -417,7 +438,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/monnin26a/monnin26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/monnin26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/monnin26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 31,
@@ -433,7 +455,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26a/wang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 389,
@@ -449,7 +472,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dong26a/dong26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dong26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dong26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 164,
@@ -465,7 +489,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hamdy26a/hamdy26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hamdy26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hamdy26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 400,
@@ -481,7 +506,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/bader26a/bader26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/bader26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/bader26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 123,
@@ -497,7 +523,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26b/liu26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/liu26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/liu26b.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 385,
@@ -513,7 +540,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lu26b/lu26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lu26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lu26b.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 206,
@@ -529,7 +557,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/guasch-marti26a/guasch-marti26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/guasch-marti26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/guasch-marti26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 33,
@@ -545,7 +574,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26e/liu26e.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/liu26e.html"
+        "proceedings": "https://proceedings.mlr.press/v315/liu26e.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 52,
@@ -561,7 +591,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/golbaf26a/golbaf26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/golbaf26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/golbaf26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 273,
@@ -577,7 +608,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/bhandari26a/bhandari26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/bhandari26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/bhandari26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 175,
@@ -593,7 +625,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/byun26a/byun26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/byun26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/byun26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 139,
@@ -609,7 +642,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/leem26a/leem26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/leem26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/leem26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 27,
@@ -625,7 +659,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/rystrom26a/rystrom26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/rystrom26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/rystrom26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 64,
@@ -641,7 +676,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/weidner26a/weidner26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/weidner26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/weidner26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 7,
@@ -657,7 +693,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kwak26a/kwak26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kwak26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kwak26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 94,
@@ -673,7 +710,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/weers26a/weers26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/weers26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/weers26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 298,
@@ -689,7 +727,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lawrence26a/lawrence26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lawrence26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lawrence26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 182,
@@ -705,7 +744,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26f/wang26f.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26f.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26f.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 14,
@@ -721,7 +761,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.29",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26b/li26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26b.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 77,
@@ -737,7 +778,8 @@
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - P.30",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/paranjape26a/paranjape26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/paranjape26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/paranjape26a.html",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 26,
@@ -752,7 +794,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.02",
-        "pdf": "https://openreview.net/pdf?id=KTfPFMntqQ"
+        "pdf": "https://openreview.net/pdf?id=KTfPFMntqQ",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 31,
@@ -767,7 +810,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.03",
-        "pdf": "https://openreview.net/pdf?id=kEdSwWl1OG"
+        "pdf": "https://openreview.net/pdf?id=kEdSwWl1OG",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 32,
@@ -782,7 +826,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.04",
-        "pdf": "https://openreview.net/pdf?id=lyrOO21Y5F"
+        "pdf": "https://openreview.net/pdf?id=lyrOO21Y5F",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 42,
@@ -797,7 +842,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.05",
-        "pdf": "https://openreview.net/pdf?id=3cU8ugleNX"
+        "pdf": "https://openreview.net/pdf?id=3cU8ugleNX",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 69,
@@ -812,7 +858,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.06",
-        "pdf": "https://openreview.net/pdf?id=0joQOgpiY9"
+        "pdf": "https://openreview.net/pdf?id=0joQOgpiY9",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 81,
@@ -827,7 +874,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.07",
-        "pdf": "https://openreview.net/pdf?id=TKYAWNvDcp"
+        "pdf": "https://openreview.net/pdf?id=TKYAWNvDcp",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 86,
@@ -842,7 +890,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.08",
-        "pdf": "https://openreview.net/pdf?id=beZVx8sjAq"
+        "pdf": "https://openreview.net/pdf?id=beZVx8sjAq",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 88,
@@ -857,7 +906,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.10",
-        "pdf": "https://openreview.net/pdf?id=j6t3IKOfC2"
+        "pdf": "https://openreview.net/pdf?id=j6t3IKOfC2",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 95,
@@ -872,7 +922,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.11",
-        "pdf": "https://openreview.net/pdf?id=OyOHg986R5"
+        "pdf": "https://openreview.net/pdf?id=OyOHg986R5",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 111,
@@ -887,7 +938,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.13",
-        "pdf": "https://openreview.net/pdf?id=UXJ4X0HCHi"
+        "pdf": "https://openreview.net/pdf?id=UXJ4X0HCHi",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 120,
@@ -902,7 +954,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.14",
-        "pdf": "https://openreview.net/pdf?id=xD07n1BUnV"
+        "pdf": "https://openreview.net/pdf?id=xD07n1BUnV",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 125,
@@ -917,7 +970,8 @@
         "Time": "Day 1 — 11:00am-12:30pm",
         "Poster time": "Day 1 — 11:00am-12:30pm",
         "Poster ID": "Poster 1.A - S.15",
-        "pdf": "https://openreview.net/pdf?id=qejEHZL4pH"
+        "pdf": "https://openreview.net/pdf?id=qejEHZL4pH",
+        "Chairs": "Wilson Silva, Yuan Xue"
     },
     {
         "number": 321,
@@ -932,7 +986,7 @@
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.01",
-        "Chairs": "",
+        "Chairs": "Attila Simko, Mattias Heinrich",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sens26a/sens26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/sens26a.html"
     },
@@ -949,7 +1003,7 @@
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.02",
-        "Chairs": "",
+        "Chairs": "Attila Simko, Mattias Heinrich",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wiers26a/wiers26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wiers26a.html"
     },
@@ -966,7 +1020,7 @@
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.03",
-        "Chairs": "",
+        "Chairs": "Attila Simko, Mattias Heinrich",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/su26a/su26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/su26a.html"
     },
@@ -983,7 +1037,7 @@
         "Time": "Day 1 — 1:30pm-2:45pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.04",
-        "Chairs": "",
+        "Chairs": "Attila Simko, Mattias Heinrich",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/friedrich26a/friedrich26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/friedrich26a.html"
     },
@@ -1001,7 +1055,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kirchner26a/kirchner26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kirchner26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kirchner26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 282,
@@ -1017,7 +1072,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/le-gia26a/le-gia26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/le-gia26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/le-gia26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 324,
@@ -1033,7 +1089,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/archit26a/archit26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/archit26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/archit26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 366,
@@ -1049,7 +1106,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26d/zhang26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhang26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhang26d.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 321,
@@ -1065,7 +1123,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sens26a/sens26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/sens26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/sens26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 339,
@@ -1081,7 +1140,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wiers26a/wiers26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wiers26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wiers26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 343,
@@ -1097,7 +1157,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/su26a/su26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/su26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/su26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 8,
@@ -1113,7 +1174,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/friedrich26a/friedrich26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/friedrich26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/friedrich26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 148,
@@ -1129,7 +1191,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kirchner26a/kirchner26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kirchner26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kirchner26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 282,
@@ -1145,7 +1208,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/le-gia26a/le-gia26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/le-gia26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/le-gia26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 324,
@@ -1161,7 +1225,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/archit26a/archit26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/archit26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/archit26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 366,
@@ -1177,7 +1242,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26d/zhang26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhang26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhang26d.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 59,
@@ -1193,7 +1259,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/veenboer26a/veenboer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/veenboer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/veenboer26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 355,
@@ -1209,7 +1276,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhang26c/zhang26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhang26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhang26c.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 45,
@@ -1225,7 +1293,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26c/li26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26c.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 192,
@@ -1241,7 +1310,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/le26a/le26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/le26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/le26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 211,
@@ -1257,7 +1327,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/he26a/he26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/he26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/he26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 328,
@@ -1273,7 +1344,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/nahian26a/nahian26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/nahian26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/nahian26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 36,
@@ -1289,7 +1361,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mcconnell26a/mcconnell26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mcconnell26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mcconnell26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 120,
@@ -1305,7 +1378,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sun26a/sun26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/sun26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/sun26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 181,
@@ -1321,7 +1395,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26e/wang26e.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26e.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26e.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 249,
@@ -1337,7 +1412,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/le26b/le26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/le26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/le26b.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 121,
@@ -1353,7 +1429,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moens26a/moens26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/moens26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/moens26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 35,
@@ -1369,7 +1446,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/abbas26a/abbas26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/abbas26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/abbas26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 286,
@@ -1385,7 +1463,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kshirsagar26a/kshirsagar26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kshirsagar26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kshirsagar26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 92,
@@ -1401,7 +1480,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/friedetzki26a/friedetzki26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/friedetzki26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/friedetzki26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 44,
@@ -1417,7 +1497,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lolos26a/lolos26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lolos26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lolos26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 83,
@@ -1433,7 +1514,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/jong26a/jong26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/jong26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/jong26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 161,
@@ -1449,7 +1531,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/alvarez-florez26a/alvarez-florez26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/alvarez-florez26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/alvarez-florez26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 363,
@@ -1465,7 +1548,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/rahman26b/rahman26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/rahman26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/rahman26b.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 241,
@@ -1481,7 +1565,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/watzenbock26a/watzenbock26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/watzenbock26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/watzenbock26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 26,
@@ -1497,7 +1582,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chakrabarty26a/chakrabarty26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chakrabarty26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chakrabarty26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 9,
@@ -1513,7 +1599,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/jena26a/jena26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/jena26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/jena26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 114,
@@ -1529,7 +1616,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/stolt-anso26a/stolt-anso26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/stolt-anso26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/stolt-anso26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 378,
@@ -1545,7 +1633,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/guo26a/guo26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/guo26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/guo26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 226,
@@ -1561,7 +1650,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yao26a/yao26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/yao26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/yao26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 256,
@@ -1577,7 +1667,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kumar26b/kumar26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kumar26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kumar26b.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 127,
@@ -1593,7 +1684,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/manescu26a/manescu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/manescu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/manescu26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 38,
@@ -1609,7 +1701,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hoq26a/hoq26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hoq26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hoq26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 372,
@@ -1625,7 +1718,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sabih26a/sabih26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/sabih26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/sabih26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 3,
@@ -1641,7 +1735,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.29",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26a/chen26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chen26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chen26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 183,
@@ -1657,7 +1752,8 @@
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - P.30",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/rahman26a/rahman26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/rahman26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/rahman26a.html",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 6,
@@ -1672,7 +1768,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.01",
-        "pdf": "https://openreview.net/pdf?id=vY4L7zF8xJ"
+        "pdf": "https://openreview.net/pdf?id=vY4L7zF8xJ",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 9,
@@ -1687,7 +1784,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.02",
-        "pdf": "https://openreview.net/pdf?id=WZixOzLrWF"
+        "pdf": "https://openreview.net/pdf?id=WZixOzLrWF",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 10,
@@ -1702,7 +1800,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.03",
-        "pdf": "https://openreview.net/pdf?id=LrtfvezTAC"
+        "pdf": "https://openreview.net/pdf?id=LrtfvezTAC",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 19,
@@ -1717,7 +1816,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.04",
-        "pdf": "https://openreview.net/pdf?id=KgvMzaIRTE"
+        "pdf": "https://openreview.net/pdf?id=KgvMzaIRTE",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 30,
@@ -1732,7 +1832,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.05",
-        "pdf": "https://openreview.net/pdf?id=rsoNDt1pp0"
+        "pdf": "https://openreview.net/pdf?id=rsoNDt1pp0",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 37,
@@ -1747,7 +1848,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.06",
-        "pdf": "https://openreview.net/pdf?id=0jjRqtl3ES"
+        "pdf": "https://openreview.net/pdf?id=0jjRqtl3ES",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 43,
@@ -1762,7 +1864,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.07",
-        "pdf": "https://openreview.net/pdf?id=oEQtCwHxIs"
+        "pdf": "https://openreview.net/pdf?id=oEQtCwHxIs",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 46,
@@ -1777,7 +1880,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.08",
-        "pdf": "https://openreview.net/pdf?id=MVa1vWpyWx"
+        "pdf": "https://openreview.net/pdf?id=MVa1vWpyWx",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 56,
@@ -1792,7 +1896,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.09",
-        "pdf": "https://openreview.net/pdf?id=x3VDOGtHus"
+        "pdf": "https://openreview.net/pdf?id=x3VDOGtHus",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 107,
@@ -1807,7 +1912,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.11",
-        "pdf": "https://openreview.net/pdf?id=OaD4OU3SO3"
+        "pdf": "https://openreview.net/pdf?id=OaD4OU3SO3",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 115,
@@ -1822,7 +1928,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.12",
-        "pdf": "https://openreview.net/pdf?id=MaRBwmCkVK"
+        "pdf": "https://openreview.net/pdf?id=MaRBwmCkVK",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 117,
@@ -1837,7 +1944,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.13",
-        "pdf": "https://openreview.net/pdf?id=cR52NfX8YZ"
+        "pdf": "https://openreview.net/pdf?id=cR52NfX8YZ",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 119,
@@ -1852,7 +1960,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.14",
-        "pdf": "https://openreview.net/pdf?id=KuP2PKUFTX"
+        "pdf": "https://openreview.net/pdf?id=KuP2PKUFTX",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 121,
@@ -1867,7 +1976,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.15",
-        "pdf": "https://openreview.net/pdf?id=3lzXCzI1Kb"
+        "pdf": "https://openreview.net/pdf?id=3lzXCzI1Kb",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 126,
@@ -1882,7 +1992,8 @@
         "Time": "Day 1 — 3:30pm-5:00pm",
         "Poster time": "Day 1 — 3:30pm-5:00pm",
         "Poster ID": "Poster 1.B - S.16",
-        "pdf": "https://openreview.net/pdf?id=4OLrHi9ROr"
+        "pdf": "https://openreview.net/pdf?id=4OLrHi9ROr",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 129,
@@ -1897,7 +2008,8 @@
         "Time": "Day 1 — 3:30am-5:00pm",
         "Poster time": "Day 1 — 3:30am-5:00pm",
         "Poster ID": "Poster 1.B - S.16",
-        "pdf": "https://openreview.net/pdf?id=l430x8EuHP"
+        "pdf": "https://openreview.net/pdf?id=l430x8EuHP",
+        "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
         "number": 116,
@@ -1912,7 +2024,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.01",
-        "Chairs": "",
+        "Chairs": "Hoel Kervadec",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/dannecker26a.html"
     },
@@ -1929,7 +2041,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.02",
-        "Chairs": "",
+        "Chairs": "Hoel Kervadec",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26c/wu26c.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wu26c.html"
     },
@@ -1946,7 +2058,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.03",
-        "Chairs": "",
+        "Chairs": "Hoel Kervadec",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26b/chen26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/chen26b.html"
     },
@@ -1963,7 +2075,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.04",
-        "Chairs": "",
+        "Chairs": "Hoel Kervadec",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/vilouras26a/vilouras26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/vilouras26a.html"
     },
@@ -1981,7 +2093,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 222,
@@ -1997,7 +2110,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yang26a/yang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/yang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/yang26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 101,
@@ -2013,7 +2127,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/palaniappan26a/palaniappan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 404,
@@ -2029,7 +2144,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/salort-benejam26a/salort-benejam26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 116,
@@ -2045,7 +2161,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dannecker26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dannecker26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 195,
@@ -2061,7 +2178,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26c/wu26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wu26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wu26c.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 49,
@@ -2077,7 +2195,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26b/chen26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chen26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chen26b.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 245,
@@ -2093,7 +2212,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/vilouras26a/vilouras26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/vilouras26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/vilouras26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 30,
@@ -2109,7 +2229,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 222,
@@ -2125,7 +2246,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yang26a/yang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/yang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/yang26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 101,
@@ -2141,7 +2263,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/palaniappan26a/palaniappan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 404,
@@ -2157,7 +2280,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/salort-benejam26a/salort-benejam26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 162,
@@ -2173,7 +2297,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/akoda26a/akoda26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/akoda26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/akoda26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 200,
@@ -2189,7 +2314,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/deng26a/deng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/deng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/deng26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 37,
@@ -2205,7 +2331,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/banerjee26a/banerjee26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/banerjee26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/banerjee26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 102,
@@ -2221,7 +2348,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yiasemis26a/yiasemis26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/yiasemis26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/yiasemis26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 76,
@@ -2237,7 +2365,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/duelmer26a/duelmer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/duelmer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/duelmer26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 61,
@@ -2253,7 +2382,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moriakov26a/moriakov26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/moriakov26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/moriakov26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 126,
@@ -2269,7 +2399,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hardy26a/hardy26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hardy26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hardy26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 184,
@@ -2285,7 +2416,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shi26b/shi26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shi26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shi26b.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 207,
@@ -2301,7 +2433,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kumar26a/kumar26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kumar26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kumar26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 37,
@@ -2317,7 +2450,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wohlrapp26a/wohlrapp26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wohlrapp26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wohlrapp26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 356,
@@ -2333,7 +2467,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tur26a/tur26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tur26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tur26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 82,
@@ -2349,7 +2484,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/melacini26a/melacini26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/melacini26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/melacini26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 359,
@@ -2365,7 +2501,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhong26a/zhong26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhong26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhong26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 191,
@@ -2381,7 +2518,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhao26a/zhao26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhao26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhao26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 193,
@@ -2397,7 +2535,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/di26a/di26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/di26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/di26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 382,
@@ -2413,7 +2552,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/singh26a/singh26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/singh26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/singh26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 86,
@@ -2429,7 +2569,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/pinetz26a/pinetz26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/pinetz26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/pinetz26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 33,
@@ -2445,7 +2586,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dunn-beltran26a/dunn-beltran26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dunn-beltran26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dunn-beltran26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 351,
@@ -2461,7 +2603,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26b/zheng26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zheng26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zheng26b.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 337,
@@ -2477,7 +2620,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/spears26a/spears26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/spears26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/spears26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 152,
@@ -2493,7 +2637,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shor26a/shor26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shor26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shor26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 289,
@@ -2509,7 +2654,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/saboo26a/saboo26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/saboo26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/saboo26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 13,
@@ -2525,7 +2671,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/herten26a/herten26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/herten26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/herten26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 283,
@@ -2541,7 +2688,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gebauer26a/gebauer26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/gebauer26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/gebauer26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 388,
@@ -2557,7 +2705,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/engelson26a/engelson26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/engelson26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/engelson26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 368,
@@ -2573,7 +2722,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/goyal26a/goyal26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/goyal26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/goyal26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 19,
@@ -2589,7 +2739,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/saeed26a/saeed26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/saeed26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/saeed26a.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 81,
@@ -2605,7 +2756,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.29",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26d/wang26d.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26d.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26d.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 177,
@@ -2621,7 +2773,8 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - P.30",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/byun26b/byun26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/byun26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/byun26b.html",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 35,
@@ -2636,7 +2789,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.01",
-        "pdf": "https://openreview.net/pdf?id=42yNhuBQQf"
+        "pdf": "https://openreview.net/pdf?id=42yNhuBQQf",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 40,
@@ -2651,7 +2805,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.02",
-        "pdf": "https://openreview.net/pdf?id=g7GL4T7GvL"
+        "pdf": "https://openreview.net/pdf?id=g7GL4T7GvL",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 51,
@@ -2666,7 +2821,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.03",
-        "pdf": "https://openreview.net/pdf?id=Y7meRYuX69"
+        "pdf": "https://openreview.net/pdf?id=Y7meRYuX69",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 53,
@@ -2681,7 +2837,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.04",
-        "pdf": "https://openreview.net/pdf?id=Tyr7X8RdJh"
+        "pdf": "https://openreview.net/pdf?id=Tyr7X8RdJh",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 59,
@@ -2696,7 +2853,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.05",
-        "pdf": "https://openreview.net/pdf?id=b1w9K14jT4"
+        "pdf": "https://openreview.net/pdf?id=b1w9K14jT4",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 63,
@@ -2711,7 +2869,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.06",
-        "pdf": "https://openreview.net/pdf?id=60PLqW11ZQ"
+        "pdf": "https://openreview.net/pdf?id=60PLqW11ZQ",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 65,
@@ -2726,7 +2885,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.07",
-        "pdf": "https://openreview.net/pdf?id=jx9fDGCd6I"
+        "pdf": "https://openreview.net/pdf?id=jx9fDGCd6I",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 67,
@@ -2741,7 +2901,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.08",
-        "pdf": "https://openreview.net/pdf?id=Sj6oB3dlER"
+        "pdf": "https://openreview.net/pdf?id=Sj6oB3dlER",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 84,
@@ -2756,7 +2917,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.09",
-        "pdf": "https://openreview.net/pdf?id=ZyN2jR9GUq"
+        "pdf": "https://openreview.net/pdf?id=ZyN2jR9GUq",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 89,
@@ -2771,7 +2933,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.10",
-        "pdf": "https://openreview.net/pdf?id=11fWnWfypz"
+        "pdf": "https://openreview.net/pdf?id=11fWnWfypz",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 100,
@@ -2786,7 +2949,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.11",
-        "pdf": "https://openreview.net/pdf?id=x83b7ybcB1"
+        "pdf": "https://openreview.net/pdf?id=x83b7ybcB1",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 104,
@@ -2801,7 +2965,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.12",
-        "pdf": "https://openreview.net/pdf?id=7aQnZUhdD7"
+        "pdf": "https://openreview.net/pdf?id=7aQnZUhdD7",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 106,
@@ -2816,7 +2981,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.13",
-        "pdf": "https://openreview.net/pdf?id=dSmnMMR6C3"
+        "pdf": "https://openreview.net/pdf?id=dSmnMMR6C3",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 112,
@@ -2831,7 +2997,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.14",
-        "pdf": "https://openreview.net/pdf?id=a317VhxNvo"
+        "pdf": "https://openreview.net/pdf?id=a317VhxNvo",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 114,
@@ -2846,7 +3013,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.15",
-        "pdf": "https://openreview.net/pdf?id=vQMgNm8lFc"
+        "pdf": "https://openreview.net/pdf?id=vQMgNm8lFc",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 130,
@@ -2861,7 +3029,8 @@
         "Time": "Day 2 — 11:00am-12:30pm",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.16",
-        "pdf": "https://openreview.net/pdf?id=zLk1GkPBqg"
+        "pdf": "https://openreview.net/pdf?id=zLk1GkPBqg",
+        "Chairs": "Hoel Kervadec"
     },
     {
         "number": 24,
@@ -2876,7 +3045,7 @@
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.01",
-        "Chairs": "",
+        "Chairs": "Yihao Liu, Ulas Bagci",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/komura26a/komura26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/komura26a.html"
     },
@@ -2893,7 +3062,7 @@
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.02",
-        "Chairs": "",
+        "Chairs": "Yihao Liu, Ulas Bagci",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gao26a/gao26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/gao26a.html"
     },
@@ -2910,7 +3079,7 @@
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.03",
-        "Chairs": "",
+        "Chairs": "Yihao Liu, Ulas Bagci",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lux26a/lux26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/lux26a.html"
     },
@@ -2927,7 +3096,7 @@
         "Time": "Day 2 — 1:30pm-2:45pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.04",
-        "Chairs": "",
+        "Chairs": "Yihao Liu, Ulas Bagci",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhou26a/zhou26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhou26a.html"
     },
@@ -2945,7 +3114,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tan26a/tan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tan26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 130,
@@ -2961,7 +3131,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26e/li26e.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26e.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26e.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 396,
@@ -2977,7 +3148,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zech26a/zech26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zech26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zech26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 157,
@@ -2993,7 +3165,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/weng26a/weng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/weng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/weng26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 24,
@@ -3009,7 +3182,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/komura26a/komura26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/komura26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/komura26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 125,
@@ -3025,7 +3199,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gao26a/gao26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/gao26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/gao26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 317,
@@ -3041,7 +3216,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lux26a/lux26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lux26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lux26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 342,
@@ -3057,7 +3233,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhou26a/zhou26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhou26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhou26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 118,
@@ -3073,7 +3250,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tan26a/tan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tan26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 130,
@@ -3089,7 +3267,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26e/li26e.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26e.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26e.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 396,
@@ -3105,7 +3284,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zech26a/zech26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zech26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zech26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 157,
@@ -3121,7 +3301,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/weng26a/weng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/weng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/weng26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 178,
@@ -3137,7 +3318,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/cosarinsky26a/cosarinsky26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/cosarinsky26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/cosarinsky26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 169,
@@ -3153,7 +3335,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/huang26a/huang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/huang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/huang26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 285,
@@ -3169,7 +3352,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/anglada-rotger26a/anglada-rotger26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/anglada-rotger26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/anglada-rotger26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 42,
@@ -3185,7 +3369,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/issah26a/issah26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/issah26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/issah26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 117,
@@ -3201,7 +3386,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/varma26a/varma26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/varma26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/varma26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 132,
@@ -3217,7 +3403,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/suh26a/suh26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/suh26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/suh26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 51,
@@ -3233,7 +3420,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/xiao26a/xiao26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/xiao26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/xiao26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 333,
@@ -3249,7 +3437,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/eppink26a/eppink26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/eppink26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/eppink26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 74,
@@ -3265,7 +3454,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ertl26a/ertl26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ertl26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ertl26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 210,
@@ -3281,7 +3471,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/silbernagel26a/silbernagel26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/silbernagel26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/silbernagel26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 99,
@@ -3297,7 +3488,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mishra26a/mishra26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mishra26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mishra26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 332,
@@ -3313,7 +3505,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hagen26a/hagen26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hagen26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hagen26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 357,
@@ -3329,7 +3522,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/roy26a/roy26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/roy26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/roy26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 221,
@@ -3345,7 +3539,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/danaee26a/danaee26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/danaee26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/danaee26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 91,
@@ -3361,7 +3556,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moustafa26a/moustafa26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/moustafa26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/moustafa26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 394,
@@ -3377,7 +3573,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/andrusca26a/andrusca26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/andrusca26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/andrusca26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 70,
@@ -3393,7 +3590,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/charisiadis26a/charisiadis26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/charisiadis26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/charisiadis26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 10,
@@ -3409,7 +3607,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26a/li26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 235,
@@ -3425,7 +3624,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/khan26a/khan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/khan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/khan26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 5,
@@ -3441,7 +3641,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shen26a/shen26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shen26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shen26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 208,
@@ -3457,7 +3658,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/sadegheih26a/sadegheih26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/sadegheih26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/sadegheih26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 89,
@@ -3473,7 +3675,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wei26a/wei26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wei26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wei26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 78,
@@ -3489,7 +3692,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/atad26a/atad26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/atad26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/atad26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 197,
@@ -3505,7 +3709,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/jaubert26a/jaubert26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/jaubert26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/jaubert26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 290,
@@ -3521,7 +3726,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dhor26a/dhor26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dhor26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dhor26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 23,
@@ -3537,7 +3743,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mia26a/mia26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mia26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mia26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 311,
@@ -3553,7 +3760,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/bhandary26a/bhandary26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/bhandary26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/bhandary26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 97,
@@ -3569,7 +3777,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/alameddin26a/alameddin26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/alameddin26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/alameddin26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 15,
@@ -3585,7 +3794,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.29",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/carannante26a/carannante26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/carannante26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/carannante26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 79,
@@ -3601,7 +3811,8 @@
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - P.30",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shi26a/shi26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shi26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shi26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 1,
@@ -3616,7 +3827,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.01",
-        "pdf": "https://openreview.net/pdf?id=5TQK2jYr2a"
+        "pdf": "https://openreview.net/pdf?id=5TQK2jYr2a",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 11,
@@ -3631,7 +3843,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.02",
-        "pdf": "https://openreview.net/pdf?id=t7lHP5PRH4"
+        "pdf": "https://openreview.net/pdf?id=t7lHP5PRH4",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 12,
@@ -3646,7 +3859,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.03",
-        "pdf": "https://openreview.net/pdf?id=aGXUewZJlE"
+        "pdf": "https://openreview.net/pdf?id=aGXUewZJlE",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 13,
@@ -3661,7 +3875,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.04",
-        "pdf": "https://openreview.net/pdf?id=XsjDVJOIgY"
+        "pdf": "https://openreview.net/pdf?id=XsjDVJOIgY",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 14,
@@ -3676,7 +3891,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.05",
-        "pdf": "https://openreview.net/pdf?id=lU2oFWVvef"
+        "pdf": "https://openreview.net/pdf?id=lU2oFWVvef",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 16,
@@ -3691,7 +3907,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.06",
-        "pdf": "https://openreview.net/pdf?id=bdCXTRTQ29"
+        "pdf": "https://openreview.net/pdf?id=bdCXTRTQ29",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 23,
@@ -3706,7 +3923,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.08",
-        "pdf": "https://openreview.net/pdf?id=UGTxt38PTJ"
+        "pdf": "https://openreview.net/pdf?id=UGTxt38PTJ",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 27,
@@ -3721,7 +3939,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.09",
-        "pdf": "https://openreview.net/pdf?id=fRlMK8LSYs"
+        "pdf": "https://openreview.net/pdf?id=fRlMK8LSYs",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 38,
@@ -3736,7 +3955,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.10",
-        "pdf": "https://openreview.net/pdf?id=IfcfD729GK"
+        "pdf": "https://openreview.net/pdf?id=IfcfD729GK",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 50,
@@ -3751,7 +3971,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.11",
-        "pdf": "https://openreview.net/pdf?id=ECBhUoaL5g"
+        "pdf": "https://openreview.net/pdf?id=ECBhUoaL5g",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 57,
@@ -3766,7 +3987,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.12",
-        "pdf": "https://openreview.net/pdf?id=F7RaWxyKXD"
+        "pdf": "https://openreview.net/pdf?id=F7RaWxyKXD",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 70,
@@ -3781,7 +4003,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.13",
-        "pdf": "https://openreview.net/pdf?id=J72rbQV3i7"
+        "pdf": "https://openreview.net/pdf?id=J72rbQV3i7",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 78,
@@ -3796,7 +4019,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.14",
-        "pdf": "https://openreview.net/pdf?id=pPMGBTsA21"
+        "pdf": "https://openreview.net/pdf?id=pPMGBTsA21",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 123,
@@ -3811,7 +4035,8 @@
         "Time": "Day 2 — 3:30pm-5:00pm",
         "Poster time": "Day 2 — 3:30pm-5:00pm",
         "Poster ID": "Poster 2.B - S.15",
-        "pdf": "https://openreview.net/pdf?id=gjZJpa2jEx"
+        "pdf": "https://openreview.net/pdf?id=gjZJpa2jEx",
+        "Chairs": "Yihao Liu, Ulas Bagci"
     },
     {
         "number": 28,
@@ -3826,7 +4051,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.01",
-        "Chairs": "",
+        "Chairs": "Ananya Jana, Alessa Hering",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/avci26a/avci26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/avci26a.html"
     },
@@ -3843,7 +4068,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.02",
-        "Chairs": "",
+        "Chairs": "Ananya Jana, Alessa Hering",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/nizam26a/nizam26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/nizam26a.html"
     },
@@ -3860,7 +4085,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.03",
-        "Chairs": "",
+        "Chairs": "Ananya Jana, Alessa Hering",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/posada26a/posada26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/posada26a.html"
     },
@@ -3877,7 +4102,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.04",
-        "Chairs": "",
+        "Chairs": "Ananya Jana, Alessa Hering",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kartika26a/kartika26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kartika26a.html"
     },
@@ -3895,7 +4120,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhu26a/zhu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 194,
@@ -3911,7 +4137,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26g/li26g.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26g.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26g.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 219,
@@ -3927,7 +4154,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26a/zheng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 232,
@@ -3943,7 +4171,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/atici26a/atici26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/atici26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/atici26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 28,
@@ -3959,7 +4188,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/avci26a/avci26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/avci26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/avci26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 133,
@@ -3975,7 +4205,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/nizam26a/nizam26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/nizam26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/nizam26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 244,
@@ -3991,7 +4222,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/posada26a/posada26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/posada26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/posada26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 300,
@@ -4007,7 +4239,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kartika26a/kartika26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kartika26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kartika26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 42,
@@ -4023,7 +4256,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhu26a/zhu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 194,
@@ -4039,7 +4273,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26g/li26g.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26g.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26g.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 219,
@@ -4055,7 +4290,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26a/zheng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 232,
@@ -4071,7 +4307,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/atici26a/atici26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/atici26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/atici26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 41,
@@ -4087,7 +4324,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26a/liu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/liu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/liu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 46,
@@ -4103,7 +4341,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lin26a/lin26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lin26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lin26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 231,
@@ -4119,7 +4358,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/koser26a/koser26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/koser26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/koser26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 223,
@@ -4135,7 +4375,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/qu26a/qu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/qu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/qu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 335,
@@ -4151,7 +4392,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shahid26a/shahid26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shahid26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shahid26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 340,
@@ -4167,7 +4409,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/abouyoussef26a/abouyoussef26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/abouyoussef26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/abouyoussef26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 179,
@@ -4183,7 +4426,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/arvapalli26a/arvapalli26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/arvapalli26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/arvapalli26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 9,
@@ -4199,7 +4443,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ochs26a/ochs26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ochs26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ochs26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 131,
@@ -4215,7 +4460,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26f/li26f.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/li26f.html"
+        "proceedings": "https://proceedings.mlr.press/v315/li26f.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 137,
@@ -4231,7 +4477,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ji26a/ji26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ji26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ji26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 254,
@@ -4247,7 +4494,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/soraki26a/soraki26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/soraki26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/soraki26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 240,
@@ -4263,7 +4511,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lin26b/lin26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lin26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lin26b.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 142,
@@ -4279,7 +4528,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shakya26a/shakya26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/shakya26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/shakya26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 14,
@@ -4295,7 +4545,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/peng26a/peng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/peng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/peng26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 170,
@@ -4311,7 +4562,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tastan26a/tastan26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/tastan26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/tastan26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 374,
@@ -4327,7 +4579,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/huang26b/huang26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/huang26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/huang26b.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 217,
@@ -4343,7 +4596,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mahmoud26a/mahmoud26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mahmoud26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mahmoud26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 55,
@@ -4359,7 +4613,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mgboh26a/mgboh26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mgboh26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mgboh26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 10,
@@ -4375,7 +4630,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26c/chen26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chen26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chen26c.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 124,
@@ -4391,7 +4647,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/jiang26a/jiang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/jiang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/jiang26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 172,
@@ -4407,7 +4664,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dutta26a/dutta26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dutta26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dutta26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 136,
@@ -4423,7 +4681,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ben-haddou26a/ben-haddou26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ben-haddou26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ben-haddou26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 391,
@@ -4439,7 +4698,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/singh26b/singh26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/singh26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/singh26b.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 258,
@@ -4455,7 +4715,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhuang26a/zhuang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/zhuang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/zhuang26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 11,
@@ -4471,7 +4732,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26a/wu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 225,
@@ -4487,7 +4749,8 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lu26a/lu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lu26a.html",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 18,
@@ -4502,7 +4765,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.01",
-        "pdf": "https://openreview.net/pdf?id=6vPIH10xE0"
+        "pdf": "https://openreview.net/pdf?id=6vPIH10xE0",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 29,
@@ -4517,7 +4781,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.02",
-        "pdf": "https://openreview.net/pdf?id=EwvL2VAp2b"
+        "pdf": "https://openreview.net/pdf?id=EwvL2VAp2b",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 33,
@@ -4532,7 +4797,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.03",
-        "pdf": "https://openreview.net/pdf?id=thciUz1oP5"
+        "pdf": "https://openreview.net/pdf?id=thciUz1oP5",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 58,
@@ -4547,7 +4813,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.04",
-        "pdf": "https://openreview.net/pdf?id=AiuJ6MQt0Q"
+        "pdf": "https://openreview.net/pdf?id=AiuJ6MQt0Q",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 62,
@@ -4562,7 +4829,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.05",
-        "pdf": "https://openreview.net/pdf?id=A2VXv9QgRo"
+        "pdf": "https://openreview.net/pdf?id=A2VXv9QgRo",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 64,
@@ -4577,7 +4845,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.06",
-        "pdf": "https://openreview.net/pdf?id=OIjw0dFD3r"
+        "pdf": "https://openreview.net/pdf?id=OIjw0dFD3r",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 73,
@@ -4592,7 +4861,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.08",
-        "pdf": "https://openreview.net/pdf?id=bCj0lAsJDD"
+        "pdf": "https://openreview.net/pdf?id=bCj0lAsJDD",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 90,
@@ -4607,7 +4877,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.09",
-        "pdf": "https://openreview.net/pdf?id=RKIFxOMZMd"
+        "pdf": "https://openreview.net/pdf?id=RKIFxOMZMd",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 92,
@@ -4622,7 +4893,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.10",
-        "pdf": "https://openreview.net/pdf?id=Hui8S4f6oT"
+        "pdf": "https://openreview.net/pdf?id=Hui8S4f6oT",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 96,
@@ -4637,7 +4909,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.11",
-        "pdf": "https://openreview.net/pdf?id=qjjNaWuu3T"
+        "pdf": "https://openreview.net/pdf?id=qjjNaWuu3T",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 103,
@@ -4652,7 +4925,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.12",
-        "pdf": "https://openreview.net/pdf?id=YWDQpIgWFK"
+        "pdf": "https://openreview.net/pdf?id=YWDQpIgWFK",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 108,
@@ -4667,7 +4941,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.13",
-        "pdf": "https://openreview.net/pdf?id=bW5oerBwg8"
+        "pdf": "https://openreview.net/pdf?id=bW5oerBwg8",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 128,
@@ -4682,7 +4957,8 @@
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.15",
-        "pdf": "https://openreview.net/pdf?id=LiG7b7fiKk"
+        "pdf": "https://openreview.net/pdf?id=LiG7b7fiKk",
+        "Chairs": "Ananya Jana, Alessa Hering"
     },
     {
         "number": 16,
@@ -4697,7 +4973,7 @@
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.01",
-        "Chairs": "",
+        "Chairs": "Jinsong Ouyang, Chen Qin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gallee26a/gallee26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/gallee26a.html"
     },
@@ -4714,7 +4990,7 @@
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.02",
-        "Chairs": "",
+        "Chairs": "Jinsong Ouyang, Chen Qin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/khawaled26a/khawaled26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/khawaled26a.html"
     },
@@ -4731,7 +5007,7 @@
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.03",
-        "Chairs": "",
+        "Chairs": "Jinsong Ouyang, Chen Qin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mao26a/mao26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/mao26a.html"
     },
@@ -4748,7 +5024,7 @@
         "Time": "Day 3 — 1:30pm-2:45pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.04",
-        "Chairs": "",
+        "Chairs": "Jinsong Ouyang, Chen Qin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kondrateva26a/kondrateva26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kondrateva26a.html"
     },
@@ -4766,7 +5042,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/navet26a/navet26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/navet26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/navet26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 234,
@@ -4782,7 +5059,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wong26a/wong26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wong26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wong26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 315,
@@ -4798,7 +5076,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/grigorescu26a/grigorescu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/grigorescu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/grigorescu26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 318,
@@ -4814,7 +5093,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/masui26a/masui26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/masui26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/masui26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 16,
@@ -4830,7 +5110,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gallee26a/gallee26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/gallee26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/gallee26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 135,
@@ -4846,7 +5127,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/khawaled26a/khawaled26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/khawaled26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/khawaled26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 72,
@@ -4862,7 +5144,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mao26a/mao26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mao26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mao26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 18,
@@ -4878,7 +5161,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kondrateva26a/kondrateva26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/kondrateva26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/kondrateva26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 34,
@@ -4894,7 +5178,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/navet26a/navet26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/navet26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/navet26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 234,
@@ -4910,7 +5195,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wong26a/wong26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wong26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wong26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 315,
@@ -4926,7 +5212,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/grigorescu26a/grigorescu26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/grigorescu26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/grigorescu26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 318,
@@ -4942,7 +5229,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/masui26a/masui26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/masui26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/masui26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 40,
@@ -4958,7 +5246,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/duarte26a/duarte26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/duarte26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/duarte26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 25,
@@ -4974,7 +5263,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gunawardhana26a/gunawardhana26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/gunawardhana26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/gunawardhana26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 336,
@@ -4990,7 +5280,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/collin26a/collin26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/collin26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/collin26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 23,
@@ -5006,7 +5297,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26h/wang26h.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26h.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26h.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 103,
@@ -5022,7 +5314,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/marikkar26a/marikkar26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/marikkar26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/marikkar26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 45,
@@ -5038,7 +5331,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hays26a/hays26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hays26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hays26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 134,
@@ -5054,7 +5348,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26c/liu26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/liu26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/liu26c.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 233,
@@ -5070,7 +5365,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/halimi26a/halimi26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/halimi26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/halimi26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 277,
@@ -5086,7 +5382,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hashisho26a/hashisho26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/hashisho26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/hashisho26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 29,
@@ -5102,7 +5399,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/maruccio26a/maruccio26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/maruccio26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/maruccio26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 113,
@@ -5118,7 +5416,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ren26a/ren26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ren26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ren26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 39,
@@ -5134,7 +5433,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/djoumessi26a/djoumessi26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/djoumessi26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/djoumessi26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 369,
@@ -5150,7 +5450,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lin26c/lin26c.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/lin26c.html"
+        "proceedings": "https://proceedings.mlr.press/v315/lin26c.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 302,
@@ -5166,7 +5467,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/grove26a/grove26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/grove26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/grove26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 32,
@@ -5182,7 +5484,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mhanna26a/mhanna26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mhanna26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mhanna26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 367,
@@ -5198,7 +5501,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/minh26a/minh26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/minh26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/minh26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 53,
@@ -5214,7 +5518,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dai26a/dai26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/dai26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/dai26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 98,
@@ -5230,7 +5535,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chang26a/chang26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chang26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chang26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 28,
@@ -5246,7 +5552,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/al-belmpeisi26a/al-belmpeisi26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/al-belmpeisi26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/al-belmpeisi26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 243,
@@ -5262,7 +5569,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/cheng26a/cheng26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/cheng26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/cheng26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 30,
@@ -5278,7 +5586,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/topolnjak26a/topolnjak26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/topolnjak26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/topolnjak26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 310,
@@ -5294,7 +5603,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chraki26a/chraki26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/chraki26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/chraki26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 238,
@@ -5310,7 +5620,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ozlugedik26a/ozlugedik26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ozlugedik26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ozlugedik26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 19,
@@ -5326,7 +5637,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mushunuri26a/mushunuri26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/mushunuri26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/mushunuri26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 352,
@@ -5342,7 +5654,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26g/wang26g.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26g.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26g.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 34,
@@ -5358,7 +5671,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26b/wang26b.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/wang26b.html"
+        "proceedings": "https://proceedings.mlr.press/v315/wang26b.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 110,
@@ -5374,7 +5688,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ben-atya26a/ben-atya26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/ben-atya26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/ben-atya26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 108,
@@ -5390,7 +5705,8 @@
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/stolte26a/stolte26a.pdf",
-        "proceedings": "https://proceedings.mlr.press/v315/stolte26a.html"
+        "proceedings": "https://proceedings.mlr.press/v315/stolte26a.html",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 7,
@@ -5405,7 +5721,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.01",
-        "pdf": "https://openreview.net/pdf?id=BfySIL9dmE"
+        "pdf": "https://openreview.net/pdf?id=BfySIL9dmE",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 25,
@@ -5420,7 +5737,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.03",
-        "pdf": "https://openreview.net/pdf?id=Il9UgRNpfT"
+        "pdf": "https://openreview.net/pdf?id=Il9UgRNpfT",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 47,
@@ -5435,7 +5753,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.04",
-        "pdf": "https://openreview.net/pdf?id=3olr2Kxd3G"
+        "pdf": "https://openreview.net/pdf?id=3olr2Kxd3G",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 48,
@@ -5450,7 +5769,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.05",
-        "pdf": "https://openreview.net/pdf?id=6ktIr98c2z"
+        "pdf": "https://openreview.net/pdf?id=6ktIr98c2z",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 49,
@@ -5465,7 +5785,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.06",
-        "pdf": "https://openreview.net/pdf?id=LsQTLcdH2Y"
+        "pdf": "https://openreview.net/pdf?id=LsQTLcdH2Y",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 76,
@@ -5480,7 +5801,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.07",
-        "pdf": "https://openreview.net/pdf?id=LG3vdjwnVm"
+        "pdf": "https://openreview.net/pdf?id=LG3vdjwnVm",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 77,
@@ -5495,7 +5817,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.08",
-        "pdf": "https://openreview.net/pdf?id=1z0ShFGdH0"
+        "pdf": "https://openreview.net/pdf?id=1z0ShFGdH0",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 82,
@@ -5510,7 +5833,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.09",
-        "pdf": "https://openreview.net/pdf?id=G5dor6gAfN"
+        "pdf": "https://openreview.net/pdf?id=G5dor6gAfN",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 91,
@@ -5525,7 +5849,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.10",
-        "pdf": "https://openreview.net/pdf?id=J74JeSiFj7"
+        "pdf": "https://openreview.net/pdf?id=J74JeSiFj7",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 102,
@@ -5540,7 +5865,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.11",
-        "pdf": "https://openreview.net/pdf?id=LBSIyzWImR"
+        "pdf": "https://openreview.net/pdf?id=LBSIyzWImR",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 116,
@@ -5555,7 +5881,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.12",
-        "pdf": "https://openreview.net/pdf?id=uuLRb5e6ez"
+        "pdf": "https://openreview.net/pdf?id=uuLRb5e6ez",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 118,
@@ -5570,7 +5897,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.13",
-        "pdf": "https://openreview.net/pdf?id=fGqcPjO8vt"
+        "pdf": "https://openreview.net/pdf?id=fGqcPjO8vt",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 132,
@@ -5585,7 +5913,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.14",
-        "pdf": "https://openreview.net/pdf?id=Izi7kUr1Ya"
+        "pdf": "https://openreview.net/pdf?id=Izi7kUr1Ya",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": 133,
@@ -5600,7 +5929,8 @@
         "Time": "Day 3 — 2:45pm-4:15pm",
         "Poster time": "Day 3 — 2:45pm-4:15pm",
         "Poster ID": "Poster 3.B - S.15",
-        "pdf": "https://openreview.net/pdf?id=P13TiRmgo2"
+        "pdf": "https://openreview.net/pdf?id=P13TiRmgo2",
+        "Chairs": "Jinsong Ouyang, Chen Qin"
     },
     {
         "number": "2025:023",
