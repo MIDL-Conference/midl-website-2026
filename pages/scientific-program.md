@@ -56,6 +56,8 @@ title: Scientific Program
                     const url = row['forum'];
                     const pdf = row['pdf'];
                     const pdfLink = pdf ? `, <a href="${pdf}" target="_black"> PDF</a>` : '';
+                    const presenter = row['Presenter'] ? `<br><strong>Presenter:</strong> ${row['Presenter']}` : '';
+                    const reviewLabel = track === 'MELBA Journal-to-conference' ? 'Journal' : 'Reviews';
                     const presentation = row['Final Decision'];
 
                     const poster = '<strong>Poster time: </strong>' + row['Poster time'] + '<br><strong>Poster ID: </strong>' + row['Poster ID'];
@@ -63,9 +65,9 @@ title: Scientific Program
                     rowData.append(`
                     <li>  
                     ${number} - ${title}, 
-                    <i>${authors}</i>, 
+                    <i>${authors}</i>${presenter}, 
                     <span class="track">${track} Track</span>
-                    <span class="links">(<a class="toggle_visibility">Abstract</a>${pdfLink}, <a href="${url}" target="_black"> Reviews</a>, <a class="toggle_visibility_poster">Poster</a>)</span>
+                    <span class="links">(<a class="toggle_visibility">Abstract</a>${pdfLink}, <a href="${url}" target="_black"> ${reviewLabel}</a>, <a class="toggle_visibility_poster">Poster</a>)</span>
                     
                     <p class="abstract" style="display: none; margin-top:1rem; margin-bottom:1rem;"> <strong>Abstract: </strong>${abstract}</p>
                     <p class="poster_info" style="display: none; margin-top:1rem; margin-bottom:1rem;">${poster}</p>
