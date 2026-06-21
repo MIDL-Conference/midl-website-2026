@@ -2024,7 +2024,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.01",
-        "Chairs": "Hoel Kervadec",
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/dannecker26a.html"
     },
@@ -2041,7 +2041,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.02",
-        "Chairs": "Hoel Kervadec",
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26c/wu26c.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wu26c.html"
     },
@@ -2058,7 +2058,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.03",
-        "Chairs": "Hoel Kervadec",
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26b/chen26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/chen26b.html"
     },
@@ -2075,7 +2075,7 @@
         "Time": "Day 2 — 9:00am-10:15am",
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - O.04",
-        "Chairs": "Hoel Kervadec",
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/vilouras26a/vilouras26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/vilouras26a.html"
     },
@@ -2094,7 +2094,7 @@
         "Poster ID": "Poster 2.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 222,
@@ -2111,7 +2111,7 @@
         "Poster ID": "Poster 2.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yang26a/yang26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/yang26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 101,
@@ -2128,7 +2128,7 @@
         "Poster ID": "Poster 2.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/palaniappan26a/palaniappan26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 404,
@@ -2145,7 +2145,7 @@
         "Poster ID": "Poster 2.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/salort-benejam26a/salort-benejam26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 116,
@@ -2162,7 +2162,7 @@
         "Poster ID": "Poster 2.A - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dannecker26a/dannecker26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/dannecker26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 195,
@@ -2179,7 +2179,7 @@
         "Poster ID": "Poster 2.A - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26c/wu26c.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wu26c.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 49,
@@ -2196,7 +2196,7 @@
         "Poster ID": "Poster 2.A - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26b/chen26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/chen26b.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 245,
@@ -2213,7 +2213,7 @@
         "Poster ID": "Poster 2.A - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/vilouras26a/vilouras26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/vilouras26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 30,
@@ -2230,7 +2230,7 @@
         "Poster ID": "Poster 2.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/heyer26a/heyer26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/heyer26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 222,
@@ -2247,7 +2247,7 @@
         "Poster ID": "Poster 2.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yang26a/yang26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/yang26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 101,
@@ -2264,7 +2264,7 @@
         "Poster ID": "Poster 2.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/palaniappan26a/palaniappan26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/palaniappan26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 404,
@@ -2281,7 +2281,7 @@
         "Poster ID": "Poster 2.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/salort-benejam26a/salort-benejam26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/salort-benejam26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 162,
@@ -2298,7 +2298,7 @@
         "Poster ID": "Poster 2.A - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/akoda26a/akoda26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/akoda26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 200,
@@ -2315,7 +2315,7 @@
         "Poster ID": "Poster 2.A - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/deng26a/deng26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/deng26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 37,
@@ -2332,7 +2332,7 @@
         "Poster ID": "Poster 2.A - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/banerjee26a/banerjee26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/banerjee26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 102,
@@ -2349,7 +2349,7 @@
         "Poster ID": "Poster 2.A - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/yiasemis26a/yiasemis26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/yiasemis26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 76,
@@ -2366,7 +2366,7 @@
         "Poster ID": "Poster 2.A - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/duelmer26a/duelmer26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/duelmer26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 61,
@@ -2383,7 +2383,7 @@
         "Poster ID": "Poster 2.A - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/moriakov26a/moriakov26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/moriakov26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 126,
@@ -2400,7 +2400,7 @@
         "Poster ID": "Poster 2.A - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/hardy26a/hardy26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/hardy26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 184,
@@ -2417,7 +2417,7 @@
         "Poster ID": "Poster 2.A - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shi26b/shi26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/shi26b.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 207,
@@ -2434,7 +2434,7 @@
         "Poster ID": "Poster 2.A - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kumar26a/kumar26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kumar26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 37,
@@ -2451,7 +2451,7 @@
         "Poster ID": "Poster 2.A - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wohlrapp26a/wohlrapp26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wohlrapp26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 356,
@@ -2468,7 +2468,7 @@
         "Poster ID": "Poster 2.A - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tur26a/tur26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/tur26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 82,
@@ -2485,7 +2485,7 @@
         "Poster ID": "Poster 2.A - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/melacini26a/melacini26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/melacini26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 359,
@@ -2502,7 +2502,7 @@
         "Poster ID": "Poster 2.A - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhong26a/zhong26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhong26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 191,
@@ -2519,7 +2519,7 @@
         "Poster ID": "Poster 2.A - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhao26a/zhao26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhao26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 193,
@@ -2536,7 +2536,7 @@
         "Poster ID": "Poster 2.A - P.15",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/di26a/di26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/di26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 382,
@@ -2553,7 +2553,7 @@
         "Poster ID": "Poster 2.A - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/singh26a/singh26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/singh26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 86,
@@ -2570,7 +2570,7 @@
         "Poster ID": "Poster 2.A - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/pinetz26a/pinetz26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/pinetz26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 33,
@@ -2587,7 +2587,7 @@
         "Poster ID": "Poster 2.A - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dunn-beltran26a/dunn-beltran26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/dunn-beltran26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 351,
@@ -2604,7 +2604,7 @@
         "Poster ID": "Poster 2.A - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26b/zheng26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zheng26b.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 337,
@@ -2621,7 +2621,7 @@
         "Poster ID": "Poster 2.A - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/spears26a/spears26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/spears26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 152,
@@ -2638,7 +2638,7 @@
         "Poster ID": "Poster 2.A - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shor26a/shor26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/shor26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 289,
@@ -2655,7 +2655,7 @@
         "Poster ID": "Poster 2.A - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/saboo26a/saboo26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/saboo26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 13,
@@ -2672,7 +2672,7 @@
         "Poster ID": "Poster 2.A - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/herten26a/herten26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/herten26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 283,
@@ -2689,7 +2689,7 @@
         "Poster ID": "Poster 2.A - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/gebauer26a/gebauer26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/gebauer26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 388,
@@ -2706,7 +2706,7 @@
         "Poster ID": "Poster 2.A - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/engelson26a/engelson26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/engelson26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 368,
@@ -2723,7 +2723,7 @@
         "Poster ID": "Poster 2.A - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/goyal26a/goyal26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/goyal26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 19,
@@ -2740,7 +2740,7 @@
         "Poster ID": "Poster 2.A - P.28",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/saeed26a/saeed26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/saeed26a.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 81,
@@ -2757,7 +2757,7 @@
         "Poster ID": "Poster 2.A - P.29",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wang26d/wang26d.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wang26d.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 177,
@@ -2774,7 +2774,7 @@
         "Poster ID": "Poster 2.A - P.30",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/byun26b/byun26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/byun26b.html",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 35,
@@ -2790,7 +2790,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.01",
         "pdf": "https://openreview.net/pdf?id=42yNhuBQQf",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 40,
@@ -2806,7 +2806,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.02",
         "pdf": "https://openreview.net/pdf?id=g7GL4T7GvL",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 51,
@@ -2822,7 +2822,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.03",
         "pdf": "https://openreview.net/pdf?id=Y7meRYuX69",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 53,
@@ -2838,7 +2838,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.04",
         "pdf": "https://openreview.net/pdf?id=Tyr7X8RdJh",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 59,
@@ -2854,7 +2854,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.05",
         "pdf": "https://openreview.net/pdf?id=b1w9K14jT4",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 63,
@@ -2870,7 +2870,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.06",
         "pdf": "https://openreview.net/pdf?id=60PLqW11ZQ",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 65,
@@ -2886,7 +2886,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.07",
         "pdf": "https://openreview.net/pdf?id=jx9fDGCd6I",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 67,
@@ -2902,7 +2902,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.08",
         "pdf": "https://openreview.net/pdf?id=Sj6oB3dlER",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 84,
@@ -2918,7 +2918,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.09",
         "pdf": "https://openreview.net/pdf?id=ZyN2jR9GUq",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 89,
@@ -2934,7 +2934,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.10",
         "pdf": "https://openreview.net/pdf?id=11fWnWfypz",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 100,
@@ -2950,7 +2950,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.11",
         "pdf": "https://openreview.net/pdf?id=x83b7ybcB1",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 104,
@@ -2966,7 +2966,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.12",
         "pdf": "https://openreview.net/pdf?id=7aQnZUhdD7",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 106,
@@ -2982,7 +2982,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.13",
         "pdf": "https://openreview.net/pdf?id=dSmnMMR6C3",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 112,
@@ -2998,7 +2998,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.14",
         "pdf": "https://openreview.net/pdf?id=a317VhxNvo",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 114,
@@ -3014,7 +3014,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.15",
         "pdf": "https://openreview.net/pdf?id=vQMgNm8lFc",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 130,
@@ -3030,7 +3030,7 @@
         "Poster time": "Day 2 — 11:00am-12:30pm",
         "Poster ID": "Poster 2.A - S.16",
         "pdf": "https://openreview.net/pdf?id=zLk1GkPBqg",
-        "Chairs": "Hoel Kervadec"
+        "Chairs": "Hoel Kervadec, Xiaofeng Yang"
     },
     {
         "number": 24,
