@@ -34,7 +34,6 @@ title: Scientific Program
             dataContainer.empty(); // Clear existing data
 
             const groupedData = groupBySession(data);
-            const displayedChairs = {};
 
             for (const session in groupedData) {
                 const sessionContainer = $('<div class="session-group"></div>');
@@ -42,11 +41,8 @@ title: Scientific Program
                 const sessionType = groupedData[session][0]['Final Decision'];
 
                 let chairs;
-                const sessionCode = (session.match(/\d\.[A-Z]/) || [''])[0];
-                const chairKey = sessionCode + '|' + groupedData[session][0]["Chairs"];
-                if (groupedData[session][0]["Chairs"] && !displayedChairs[chairKey]) {
+                if (groupedData[session][0]["Chairs"]) {
                     chairs = '<h4><span style="color:#888;"><strong>Chairs</strong>: ' + groupedData[session][0]["Chairs"] + '</span></h4>';
-                    displayedChairs[chairKey] = true;
                 } else {
                     chairs = '';
                 }
