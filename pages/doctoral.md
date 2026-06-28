@@ -83,7 +83,7 @@ Take advantage of this dedicated time to explore the city with fellow attendees!
 
 ------
 
-![Portrait of Chi-Tung Cheng](/images/ChiTungCheng.jpeg){: width="180" }
+![Portrait of Chi-Tung Cheng](/images/ChiTungCheng.jpg){: width="180" }
 
 **Biography:** Chi-Tung Cheng, MD, PhD Clinical Professor, Trauma & Emergency Surgery, Linkou Chang Gung Memorial Hospital and Joint-Appointed Assistant Professor, Department of Artificial Intelligence, Chang Gung University
 
