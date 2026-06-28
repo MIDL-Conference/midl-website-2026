@@ -5,7 +5,7 @@ title: Doctoral Symposium
 # 🎓 Doctoral Symposium
 
 We are pleased to share the tentative program for the **Doctoral Symposium at MIDL 2026**.  
-This event is designed to provide an enriching and engaging experience for trainees, including graduate students and postdoctoral researchers, with opportunities to connect with both academic and industry professionals.
+This event is designed to provide an enriching and engaging experience for trainees, including graduate students and postdoctoral researchers.
 
 ---
 
@@ -24,7 +24,7 @@ This event is designed to provide an enriching and engaging experience for train
 - Introduction of the *Young Researcher Board (YRB)*
 
 **🕙 10:00 – 11:00 AM**  
-**Panel Discussion: Early Career Professionals**
+**Panel Discussion: Ask us anything!**
 
 **🕚 11:00 AM – 11:15 AM**  
 **Coffee Break**
@@ -61,7 +61,7 @@ This event is designed to provide an enriching and engaging experience for train
 
 Take advantage of this dedicated time to explore the city with fellow attendees!
 - 📸 **Shared photo album for participants**  
-- 🏆 **Photo Contest: Prize for the best photo of the day!**
+- 🏆 **Prizes for submitted photos!**
 
 ---
 
@@ -82,7 +82,8 @@ Take advantage of this dedicated time to explore the city with fellow attendees!
 ## Keynote Speaker: Chi-Tung Cheng, MD, PhD
 
 ------
-![Portrait of Chi-Tung Cheng](/images/doctoral/ChiTungCheng.jpg){: width="180" }
+
+![Portrait of Chi-Tung Cheng](/images/doctoral/ChiTungCheng.jpeg){: width="180" }
 
 **Biography:** Chi-Tung Cheng, MD, PhD Clinical Professor, Trauma & Emergency Surgery, Linkou Chang Gung Memorial Hospital and Joint-Appointed Assistant Professor, Department of Artificial Intelligence, Chang Gung University
 
