@@ -4,9 +4,9 @@ title: Program at a Glance
 
 # Program at a Glance
 
-[Program PDF](images/ProgramAtGlance.pdf)
+[Program PDF](images/ProgramAtGlanceV2.pdf)
 
-![Program-at-glanes](/images/programglance.png){ width=100% }
+![Program-at-glanes](/images/programglancev2.jpg){ width=100% }
 
 
 <!-- 
