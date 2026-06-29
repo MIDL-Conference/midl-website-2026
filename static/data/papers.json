@@ -3836,6 +3836,22 @@
         "proceedings": "https://proceedings.mlr.press/v315/shi26a.html",
         "Chairs": "Yihao Liu, Ulas Bagci"
     },
+        {
+        "number": 342,
+        "UID": "F-342",
+        "forum": "https://openreview.net/forum?id=3dKmXxITJB",
+        "Track": "Full paper",
+        "title": "TTT-UNet: Enhancing U-Net with Test-Time Training Layers for Biomedical Image Segmentation",
+        "abstract": "Biomedical image segmentation is crucial for accurately diagnosing and analyzing various diseases. However, Convolutional Neural Networks (CNNs) and Transformers, the most commonly used architectures for this task, struggle to effectively capture long-range dependencies due to the inherent locality of CNNs and the computational complexity of Transformers. To address this limitation, we introduce TTT-UNet, a novel framework that integrates Test-Time Training (TTT) layers into the traditional U-Net architecture for biomedical image segmentation. TTT-UNet dynamically adjusts model parameters during the test time, enhancing the model's ability to capture both local and long-range features. We evaluate TTT-UNet on multiple medical imaging datasets, including 3D abdominal organ segmentation in CT and MR images, instrument segmentation in endoscopy images, and cell segmentation in microscopy images. The results demonstrate that TTT-UNet consistently outperforms state-of-the-art CNN-based and Transformer-based segmentation models across all tasks. The code is available at https://github.com/rongzhou7/TTT-UNet.",        "authors": "Bo Shi, Wei-Ping Zhu, M.N.S. Swamy",
+        "Session": "Poster 2.B: Segmentation, Detection, and Structured Prediction in Medical Imaging",
+        "Final Decision": "Poster",
+        "Time": "Day 2 — 3:30pm-5:00pm",
+        "Poster time": "Day 2 — 3:30pm-5:00pm",
+        "Poster ID": "Poster 2.B - P.30",
+        "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhou26a/zhou26a.pdf",
+        "proceedings": "https://proceedings.mlr.press/v315/zhou26a.html",
+        "Chairs": "Yihao Liu, Ulas Bagci"
+    },
     {
         "number": 1,
         "UID": "S-1",
