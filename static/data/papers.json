@@ -3068,6 +3068,23 @@
         "proceedings": "https://proceedings.mlr.press/v315/lux26a.html"
     },
     {
+        "number": 98,
+        "UID": "O-98",
+        "forum": "https://openreview.net/forum?id=jPtvQa93uX",
+        "Track": "Full paper",
+        "title": "A Deep Learning-Enabled Digital Twin Framework for Fast Online Adaptive Proton Therapy: A Validation Study in A Prostate SBRT Clinical Application",
+        "abstract": "Online adaptive radiotherapy offers substantial potential for improving treatment precision by accounting for daily anatomical variations, yet conventional replanning workflows remain time intensive and limit feasibility for hypofractionated treatments such as prostate stereotactic body radiation therapy (SBRT). This validation study demonstrates a deep learning enabled digital twin (DT) framework that leverages a VoxelMorph-based multi atlas deformable image registration pipeline to enable fast online adaptive proton therapy planning with dominant intraprostatic lesion (DIL) boost while achieving clinical equivalent plan quality with significantly reduced reoptimization time. The DT framework integrates deformable registration, daily cone beam CT (CBCT)-driven anatomical updates, and knowledge-based composite scoring functions, using an institutional database of 43 prostate SBRT patients with 210 CBCT scans totaling approximately 26,312 images to forecast interfractional variations and pre generate probabilistic treatment plans for new patients. Upon daily CBCT acquisition, the system enables rapid reoptimization using pre-computed plan conditions, and plan quality is evaluated using a ProKnow based scoring system that assesses target coverage and organ at risk sparing. Across all cases, the DT framework achieved an average reoptimization time of 5.5 ±2.7 minutes compared with 19.8 ± 11.9 minutes for clinical workflows, representing a 72 percent reduction, while producing optimal plans with a composite score of 157.2±5.6 compared with 153.8±6.0 for clinical plans. DT generated plans maintained high dosimetric quality, including DIL V100 of 99.5 percent ±0.6 percent, CTV V100 of 99.8 percent ±0.2 percent, and comparable sparing of organs at risk, such as bladder V20.8Gy of 11.4 ± 4.2 cm3 , rectum V23Gy of 0.7 ± 0.4 cm3 , and urethra D10 of 90.9 percent ±2.3 percent. These results demonstrate that deep learning enabled digital twins can substantially accelerate online adaptive proton therapy while preserving or enhancing plan quality, providing a clinically feasible pathway toward real time personalized radiotherapy for prostate SBRT with DIL boost.",
+        "authors": "Chih-Wei Chang, Mojtaba Safari, Sri Sai Akkineni, Mingzhe Hu, Keyur D. Shah, Yuan Gao, Pretesh Patel, Ashesh Jani, Greeshma Agasthya, Jun Zhou, Xiaofeng Yang",
+        "Session": "Oral 2.B: Segmentation, Detection, and Structured Prediction in Medical Imaging",
+        "Final Decision": "Oral",
+        "Time": "Day 2 — 1:30pm-2:45pm",
+        "Poster time": "Day 2 — 3:30pm-5:00pm",
+        "Poster ID": "Poster 2.B - O.03",
+        "Chairs": "Yihao Liu, Ulas Bagci",
+        "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chang26a/chang26a.pdf",
+        "proceedings": "https://proceedings.mlr.press/v315/chang26a.html"
+    },
+    {
         "number": 118,
         "UID": "SP-118",
         "forum": "https://openreview.net/forum?id=agl53YANB6",
