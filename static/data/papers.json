@@ -4990,7 +4990,7 @@
         "title": "T2-PILOT: Optimized Trajectories for T2 Mapping Acceleration",
         "abstract": "Cardiac MRI mapping is essential for diagnosing myocardial pathologies, but prolonged acquisitions often extend beyond the diastolic rest phase, leading to motion artifacts and reduced reliability. While deep learning accelerates imaging via k-space undersampling, existing learned trajectories optimize for image reconstruction and neglect the underlying relaxation physics. We propose T2-PILOT, which jointly optimizes non-Cartesian k-space trajectories and map estimation by enforcing the decay model during training, with additional subject-specific test-time fine-tuning. On the CMRxRecon dataset, T2-PILOT outperforms both fixed and unconstrained reconstruction-guided trajectories. Under high undersampling, it improves image quality and quantitative accuracy while reducing per-beat acquisition time by 54% (32 vs. 70 spokes), yielding a PSNR gain of 0.14 dB (35.06 vs. 34.92) and a map accuracy improvement of 0.67 dB (31.96 vs. 31.29). These results demonstrate that incorporating physics-based constraints into trajectory learning enables more accurate, robust, and clinically reliable accelerated mapping.",
         "authors": "Naama Gavrielov, Tamir Shor, Alex M. Bronstein, Moti Freiman",
-        "Session": "Poster 2.A: Generative Models, Synthesis, Registration and Medical Image Reconstruction",
+        "Session": "Poster 3.A: Multi-modal Learning, Data Fusion, and Image Processing",
         "Final Decision": "Poster",
         "Time": "Day 3 — 11:00am-12:30pm",
         "Poster time": "Day 3 — 11:00am-12:30pm",
