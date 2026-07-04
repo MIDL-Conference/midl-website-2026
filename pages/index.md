@@ -21,15 +21,17 @@ page_class: home
 </p> 
 
 ## Livestream links
-<p class="button">
-  <a href="https://youtube.com/live/kXXQ5yVJcTI?feature=share" target="_blank">Day 1 Livestream</a>
-</p>
-<p class="button">
-  <a href="https://youtube.com/live/wY5OvMUm8Cg?feature=share" target="_blank">Day 2 Livestream</a>
-</p>
-<p class="button">
-  <a href="https://youtube.com/live/X3sUleDgGPc?feature=share" target="_blank">Day 3 Livestream</a>
-</p>
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+  <p class="button">
+    <a href="https://youtube.com/live/kXXQ5yVJcTI?feature=share" target="_blank">Day 1 Livestream</a>
+  </p>
+  <p class="button">
+    <a href="https://youtube.com/live/wY5OvMUm8Cg?feature=share" target="_blank">Day 2 Livestream</a>
+  </p>
+  <p class="button">
+    <a href="https://youtube.com/live/X3sUleDgGPc?feature=share" target="_blank">Day 3 Livestream</a>
+  </p>
+</div>
 
 
 ## Early bird registration deadline: 2026/05/25. Details please see the [Registration Page](registration.md).
