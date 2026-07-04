@@ -4124,7 +4124,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.01",
-        "Chairs": "Ananya Jana, Alessa Hering",
+        "Chairs": "Alessa Hering, Yueming Jin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/avci26a/avci26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/avci26a.html"
     },
@@ -4141,7 +4141,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.02",
-        "Chairs": "Ananya Jana, Alessa Hering",
+        "Chairs": "Alessa Hering, Yueming Jin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/nizam26a/nizam26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/nizam26a.html"
     },
@@ -4158,7 +4158,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.03",
-        "Chairs": "Ananya Jana, Alessa Hering",
+        "Chairs": "Alessa Hering, Yueming Jin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/posada26a/posada26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/posada26a.html"
     },
@@ -4175,7 +4175,7 @@
         "Time": "Day 3 — 9:00am-10:15am",
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - O.04",
-        "Chairs": "Ananya Jana, Alessa Hering",
+        "Chairs": "Alessa Hering, Yueming Jin",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kartika26a/kartika26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kartika26a.html"
     },
@@ -4194,7 +4194,7 @@
         "Poster ID": "Poster 3.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhu26a/zhu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 194,
@@ -4211,7 +4211,7 @@
         "Poster ID": "Poster 3.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26g/li26g.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/li26g.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 219,
@@ -4228,7 +4228,7 @@
         "Poster ID": "Poster 3.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26a/zheng26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 232,
@@ -4245,7 +4245,7 @@
         "Poster ID": "Poster 3.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/atici26a/atici26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/atici26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 28,
@@ -4262,7 +4262,7 @@
         "Poster ID": "Poster 3.A - O.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/avci26a/avci26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/avci26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 133,
@@ -4279,7 +4279,7 @@
         "Poster ID": "Poster 3.A - O.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/nizam26a/nizam26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/nizam26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 244,
@@ -4296,7 +4296,7 @@
         "Poster ID": "Poster 3.A - O.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/posada26a/posada26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/posada26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 300,
@@ -4313,7 +4313,7 @@
         "Poster ID": "Poster 3.A - O.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/kartika26a/kartika26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/kartika26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 42,
@@ -4330,7 +4330,7 @@
         "Poster ID": "Poster 3.A - SP.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhu26a/zhu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 194,
@@ -4347,7 +4347,7 @@
         "Poster ID": "Poster 3.A - SP.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26g/li26g.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/li26g.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 219,
@@ -4364,7 +4364,7 @@
         "Poster ID": "Poster 3.A - SP.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zheng26a/zheng26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zheng26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 232,
@@ -4381,7 +4381,7 @@
         "Poster ID": "Poster 3.A - SP.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/atici26a/atici26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/atici26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 41,
@@ -4398,7 +4398,7 @@
         "Poster ID": "Poster 3.A - P.01",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/liu26a/liu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/liu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 46,
@@ -4415,7 +4415,7 @@
         "Poster ID": "Poster 3.A - P.02",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lin26a/lin26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/lin26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 231,
@@ -4432,7 +4432,7 @@
         "Poster ID": "Poster 3.A - P.03",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/koser26a/koser26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/koser26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 223,
@@ -4449,7 +4449,7 @@
         "Poster ID": "Poster 3.A - P.04",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/qu26a/qu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/qu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 335,
@@ -4466,7 +4466,7 @@
         "Poster ID": "Poster 3.A - P.05",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shahid26a/shahid26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/shahid26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 340,
@@ -4483,7 +4483,7 @@
         "Poster ID": "Poster 3.A - P.06",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/abouyoussef26a/abouyoussef26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/abouyoussef26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 179,
@@ -4500,7 +4500,7 @@
         "Poster ID": "Poster 3.A - P.07",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/arvapalli26a/arvapalli26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/arvapalli26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 9,
@@ -4517,7 +4517,7 @@
         "Poster ID": "Poster 3.A - P.08",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ochs26a/ochs26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/ochs26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 131,
@@ -4534,7 +4534,7 @@
         "Poster ID": "Poster 3.A - P.09",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/li26f/li26f.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/li26f.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 137,
@@ -4551,7 +4551,7 @@
         "Poster ID": "Poster 3.A - P.10",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ji26a/ji26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/ji26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 254,
@@ -4568,7 +4568,7 @@
         "Poster ID": "Poster 3.A - P.11",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/soraki26a/soraki26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/soraki26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 240,
@@ -4585,7 +4585,7 @@
         "Poster ID": "Poster 3.A - P.12",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lin26b/lin26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/lin26b.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 142,
@@ -4602,7 +4602,7 @@
         "Poster ID": "Poster 3.A - P.13",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/shakya26a/shakya26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/shakya26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 14,
@@ -4619,7 +4619,7 @@
         "Poster ID": "Poster 3.A - P.14",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/peng26a/peng26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/peng26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 170,
@@ -4636,7 +4636,7 @@
         "Poster ID": "Poster 3.A - P.16",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/tastan26a/tastan26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/tastan26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 374,
@@ -4653,7 +4653,7 @@
         "Poster ID": "Poster 3.A - P.17",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/huang26b/huang26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/huang26b.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 217,
@@ -4670,7 +4670,7 @@
         "Poster ID": "Poster 3.A - P.18",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mahmoud26a/mahmoud26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/mahmoud26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 55,
@@ -4687,7 +4687,7 @@
         "Poster ID": "Poster 3.A - P.19",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/mgboh26a/mgboh26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/mgboh26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 10,
@@ -4704,7 +4704,7 @@
         "Poster ID": "Poster 3.A - P.20",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/chen26c/chen26c.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/chen26c.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 124,
@@ -4721,7 +4721,7 @@
         "Poster ID": "Poster 3.A - P.21",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/jiang26a/jiang26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/jiang26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 172,
@@ -4738,7 +4738,7 @@
         "Poster ID": "Poster 3.A - P.22",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/dutta26a/dutta26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/dutta26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 136,
@@ -4755,7 +4755,7 @@
         "Poster ID": "Poster 3.A - P.23",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/ben-haddou26a/ben-haddou26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/ben-haddou26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 391,
@@ -4772,7 +4772,7 @@
         "Poster ID": "Poster 3.A - P.24",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/singh26b/singh26b.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/singh26b.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 258,
@@ -4789,7 +4789,7 @@
         "Poster ID": "Poster 3.A - P.25",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/zhuang26a/zhuang26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/zhuang26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 11,
@@ -4806,7 +4806,7 @@
         "Poster ID": "Poster 3.A - P.26",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/wu26a/wu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/wu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 225,
@@ -4823,7 +4823,7 @@
         "Poster ID": "Poster 3.A - P.27",
         "pdf": "https://raw.githubusercontent.com/mlresearch/v315/main/assets/lu26a/lu26a.pdf",
         "proceedings": "https://proceedings.mlr.press/v315/lu26a.html",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 18,
@@ -4839,7 +4839,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.01",
         "pdf": "https://openreview.net/pdf?id=6vPIH10xE0",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 29,
@@ -4855,7 +4855,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.02",
         "pdf": "https://openreview.net/pdf?id=EwvL2VAp2b",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 33,
@@ -4871,7 +4871,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.03",
         "pdf": "https://openreview.net/pdf?id=thciUz1oP5",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 58,
@@ -4887,7 +4887,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.04",
         "pdf": "https://openreview.net/pdf?id=AiuJ6MQt0Q",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 62,
@@ -4903,7 +4903,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.05",
         "pdf": "https://openreview.net/pdf?id=A2VXv9QgRo",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 64,
@@ -4919,7 +4919,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.06",
         "pdf": "https://openreview.net/pdf?id=OIjw0dFD3r",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 73,
@@ -4935,7 +4935,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.08",
         "pdf": "https://openreview.net/pdf?id=bCj0lAsJDD",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 90,
@@ -4951,7 +4951,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.09",
         "pdf": "https://openreview.net/pdf?id=RKIFxOMZMd",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 92,
@@ -4967,7 +4967,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.10",
         "pdf": "https://openreview.net/pdf?id=Hui8S4f6oT",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 96,
@@ -4983,7 +4983,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.11",
         "pdf": "https://openreview.net/pdf?id=qjjNaWuu3T",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 103,
@@ -4999,7 +4999,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.12",
         "pdf": "https://openreview.net/pdf?id=YWDQpIgWFK",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 108,
@@ -5015,7 +5015,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.13",
         "pdf": "https://openreview.net/pdf?id=bW5oerBwg8",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 128,
@@ -5031,7 +5031,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.15",
         "pdf": "https://openreview.net/pdf?id=LiG7b7fiKk",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 35,
@@ -5047,7 +5047,7 @@
         "Poster time": "Day 3 — 11:00am-12:30pm",
         "Poster ID": "Poster 3.A - S.16",
         "pdf": "https://openreview.net/pdf?id=42yNhuBQQf",
-        "Chairs": "Ananya Jana, Alessa Hering"
+        "Chairs": "Alessa Hering, Yueming Jin"
     },
     {
         "number": 16,
