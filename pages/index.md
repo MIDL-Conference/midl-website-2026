@@ -21,14 +21,14 @@ page_class: home
 </p> 
 
 ## Livestream links
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <p class="button">
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+  <p class="button" style="margin: 0;">
     <a href="https://youtube.com/live/kXXQ5yVJcTI?feature=share" target="_blank">Day 1 Livestream</a>
   </p>
-  <p class="button">
+  <p class="button" style="margin: 0;">
     <a href="https://youtube.com/live/wY5OvMUm8Cg?feature=share" target="_blank">Day 2 Livestream</a>
   </p>
-  <p class="button">
+  <p class="button" style="margin: 0;">
     <a href="https://youtube.com/live/X3sUleDgGPc?feature=share" target="_blank">Day 3 Livestream</a>
   </p>
 </div>
