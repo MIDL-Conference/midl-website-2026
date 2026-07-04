@@ -20,6 +20,17 @@ page_class: home
   <a href="https://2026.midl.io/scientific-program" target="_blank">Scientific Program</a>
 </p> 
 
+## Livestream links
+<p class="button">
+  <a href="https://youtube.com/live/kXXQ5yVJcTI?feature=share" target="_blank">Day 1 Livestream</a>
+</p>
+<p class="button">
+  <a href="https://youtube.com/live/wY5OvMUm8Cg?feature=share" target="_blank">Day 2 Livestream</a>
+</p>
+<p class="button">
+  <a href="https://youtube.com/live/X3sUleDgGPc?feature=share" target="_blank">Day 3 Livestream</a>
+</p>
+
 
 ## Early bird registration deadline: 2026/05/25. Details please see the [Registration Page](registration.md).
 <b><span style="color:red">We recommend paying the registration fee directly in New Taiwan Dollars (NTD). </span></b> Payments made in currencies other than NTD may incur additional processing and currency conversion fees.
