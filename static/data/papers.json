@@ -1900,6 +1900,22 @@
         "Chairs": "Attila Simko, Mattias Heinrich"
     },
     {
+        "number": 74,
+        "UID": "S-74",
+        "forum": "https://openreview.net/forum?id=FKaZpmVd4W",
+        "Track": "Short paper",
+        "title": "Fine-tuning a Foundation Model for Fetal Orientation Prediction From Blind-Sweep Ultrasound Videos",
+        "abstract": "Previous work on determining fetal orientation from blind ultrasound sweeps has relied on anatomical heuristics, specifically fetal head detection and segmentation. However, clinical validation reveals that this approach is not robust, frequently failing when the head is malpositioned. To address this, we propose a temporally-aware framework that leverages a foundation model to encode video frames into a 768-dimensional embedding space, followed by an ensemble of 1D-convolutional classification heads to predict fetal orientation directly.",
+        "authors": "Chun Kit Wong, Mary Le Ngo, Jakob Ambsdorf, Anders Nymark Christensen, Mads Nielsen, Martin Grønnebæk Tolsgaard, Aasa Feragen",
+        "Session": "Poster 1.B: Representation Learning, Foundation Models, and Self-Supervised / Domain Adaptation Methods",
+        "Final Decision": "Poster",
+        "Time": "Day 1 — 3:30pm-5:00pm",
+        "Poster time": "Day 1 — 3:30pm-5:00pm",
+        "Poster ID": "Poster 1.B - S.09",
+        "pdf": "https://openreview.net/pdf?id=FKaZpmVd4W",
+        "Chairs": "Attila Simko, Mattias Heinrich"
+    },
+    {
         "number": 107,
         "UID": "S-107",
         "forum": "https://openreview.net/forum?id=OaD4OU3SO3",
